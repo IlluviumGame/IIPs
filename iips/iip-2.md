@@ -29,7 +29,7 @@ A Balancer Liquidity Bootstrapping Pool is designed to allow DeFi protocols to a
 5. Configurable Values
 -->
 * **Starting weights:** 96:4
-* **End weights:** 60:40
+* **End weights:** 50:50
 * **Duration:** 72 hours
 * **Token Supply:** 1 million
 
