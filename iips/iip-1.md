@@ -168,7 +168,7 @@ See [the revision history for further details](https://github.com/IlluviumGame/)
 
 ### Bibliography
 
-[the Illuvium Discord]: https://discord.gg/a2E6uxk
+[the Illuvium Discord]: https://discord.gg/DrDfmwuBrU
 [pull request]: https://github.com/IlluviumGame/IIPs/pulls
 [markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [Bitcoin's BIP-0001]: https://github.com/bitcoin/bips
