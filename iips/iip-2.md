@@ -1,7 +1,7 @@
 ---
 iip: 2
 title: Illuvium Balancer Liquidity Bootstrapping Pool
-status: WIP
+status: Proposed
 author: Kieran Warwick (kieran@illuvium.io)
 discussions-to: https://discord.gg/DrDfmwuBrU
 created: 2021-03-22
