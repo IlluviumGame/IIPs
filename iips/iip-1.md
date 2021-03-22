@@ -130,15 +130,8 @@ IIPs may include auxiliary files such as diagrams. Such files must be named IIP-
 
 The current IIP editors are
 
-` * Kain Warwick (@kaiynne)`
-
-` * Justin Moses (@justinjmoses)`
-
-` * Clinton Ennis (@clints)`
-
-` * Andy CF (@andytcf)`
-
-` * Kaleb (@kaleb-keny)`
+` * Pedro Bergamini (@pedrobergamini)`
+` * Basil Gorin (@vgorin)`
 
 ## IIP Editor Responsibilities
 
