@@ -13,25 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ethereum Improvement Proposals
+title: Illuvium Improvement Proposals
 description: >-
-  Ethereum Improvement Proposals (EIPs) describe standards for the Ethereum
+  Ethereum Improvement Proposals (IIPs) describe standards for the Ethereum
   platform, including core protocol specifications, client APIs, and contract
   standards.
-url: "https://eips.ethereum.org"
-twitter_username: ethereum
-github_username:  ethereum
+url: "https://iips.ethereum.org"
+twitter_username: illuviumio
+github_username:  IlluviumGame
 header_pages:
- - all.html
- - core.html
- - networking.html
- - interface.html
- - erc.html
- - meta.html
- - informational.html
+ - all-iip.html
+ - all-iccp.html
+
 twitter:
   card: summary
-  username: ethereum
+  username: illuviumio
 
 # Build settings
 highlighter: rouge
@@ -39,7 +35,7 @@ markdown: kramdown
 theme: minima
 kramdown:
   parse_block_html: false
-  # This is the default, but be explicit as some EIPs depend on it
+  # This is the default, but be explicit as some IIPs depend on it
   auto_ids: true
   # This is to ensure more determistic behaviour
   auto_id_stripping: true
@@ -50,12 +46,16 @@ permalink: /:slug
 defaults:
   -
     scope:
-      path: "EIPS"
+      path: "iips"
     values:
-      layout: "eip"
+      layout: "iip"
+  -
+    scope:
+      path: "iccps"
+    values:
+      layout: "iccp"      
 
 exclude:
-  - .github
   - Gemfile
   - Gemfile.lock
   - node_modules
@@ -63,7 +63,5 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - eip-template.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
-  - README.md
+  - iccp-x.md
+  - iip-X.md
