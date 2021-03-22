@@ -2,9 +2,9 @@
 iip: 1
 title: IIP Purpose and Guidelines
 status: Implemented
-author: Kain Warwick (@kaiynne)
+author: Pedro Bergamini (@pedrobergamini)
 discussions-to: <URL>
-created: 2019-06-10
+created: 2021-03-22
 updated: N/A
 ---
 
