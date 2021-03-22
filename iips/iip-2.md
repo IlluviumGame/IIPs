@@ -28,14 +28,14 @@ A Balancer Liquidity Bootstrapping Pool is designed to allow DeFi protocols to a
 4. Test Cases
 5. Configurable Values
 -->
-`Starting weights:` 96:4
-`End weights:` 60:40
-`Duration:` 72 hours
-`Token Supply:` 1 million
+* **Starting weights:** 96:4
+* **End weights:** 60:40
+* **Duration:** 72 hours
+* **Token Supply:** 1 million
 
-`Token Contract Address:` 0x767fe9edc9e0df98e07454847909b5e959d7ca0e
-`Token Symbol:` ILV
-`Decimals of Precision:` 18
+* **Token Contract Address:** 0x767fe9edc9e0df98e07454847909b5e959d7ca0e
+* **Token Symbol:** ILV
+* **Decimals of Precision:** 18
 
 
 ### Overview
@@ -52,7 +52,7 @@ At the end of the IDO, the US dollar value of all purchases converts to points a
 
 ### Rationale
 <!--This is where you explain the reasoning behind how you propose to solve the problem. Why did you propose to implement the change in this way, what were the considerations and trade-offs. The rationale fleshes out what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.-->
-This will be the public’s first chance to acquire ILV outside of the two Discord Airdrops. Balancer was chosen because it is the fairest way to distribute the tokens, which has been proven with many projects. Other options would be to use 50/50 AMMs like Uniswap and Sushiswap, which would require more liquidity to be added, so removing flexibility, and are not as suited for decentralized initial offerings as Balancer Smart Pools.
+This will be the public’s first chance to acquire ILV outside of the two Discord Airdrops. Balancer was chosen because it is the fairest way to distribute the tokens, which has been proven with many projects. Other options would be to use 50/50 AMMs like Uniswap and Sushiswap, which would require more liquidity to be added, and are not as suited for decentralized initial offerings as Balancer Smart Pools.
 
 
 
