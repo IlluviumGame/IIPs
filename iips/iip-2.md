@@ -31,6 +31,7 @@ A Balancer Liquidity Bootstrapping Pool is designed to allow DeFi protocols to a
 * **Starting weights:** 96:4
 * **End weights:** 50:50
 * **Pair:** ETH/ILV
+* **Starting Price:** 100$ (in ETH)
 * **Duration:** 72 hours
 * **Token Supply:** 1 million
 
