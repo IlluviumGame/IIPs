@@ -1,7 +1,7 @@
 ---
 iip: 3
 title: Changes to Illuvium Balancer Liquidity Bootstrapping Pool
-status: WIP
+status: Proposed
 author: Delphi Digital (team@delphidigital.io)
 discussions-to: https://discord.gg/DrDfmwuBrU
 created: 2021-03-27
