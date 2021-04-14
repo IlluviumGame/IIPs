@@ -20,9 +20,9 @@ Automatically place all locked tokens into a newly created ILV pool with a weigh
 ## Overview
 
 ### Yield Farming - 3m ILV distributed over 3 years 
-Pool 1: Unlocked Tokens ILV pool Weight [0.2] - 20% of the total Yield Rewards during periods of no flash pools.
-Pool 2: Unlocked Tokens ILV/ETH pool Weight [0.8] - 80% of the total Yield Rewards during periods of no flash pools.
-Pool 3: Locked Tokens ILV pool Weight [0.0] - 0% of the total.
+* **Pool 1:** Unlocked Tokens ILV pool Weight [0.2] - 20% of the total Yield Rewards during periods of no flash pools.
+* **Pool 2:** Unlocked Tokens ILV/ETH pool Weight [0.8] - 80% of the total Yield Rewards during periods of no flash pools.
+* **Pool 3:** Locked Tokens ILV pool Weight [0.0] - 0% of the total.
  
 ### Revenue Distributions - 100%
 Unchanged. All pools (except flash pools) receive the same weighting for the purpose of Vault Distributions.
