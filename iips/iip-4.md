@@ -1,7 +1,7 @@
 ---
 iip: 4
 title: Removal of Locked Tokens from Yield Farming
-status: Proposed
+status: Implemented
 author: Kieran Warwick (kieran@illuvium.io)
 discussions-to: https://discord.gg/illuvium
 created: 2021-04-14
