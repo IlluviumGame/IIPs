@@ -1,6 +1,6 @@
 ---
 iip: 5
-title: 
+title: Introduce sILV double farming rewards in Sushi
 status: WIP
 author: Pedro Bergamini
 discussions-to: https://discord.gg/illuvium
