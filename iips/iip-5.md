@@ -16,13 +16,12 @@ It's important to note that this will have no impact on the treasuries ILV alloc
 
 ## Abstract 
 
-This IIP proposes the creation of the IlluviumRewarder contract and minting 50k sILV. The contract will be receiving the sILV to distribute over 90 days to sushi yield farmers, which can be used for purchasing NFTs in a unique collection that will be later available for converting to in-game collectibles.
-
+This IIP proposes the creation of the IlluviumRewarder contract and minting 50k sILV. The contract will be receiving the sILV to distribute over 90 days to sushi yield farmers. sILV is used as an in-game currency that will be able to be sent to ImmutableX layer 2 and spent for Illuvium NFTs. All in-game purchases are indexed to USD so a price conversion from sILV to USD (based on ILV) is used.
 ## Overview
 
-### NFTs
+### sILV
 
-NFTs used in this proposal will be able to be burned for in-game items, but won't affect the game balance. We will be deploying a new page at nfts.illuvium.io to allow users to swap their sILV for those NFTs.
+The Rewarder contract will be using sILV, which means the eDAO will mint 50k sILV for the double farming incentives, and later when we launch the IlluviDEX those will be able to be used for buying NFTs in the marketplace.
 
 ### Sushi Yield
 
