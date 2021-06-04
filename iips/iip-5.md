@@ -10,10 +10,13 @@ updated: N/A
 
 ## Simple Summary
 
-The Sushi team recently listed the ILV token in their MasterChef V1 contract, which made it possible for ILV-ETH SUSHI LP holders to stake their tokens and earn Sushi tokens APY. Sushi is now launching their MasterChefV2 contract, which makes many improvements in their Yield system and allows us to develop a Rewarder contract linked to our ILV-ETH MCV2 staking pool and distribute double farming rewards, similar to what [Alchemix](https://alchemixfi.medium.com/farming-with-added-benefits-5a2a10b49719). 
+The Sushi team recently listed the ILV token in their MasterChef V1 contract, making it possible for ILV-ETH SUSHI LP holders to stake their tokens and earn Sushi tokens APY. Sushi is now launching their MasterChefV2 contract, which makes many improvements in their Yield system and allows us to develop a Rewarder contract linked to our ILV-ETH MCV2 staking pool and distribute double farming rewards, similar to what [Alchemix](https://alchemixfi.medium.com/farming-with-added-benefits-5a2a10b49719) launched last week.
+
+It's important to note that this will have no impact on the treasuries ILV allocation. The left-over ILV from the BLP sale will be dealt with in a separate IIP to be discussed with the council later.
+
 ## Abstract 
 
-The IIP proposes the creation of the IlluviumRewarder contract and minting 50k sILV. The contract will be receiving the sILV to distribute over the period of 90 days to sushi yield farmers, which then can be used for purchasing NFTs in a special collection that will be later available for converting to in-game collectibles.
+This IIP proposes the creation of the IlluviumRewarder contract and minting 50k sILV. The contract will be receiving the sILV to distribute over 90 days to sushi yield farmers, which can be used for purchasing NFTs in a unique collection that will be later available for converting to in-game collectibles.
 
 ## Overview
 
