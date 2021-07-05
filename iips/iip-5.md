@@ -1,28 +1,32 @@
 ---
 iip: 5
-title: Introduce sILV double farming rewards in Sushi
+title: Staking Treasury Sushi LP 
 status: WIP
-author: Pedro Bergamini
+author: Kieran Warwick
 discussions-to: https://discord.gg/illuvium
-created: 2021-06-03
+created: 2021-07-05
 updated: N/A
 ---
 
 ## Simple Summary
 
-The Sushi team recently listed the ILV token in their MasterChef V1 contract, making it possible for ILV-ETH SUSHI LP holders to stake their tokens and earn Sushi tokens APY. Sushi is now launching their MasterChefV2 contract, which makes many improvements in their Yield system and allows us to develop a Rewarder contract linked to our ILV-ETH MCV2 staking pool and distribute double farming rewards, similar to what [Alchemix](https://alchemixfi.medium.com/farming-with-added-benefits-5a2a10b49719) launched last week.
-
-It's important to note that this will have no impact on the treasuries ILV allocation. The left-over ILV from the BLP sale will be dealt with in a separate IIP to be discussed with the council later.
+Begin staking the Illuvium Treasury’s Sushi LP tokens into the Sushi ILV/ETH pool.  
 
 ## Abstract 
 
-This IIP proposes the creation of the IlluviumRewarder contract and minting 25k sILV. The contract will be receiving the sILV to distribute over 90 days to sushi yield farmers. sILV is used as an in-game currency that will be able to be sent to ImmutableX layer 2 and spent for Illuvium NFTs. All in-game purchases are indexed to USD so a price conversion from sILV to USD (based on ILV) is used.
+Sushi Onsen pools are designed to incentivise liquidity providers with $SUSHI rewards, over and above the 0.25% they receive from trading fees. 
+
 ## Overview
 
-### sILV
+Illuvium staking has now launched and is offering the highest yield percentage for ILV holders. This has seen a large portion of LP’s move their SLP tokens, and as such there is an opportunity for the treasury to begin staking in the Sushi ETH/ILV pool. At the time of writing, the pool is offering 230 Sushi rewards per day. A separate IIP should outline what the treasury does with these $SUSHI rewards. A suggestion would be for giveaways and competitions within the Illuvium Discord. 
 
-The Rewarder contract will be using sILV, which means the eDAO will mint 25k sILV for the double farming incentives, and later when we launch, those will be able to be used for buying NFTs in the marketplace.
 
-### Sushi Yield
+### Rationale
 
-Double farmings will be available at https://app.sushi.com/yield, so current ILV/ETH liquidity providers in Sushi will be able to stake their LP tokens in the "Double Yield Farms" section to start earning SUSHI + sILV yield.
+It makes more sense for ILV holders to stake into Illuvium pools as the APY % in that pool is much higher. Because of this, the Illuvium treasury should capitalize on the potential rewards from the Sushi pool while ILV token holders stake into the Illuvium pool.
+
+There are many potential uses for these $SUSHI tokens, and the DAO should always be looking to find ways to benefit the token holders.
+
+### Test Cases
+
+N/A
