@@ -1,7 +1,7 @@
 ---
 iip: 5
 title: Staking Treasury Sushi LP 
-status: Proposed
+status: Implemented
 author: Kieran Warwick (kieran@illuvium.io)
 discussions-to: https://discord.gg/illuvium
 created: 2021-07-07
