@@ -1,7 +1,7 @@
 ---
 iip: 7
 title: Flash Pools V2
-status: Proposed
+status: Approved
 author: Kieran Warwick (kieran@illuvium.io)
 discussions-to: https://discord.gg/illuvium
 created: 2021-07-22
