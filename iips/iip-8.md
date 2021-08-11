@@ -9,7 +9,7 @@ updated: N/A
 ---
 
 ## Simple Summary
-The Illuvinati Council is being presented with six tokens to vote upon for the 4th flash pool, following AXS.
+The Illuvinati Council is being presented with four tokens to vote upon for the 4th flash pool, following AXS.
 
 ## Abstract 
 Once AXS flash pools has ended, create new ILV staking flash pool for the token voted in by the Council.
