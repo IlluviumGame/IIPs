@@ -4,7 +4,7 @@ title:  Council Vote for 4th Flash Pool
 status: WIP
 author: Kieran Warwick (kieran@illuvium.io)
 discussions-to: https://discord.gg/illuvium
-created: 2021-08-09
+created: 2021-08-10
 updated: N/A
 ---
 
