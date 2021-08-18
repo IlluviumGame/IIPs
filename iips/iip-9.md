@@ -1,7 +1,7 @@
 ---
 iip: 9
 title: Santiago RS#5914 for 5th Illuvinati Council Member
-status: Proposed
+status: Implemented
 author: Kieran Warwick (kieran@illuvium.io)
 discussions-to: https://discord.gg/illuvium
 created: 2021-08-09
