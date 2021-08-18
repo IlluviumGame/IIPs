@@ -1,7 +1,7 @@
 ---
 iip: 10
 title: Mini Game
-status: WIP
+status: Proposed
 author: Aaron Warwick (aaron@illuvium.io)
 discussions-to: https://discord.gg/illuvium
 created: 2021-08-11
