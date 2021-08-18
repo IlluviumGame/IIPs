@@ -20,10 +20,6 @@ But by studying them, and researching their fuel, you may be able to make use of
 
 
 ## Abstract 
-We implement Flash Pools using the existing V1 contract while Quantstamp audits
-Flash Pools V2. Once complete, token XYZ will be the first Flash Pool v2 deployed.
-
-## Overview
 Illuvium Zero launch will consist in a few development phases:
 
 ### Proof of Concept
@@ -55,6 +51,8 @@ Illuvium Zero launch will consist in a few development phases:
 Backend server to allow networked trading between real players
 
 Modify Illuvium game to use fuels generated from Illuvium Zero.
+
+## Overview
 
 ## Rationale
 <!-- TODO -->
