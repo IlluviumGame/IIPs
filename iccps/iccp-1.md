@@ -1,7 +1,7 @@
 ---
 iccp: 1
 title: Adjustment to Council Members Epoch Salary
-status: Proposed
+status: Rejected
 author: Santiago RS Santiago RS#5914
 discussions-to: https://discord.gg/illuvium
 created: 2021-09-07
