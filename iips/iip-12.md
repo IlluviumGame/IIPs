@@ -30,11 +30,15 @@ Accordingly, this proposal requires the Council to meet twice per month, at a mi
 
 The benefits of these new requirements include the following (among others):
 
-— Holding regular Council meetings, even in the absence of a pending proposal, will encourage the Council to discuss items of importance to the community and may spur the development of proposal submissions made by Council members.
-— The publishing of regular reports, and the publishing of statements by Council Members in advance of voting, will increase the community's understanding of each Council member's positions on proposals and Illuvium's trajectory. Increased transparency will increase the community's trust in the Council's decisions.
-— Making reports and other governance matters readily available in one website location will be helpful not just for the sake of posterity, but also for informing the community about each Council member's contributions, which will assist the community when voting for their leadership in Council elections.
-— Reports on Council deliberations may clarify the intent of proposals, should any ambiguities arise, and close community debate.
-— A dedicated Community Manager will streamline Council operations and minimize Council members' time spent on administrative duties, freeing them to focus on governance decisions and community discourse.
+* Holding regular Council meetings, even in the absence of a pending proposal, will encourage the Council to discuss items of importance to the community and may spur the development of proposal submissions made by Council members.
+
+* The publishing of regular reports, and the publishing of statements by Council Members in advance of voting, will increase the community's understanding of each Council member's positions on proposals and Illuvium's trajectory. Increased transparency will increase the community's trust in the Council's decisions.
+
+* Making reports and other governance matters readily available in one website location will be helpful not just for the sake of posterity, but also for informing the community about each Council member's contributions, which will assist the community when voting for their leadership in Council elections.
+
+* Reports on Council deliberations may clarify the intent of proposals, should any ambiguities arise, and close community debate.
+
+* A dedicated Community Manager will streamline Council operations and minimize Council members' time spent on administrative duties, freeing them to focus on governance decisions and community discourse.
 
 ## Requirements
 
