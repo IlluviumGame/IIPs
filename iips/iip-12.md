@@ -1,7 +1,7 @@
 ---
 iip: 12
 title: Illuvinati Council Improvements
-status: Proposed
+status: Implemented
 author: Nmnlol / Kieran
 discussions-to: https://discord.gg/illuvium
 created: 2021-09-21
