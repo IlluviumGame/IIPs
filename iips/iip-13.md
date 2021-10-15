@@ -42,10 +42,16 @@ available for purchase again, unless from another user on the IlluviDEX.
 TBD
 
 ### Base Illuvatar Pricing
+![Pricing](../assets/iip-13/illuvatar-price.png)
 
 ### Accessory Types
+* Head
+* Eyes
+* Body
+* Mouth
 
 ### Accessory Pricing
+![Pricing](../assets/iip-13/accessory-price.png)
 
 Both sILV and ETH can be used and the final price is subject to approval from the council
 before the sale date.
@@ -53,6 +59,12 @@ Illuvatars and accessories will be sold in the IlluviDEX and act as the first me
 these base layers can be bought.
 
 ### Bonding
+Once an accessory has been bonded to an Illuvatar it is permanent and can no longer be
+removed.
+
+### Badges
+Badges from the Balancer Sale can also be fitted to an Illuvatar, however, these are not
+bonded and can be removed at any time.
 
 ## Rationale
 Illuvatars is a fun way of giving players their own unique identity in the Illuvium Universe. The
