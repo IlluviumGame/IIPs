@@ -1,10 +1,10 @@
 ---
-iip: 12
-title: Illuvinati Council Improvements
-status: Implemented
-author: Nmnlol / Kieran
+iip: 13
+title: Illuvars
+status: WIP
+author: Kieran
 discussions-to: https://discord.gg/illuvium
-created: 2021-09-21
+created: 2021-10-15
 updated: N/A
 ---
 
