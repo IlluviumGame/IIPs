@@ -1,8 +1,8 @@
 ---
 iip: 13
-title: Illuvars
-status: WIP
-author: Kieran
+title: Illuvatars
+status: Proposed
+author: Kieran Warwick
 discussions-to: https://discord.gg/illuvium
 created: 2021-10-15
 updated: N/A
