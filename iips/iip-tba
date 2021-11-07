@@ -16,7 +16,7 @@ The Illuvinati Council is being presented with the option to add Yield Guild Gam
 Create a new ILV staking flash pool for the YGG token.
 
 ### Rationale
-As noted in IIP-11, flash pools have the ability to generate a number of new ILV token holders by onboarding individuals from strong communities.
+As noted in [IIP-11](https://github.com/IlluviumGame/IIPs/blob/master/iips/iip-11.md), flash pools have the ability to generate a number of new ILV token holders by onboarding individuals from strong communities.
 
 Yield Guild Games - and the YGG token - is a potent candidate for this because:
 * The YGG community consists entirely of those interested, or actively engaged in, gaming in the crypto space
