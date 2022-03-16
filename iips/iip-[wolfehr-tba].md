@@ -42,7 +42,7 @@ Elected by Core team
 
 Council Members serve for 3 epochs (exception for initial rollout as specified below) and can be reelected indefinitely.
 
-### Justification
+### Rationale
 
 There are a lot of voices and opinions in the Illuvium community. Expanding the number of seats allows for more of those voices and opinions to be represented. 
 
@@ -56,7 +56,7 @@ Content creators and guilds are key stakeholders in the Illuvium ecosystem. The 
 * Each epoch 2 of the Council members elected by the DAO will go up for election.
 * Every fourth epoch (e.g., 1, 4, 7), a Core team member election is also held
 
-### Justification
+### Rationale
 Staggering elections ensures the Council never loses too much institutional knowledge at one time. The stagger also allows Council Members to serve for 3 epochs, providing them more time to get integrated and have an impact.
 
 ## Multipreference Quadratic Voting (DAO elected seats only)
@@ -73,8 +73,7 @@ A DAO member has 100 ILV. Candidates A, B, C, and D are running. The DAO member 
 * Candidate A = 5 vILV; Candidate B = 5 vILV; Candidate C = 5 vILV; Candidate D = 5 vILV (5^2 * 4 = 100)
 * Candidate A = 8 vILV; Candidate B = 6 vILV (8^2 + 6^2 = 100)
 
-
-### Justification
+### Rationale
 This allows DAO members to better express their preferences for who should represent the DAO on the Council. Candidates that have wide support at the DAO but few first choice votes (e.g., everyone's second choice) have a chance at winning a seat.
 
 The Core team should have the freedome to determine how to elect their representative. They only hold one seat, so the DAO should be a sufficient check on their power.
@@ -91,7 +90,7 @@ Create an application that includes a set of standardized questions.The followin
 * What's your long-term vision for Illuvium?
 * Is there anything else you'd like the DAO to know about you?
 
-### Justification
+### Rationale
 Ensures DAO members have information about candidates that will help them make informed decisions. As the representative body of the DAO, the Council is accountable for ensuring the right questions are being asked of candidates. The DAO is a check to ensure the information the DAO wants is on the application.
 
 # Implementation
