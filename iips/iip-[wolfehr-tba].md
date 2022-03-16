@@ -45,7 +45,7 @@ Elected by Core team
 
 
 
-###Justification
+### Justification
 Content creators and guilds are key stakeholdes in the Illuvium ecosystem. The long term success of the DAO will bolstered by a close relationship with the people that interact with and use the products the DAO builds. 
 
 Meetings and decisions can get challening when there are more than 8 people [hrg.org article](https://hbr.org/2018/06/the-most-productive-meetings-have-fewer-than-8-people). You also need an odd number of voting seats to ensure votes don't end in a tie. That leads to the optimium number of voting seats to be at most seven, with room for an additional person in the coversation. The content creator and guild representatives both represent users so they were chosen to be compresed into one voting role, with the other role (i.e, content creator or guild representative) in the advisory role so they still have a voice. 
@@ -67,7 +67,7 @@ Meetings and decisions can get challening when there are more than 8 people [hrg
 
 A DAO member has 100 ILV. Candidates A, B, C, and D are running. The DAO member could case their votes as follows.
 
-|Candidate A|Candidate B|Candidate C|Candidate D|Vote Math
+|Candidate A|Candidate B|Candidate C|Candidate D|Vote Math|
 |---|---|---|---|
 |10|0|0|0|
 
