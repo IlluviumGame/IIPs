@@ -50,6 +50,8 @@ Meetings and decisions can get challenging when there are more than eight people
 
 Content creators and guilds are key stakeholders in the Illuvium ecosystem. The long-term success of the DAO will be bolstered by a close relationship with the people that interact with and use the products the DAO builds. So far, it seems those roles are adequately represented on the Council, and a specific provision to ensure their representation isn't necessary at this time.
 
+The core team has insights not available to the DAO and will be accountable for implementing many ideas that are approved by the Council. It's critical to ensure they have a voice on the council. Designating a seat for the core team also helps the community have a voice, since they would not being taking up a general seat.
+
 ## Staggered Elections
 * Council elections will be staggered over 3-month epochs.
 * Council members serve for 3 epochs
