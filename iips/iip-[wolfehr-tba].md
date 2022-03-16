@@ -16,7 +16,7 @@ Improve the Illuvium Council and Countil election process by
 * Expanding the Council to seven seats
 * Designate one seat to the Core team
 * Stagger elections
-* Introduce multiprefernce quadratic voting
+* Introduce multi-preference quadratic voting
 * Implement an application with standardized questions
 
 # Motivation
@@ -59,7 +59,7 @@ Content creators and guilds are key stakeholders in the Illuvium ecosystem. The 
 ### Rationale
 Staggering elections ensures the Council never loses too much institutional knowledge at one time. The stagger also allows Council Members to serve for 3 epochs, providing them more time to get integrated and have an impact.
 
-## Multipreference Quadratic Voting (DAO elected seats only)
+## Multi-preference Quadratic Voting (DAO elected seats only)
 * DAO members have votes equal to the ILV holdings in wallets they control.
 * DAO members can spread their vote over any number of candidates.
 * The votes given to a candidate when a DAO member allocates ILV to them will be equal to the square root of the number of ILV allocated. 
@@ -118,10 +118,10 @@ Epoch +5 and onward
 * The 2 DAO voted seats that have served three epochs.
 * A Core team member if the current member has served three epochs since last elected
 
-### Multipreference quadratic voting
+### Multi-preference Quadratic Voting
 The council will be accountable for implementing a voting method that meets the requirments in the multipreference quadratic voting section for the election for epoch +1. 
 
-### Standardized questions
+### Standardized Questions
 The Council will update the application to use the questions specified in the Standardized Questions section. Updates can be proposed by the Council and approved via a snapshot vote that uses quadratic voting.
 
 # Rationale
