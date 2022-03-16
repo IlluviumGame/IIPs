@@ -40,7 +40,7 @@ Elected by DAO
 Elected by Core team
 * 1 member of the core team
 
-Council Members serve for 3 epochs (exception for initial rollout as specified below) and can be reelected indefinitely. The core team is accountable for determing how to elect their representative. They do not need approval from the DAO on their method of electing a representative.
+Council Members serve for 3 epochs (exception for initial rollout as specified below) and can be reelected indefinitely.
 
 ### Justification
 
@@ -59,11 +59,11 @@ Content creators and guilds are key stakeholders in the Illuvium ecosystem. The 
 ### Justification
 Staggering elections ensures the Council never loses too much institutional knowledge at one time. The stagger also allows Council Members to serve for 3 epochs, providing them more time to get integrated and have an impact.
 
-## Multipreference Quadratic Voting
+## Multipreference Quadratic Voting (DAO elected seats only)
 * DAO members have votes equal to the ILV holdings in wallets they control.
 * DAO members can spread their vote over any number of candidates.
 * The votes given to a candidate when a DAO member allocates ILV to them will be equal to the square root of the number of ILV allocated. 
-* This only applies to seats voted on by the DAO. The core team can use any method they'd like to determine their representitive on the council.
+* The core team is accountable for determing how to elect their representative. They do not need approval from the DAO on their method of electing a representative.
 
 ### Example
 
@@ -72,6 +72,7 @@ A DAO member has 100 ILV. Candidates A, B, C, and D are running. The DAO member 
 * Candidate A = 10 vILV (10^2 = 100)
 * Candidate A = 5 vILV; Candidate B = 5 vILV; Candidate C = 5 vILV; Candidate D = 5 vILV (5^2 * 4 = 100)
 * Candidate A = 8 vILV; Candidate B = 6 vILV (8^2 + 6^2 = 100)
+
 
 ### Justification
 This allows DAO members to better express their preferences for who should represent the DAO on the Council. Candidates that have wide support at the DAO but few first choice votes (e.g., everyone's second choice) have a chance at winning a seat.
