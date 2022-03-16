@@ -2,7 +2,7 @@
 iip: tbd
 title: Illuvium Council and Council Election Improvements
 status: WIP
-author: Heath Wolfeld (@wolfehr)
+author: Heath Wolfeld (@wolfehr#3150) <wolfehr>
 discussions-to: tbd
 created: 2022/03/16
 updated: 2022/03/16
