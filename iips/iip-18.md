@@ -48,7 +48,7 @@ A Merkle Tree of each user’s accumulated yield weight in v1 will be published 
 
 - Locked ILV Yield - Counts to yield rewards after upgrading to v2 at the current weight.
 
-- Unlocked ILV Yield - N/A (Has not been 12 months since launch but will continue to count to yield rewards even after unlocked)
+- Unlocked ILV Yield - N/A (Has not been 12 months since launch but will continue to count to yield rewards even after unlocked).
 
 - Seed and Team - Automatically migrated to v2 and not counted towards yield.
 
@@ -98,7 +98,7 @@ Exception - If you only deposited into the LP pool in v1, then v2 deposits can b
 
 ## Rationale
 
-Staking v2 will be a big step for Illuvium DAO and bring many enhancements and fixes to the protocol collected since the v1 launch. With a lower gas cost, Illuvium DAO should have access to more users with a lower barrier to entry and a more straightforward user experience due to the flow changes and fixes. Contract upgradeability ensures that any future changes are swift and will empower the community with even more effective governance
+Staking v2 will be a big step for Illuvium DAO and bring many enhancements and fixes to the protocol collected since the v1 launch. With a lower gas cost, Illuvium DAO should have access to more users with a lower barrier to entry and a more straightforward user experience due to the flow changes and fixes. Contract upgradeability ensures that any future changes are swift and will empower the community with even more effective governance.
 
 ## Definitions
 
@@ -116,7 +116,7 @@ Staking v2 will be a big step for Illuvium DAO and bring many enhancements and f
 
 - **Migrate** - The process of taking an Unlocked Deposit in v1 and unstaking it, then restaking it v2 with the original weight.
 
-- **Withdraw** - Unstaking a Flexible or Unlocked Deposit (but not migrating it to v2)
+- **Withdraw** - Unstaking a Flexible or Unlocked Deposit (but not migrating it to v2).
 
 - **Pending Rewards** - The rewards that remained at the staking v1 end block when we paused rewards.
 
