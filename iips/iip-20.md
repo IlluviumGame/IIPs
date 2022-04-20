@@ -102,7 +102,8 @@ The land sale uses a declining price model, configured with a starting value tha
 | Starting Price for Tier 3 Land Plot in First Sale | 20 |
 | Starting Price for Tier 2 Land Plot in First Sale | 6 |
 | Starting Price for Tier 1 Land Plot in First Sale | 2 |
-[Image]
+
+![Percentage](../assets/iip-20/land-percentage-time.png)
 
 **Tier 5 Land Auction**
 
