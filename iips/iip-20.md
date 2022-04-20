@@ -11,7 +11,7 @@ updated: 2022-03-05
 ## Simple Summary
 
 Illuvium: Zero will soon be ready. Leading up to this, we must get approval
-on the details of the Land Sale. Following this IIP will be the release of two additional guide documents. One describes Illuvium:Zero and the other explains how to purchase land. While not explicitly required for this IIP, they will give much-needed context in an easily digestible way.
+on the details of the Land Sale. Following this IIP will be the release of two additional guide documents. One describes Illuvium: Zero and the other explains how to purchase land. While not explicitly required for this IIP, they will give much-needed context in an easily digestible way.
 
 ## Abstract
 
