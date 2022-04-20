@@ -21,7 +21,13 @@ A 3D isometric city building game is being developed using Unity and is getting 
 
 **Land Sale Timings**
 
-[Table]
+|                            |            |
+| -------------------------- | ---------- |
+| **Total Duration Of Sale** | Three days |
+| **Plot Sold Per Batch**    | 278 plots  |
+| **Batch Release Date**     | 1 per hour |
+| **Duration of Each Batch** | 2          |
+
 Practically, approximately 278 new plots will go on sale every hour. At this point, they will start reducing in price until someone purchases them.
 There is nothing needed to do for purchase besides selecting the plot and paying the price on display. If you wish to buy for a lower price, wait for
 it to drop, but remember that another person can purchase the same plot as you.
@@ -29,18 +35,37 @@ Since tranches are released every hour, there may be some overlap. One tranche w
 and the other will be brand new. Each batch will have roughly the same ratio of Tiers as the overall land numbers.
 
 **Land NFT Numbers**
-[Table]
+| | |
+| -------------------------- | ---------- |
+| **Total Land NFT plots** | 100000 |
+| **Total plots available in the first sale** | 20000\* |
+| **Tier 5 Land plots to be sold in the first sale** | 2 |
+| **Tier 4 Land plots to be sold in the first sale** | 869 |
+| **Tier 3 Land plots to be sold in the first sale** | 2088 |
+| **Tier 2 Land plots to be sold in the first sale** | 5012 |
+| **Tier 1 Land plots to be sold in the first sale** | 12029 |
+
 Illuvium will reserve 25 (Tier 1) plots for giveaways during the landsale event and 4 plots (1 of each Tier, excluding Tier 5) for
 live testing purposes and quality assurance.
 **Land NFT Details**
 Each plot of land will have limited details available before purchase as outlined below:
-[Table]
+
+|              |                                                                                                            |
+| ------------ | ---------------------------------------------------------------------------------------------------------- |
+| **Region**   | There are 7 regions in total. Region affects the probability of Illuvial affinity scanned.                 |
+| **Tier**     | There are 5 Tiers in total. Tier affects the number of element and fuel sites and the landmarks available. |
+| **Location** | Location is only relevant for future expansions where adjacent land may be able to be merged.              |
+
 Once purchased, the IMX will mint an NFT containing details of the land plot. We use a random seed to deterministically generate the site and landmark details that comprise the land plot.
 
 The deterministic function that generates these details will be stored in the immutable blockchain contract and can be used to verify that applications like the Illuvium: Zero game client or the IlluviDEX web application honour the land generation function defined in the contract.
 
 This function generates the following details:
-[Table]
+| | |
+|------------------- |------------------------------------------------------------------------------------------- |
+| **Element Sites** | An array of Element Sites containing details of each site's type and location. |
+| **Fuel Sites** | An array of Fuel Sites containing details of each site's type and location. |
+| **Landmark** | The type of any generated Landmark. Empty for those Tiers which do not include Landmarks. |
 
 **Number of Sites and Landmarks per Tier**
 
@@ -70,7 +95,13 @@ We feel the slight randomness adds an element of excitement to the sale.
 
 **Land NFT Pricing**
 The land sale uses a declining price model, configured with a starting value that declines at 2% per minute\* for two hours.
-[Table]
+| **Tier** | **Starting price in ETH** |
+|:-------------------------------------------------: |:-------------------------: |
+| Starting Price for Tier 5 Land Plot in First Sale | Live English Auction |
+| Starting Price for Tier 4 Land Plot in First Sale | 80 |
+| Starting Price for Tier 3 Land Plot in First Sale | 20 |
+| Starting Price for Tier 2 Land Plot in First Sale | 6 |
+| Starting Price for Tier 1 Land Plot in First Sale | 2 |
 [Image]
 
 **Tier 5 Land Auction**
