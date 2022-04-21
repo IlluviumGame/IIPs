@@ -94,7 +94,7 @@ There will be minor differences due to:
 We feel the slight randomness adds an element of excitement to the sale.
 
 **Land NFT Pricing**
-The land sale uses a declining price model, configured with a starting value that declines at 2% per minute\* for two hours.
+The land sale uses a declining price model, configured with a starting value that declines at 2.5% per minute\* for two hours.
 | **Tier** | **Starting price in ETH** |
 |:-------------------------------------------------: |:-------------------------: |
 | Starting Price for Tier 5 Land Plot in First Sale | Live English Auction |
