@@ -1,6 +1,6 @@
 ---
 iip: 21
-title: IIP-21 Illuvinati Council/ Governance Modifications.
+title: Illuvinati Council/ Governance Modifications.
 status: Proposed
 author: Kieran Warwick
 discussions-to: https://discord.gg/illuvium
