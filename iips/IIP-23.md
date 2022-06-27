@@ -1,10 +1,10 @@
 ---
 iip: 23
-title: Illuvatars
+title: Illuvium Forge
 status: Proposed
-author: Kieran Warwick
+author: Aaron Warwick & Pedro Bergamini (0xpedro.eth)
 discussions-to: https://discord.gg/illuvium
-created: 2021-10-15
+created: 2022-06-22
 updated: N/A
 ---
 
