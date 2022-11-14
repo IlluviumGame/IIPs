@@ -27,3 +27,6 @@ Making a change pre-emptively would ensure confidence in fairness of the voting 
 
 ## Downsides
 It's been identified that making this change would impact non-staked ILV holders who are interested in participating in elections. Making this change does cause any non-staking ILV holder to have no voting power in elections.
+
+## Implementation
+The team has indicated that implementing this change would take a minimal amount of effort, and would not significantly detract from other development.
