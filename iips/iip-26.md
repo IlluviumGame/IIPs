@@ -15,7 +15,7 @@ Change voting to allow only staked and vesting ILV/SLP tokens to vote in council
 It has always been possible for a bad actor to launch a Sybil attack with the way vILV calculations are done by transferring ILV to multiple wallets. 
 In the past week, there has been an anomalous uptick in the number of wallets holding ILV, which is consistent with what would be expected if an individual WERE planning to conduct a Sybil attack. 
 I propose that we change voting to allow only staked ILV tokens to vote, which would add an additional, substantial cost to anyone trying to conduct a Sybil attack, while leaving genuine voters unaffected.
-![Pricing](../assets/iip-26/Holder Chart.png)
+![Holders](../assets/iip-26/holder-chart.png)
 
 ## Motivation
 In a Sybil attack, an ILV holder with a sufficiently large amount of ILV (and funds to pay for transfers to new wallets), can split their stack of ILV between many wallets, thus increasing their total vILV power. 
