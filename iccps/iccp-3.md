@@ -49,4 +49,5 @@ Clearly defining revenue and expectations of Vault distributions prior to the st
   1) Enable revenue distributions in a sustainable manner to maintain long term operation of the DAO
   2) Uphold the commitment to quality in all products associated with Illuvium
   3) Ground $ILV staker expectations for revenue distributions
+
 With the definitions outlined above, it should be made clear to all current $ILV holders along with any potential future stakers how revenue is defined and will be distributed. 
