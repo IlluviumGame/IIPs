@@ -1,6 +1,12 @@
-ICCP - Defining Vault Revenue and Distribution for Future DAO product directions
-Updated January 20, 2023
-Author: Deraji
+---
+iccp: 2
+title: Defining Vault Revenue and Distribution for Future DAO Prouct Directions
+status: Pending
+author: Deraji (Deraji#0798)
+discussions-to: https://discord.gg/illuvium
+created: 2023-01-20
+updated: 2023-01-24
+---
 
 ## Simple Summary
 This ICCP clarifies the definition of how various future product directions utilize Vault distributions of revenue, accounting for variable and fixed cost revenue streams. 
