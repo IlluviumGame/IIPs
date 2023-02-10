@@ -5,12 +5,12 @@ status: Pending
 author: Illuvium Council (Collaborative)
 discussions-to: https://discord.gg/illuvium
 created: 2023-02-06
-updated: 2023-02-09
+updated: 2023-02-10
 ---
 
 ## Simple Summary:
 
-The Council is launching a new pricing strategy for its collection and album features, with reduced prices for standard and mega D1sks. Two new features, Alpha D1sks and Misprints and Launch Party Goals, will increase excitement and rarity. The Illuvium marketing team has requested D1sks for promotion to make Illuvitars a more sought-after product.
+The Council is launching a new pricing strategy for its collection and album features, with reduced prices for standard and mega D1sks. Three new features, Alpha D1sks and Misprints and Launch Party Goals, will increase excitement and rarity. The Illuvium marketing team has requested D1sks for promotion to make Illuvitars a more sought-after product.
 
 ## Overview:
 
@@ -24,11 +24,13 @@ Mega D1sks: 0.025 ETH
 Alpha Standard D1sks: 0.025 ETH (limited to 100,000)
 Alpha Mega D1sks: 0.125 ETH (limited to 20,000)
 
-Alpha disks are available for seven days from the start of the sale or until sold out.
+The contents of a Mega Disk will now include a guaranteed rare Illuvitar portrait, instead of a guaranteed rare item. This means the guaranteed rare can no longer be an accessory.
+
+Alpha disks are available for three days from the start of the sale or until sold out.
 
 ## Misprints: 
 
-Any Illuvitars not sold during the initial sale will be considered "Misprints" and exceptionally rare. These misprints will be auctioned off after Wave 1 of the sale.
+Any Illuvitar portraits not revealed in the first 3 months from the sale date will be considered "Misprints" and exceptionally rare. These misprints will be auctioned off after Wave 1 of the sale.
 
 ## Launch Party Goals: 
 The Illuvium Launch Party Goals have been created to keep customers engaged. The specific goals will be kept a mystery, but two examples are:
