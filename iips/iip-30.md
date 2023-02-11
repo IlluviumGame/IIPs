@@ -18,11 +18,11 @@ The Council has a new pricing strategy to make its collection and album features
 
 The proposed pricing structure is as follows:
 
-Standard D1sks: 0.005 ETH
-Mega D1sks: 0.025 ETH
+#### Standard D1sks: 0.005 ETH
+#### Mega D1sks: 0.025 ETH
 
-Alpha Standard D1sks: 0.025 ETH (limited to 100,000)
-Alpha Mega D1sks: 0.125 ETH (limited to 20,000)
+#### Alpha Standard D1sks: 0.025 ETH (limited to 100,000)
+#### Alpha Mega D1sks: 0.125 ETH (limited to 20,000)
 
 The contents of a Mega Disk will now include a guaranteed rare Illuvitar portrait, instead of a guaranteed rare item. This means the guaranteed rare can no longer be an accessory.
 
