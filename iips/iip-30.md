@@ -24,13 +24,13 @@ The proposed pricing structure is as follows:
 #### Alpha Standard D1sks: 0.025 ETH (limited to 100,000)
 #### Alpha Mega D1sks: 0.125 ETH (limited to 20,000)
 
-The contents of a Mega Disk will now include a guaranteed rare Illuvitar portrait, instead of a guaranteed rare item. This means the guaranteed rare can no longer be an accessory.
+The contents of a Mega Disk will now include a guaranteed rare Illuvitar, instead of a guaranteed rare item. This means the guaranteed rare can no longer be an accessory.
 
 Alpha disks are available for three days from the start of the sale or until sold out.
 
 ## Misprints: 
 
-Any Illuvitar portraits not revealed in the first 3 months from the sale date will be considered "Misprints" and exceptionally rare. These misprints will be auctioned off after Wave 1 of the sale.
+Any Illuvitars not revealed in the first 3 months from the sale date will be considered "Misprints" and exceptionally rare. These misprints will be auctioned off after Wave 1 of the sale.
 
 ## Launch Party Goals: 
 The Illuvium Launch Party Goals have been created to keep customers engaged. The specific goals will be kept a mystery, but two examples are:
