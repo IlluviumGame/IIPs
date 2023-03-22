@@ -16,4 +16,4 @@ The proposed new governance structure for Illuvium addresses issues such as lack
 
 
 ## Full Text:
-https://docs.google.com/document/d/1MvM40DUWwpVab7Y17gzyCPAnBOsLw2bsNUwcBAA7KSQ/edit?usp=sharing
+(https://github.com/Blickter/IIPs/blob/master/assets/iip-32/Governance%20Version%202%20(V1.0).pdf)
