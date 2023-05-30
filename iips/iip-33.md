@@ -17,11 +17,14 @@ The primary objective of this proposal is to implement a trading blackout period
 
 ## Framework:
 
-#### Definition of Events: A broad but clear and comprehensive definition of major events, announcements, launches, and other significant activities that may influence token and NFT prices will be established. This will ensure a common understanding of the events covered by the trading blackout.
+#### Definition of Events: 
+A broad but clear and comprehensive definition of major events, announcements, launches, and other significant activities that may influence token and NFT prices will be established. This will ensure a common understanding of the events covered by the trading blackout.
 
-#### Communication and Notification: An internal discord channel will be established to notify DAO council members and Labs team members about upcoming events that trigger the trading blackout. The timing of the blackout should not be shared to the public to prevent front-running and protect confidential information. Communication of the blackout notification is covered by a NDA.
+#### Communication and Notification: 
+An internal discord channel will be established to notify DAO council members and Labs team members about upcoming events that trigger the trading blackout. The timing of the blackout should not be shared to the public to prevent front-running and protect confidential information. Communication of the blackout notification is covered by a NDA.
 
-#### Duration of the Blackout: The trading blackout period will be set at three (3) calendar days preceding the identified events. This duration allows sufficient time for information dissemination and prevents the potential misuse of insider knowledge. A shorter or longer duration may be applied depending on the circumstances surrounding the confidential information and its possible effect on the DAO’s assets as may be deemed by the Illuvium Main Council.
+#### Duration of the Blackout: 
+The trading blackout period will be set at three (3) calendar days preceding the identified events. This duration allows sufficient time for information dissemination and prevents the potential misuse of insider knowledge. A shorter or longer duration may be applied depending on the circumstances surrounding the confidential information and its possible effect on the DAO’s assets as may be deemed by the Illuvium Main Council.
 
 
 ## Rationale:
