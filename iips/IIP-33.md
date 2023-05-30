@@ -1,11 +1,11 @@
 ---
-iip: 32
-title: Governance Version 2
+iip: 33
+title: Trading Blackout
 status: Pending
-author: Illuvinati Council
+author: Scrubadubdad#0001
 discussions-to: https://discord.gg/illuvium
-created: 2022-08-01
-updated: 2023-03-16
+created: 2023-05-24
+updated: 2023-05-24
 ---
 
 ## Simple Summary:
