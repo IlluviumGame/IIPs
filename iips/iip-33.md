@@ -38,4 +38,4 @@ In light of public scrutiny and regulatory requirements, implementing a trading 
 
 ## Test Cases:
 
-Web 2.0 Publicly Listed Corporations. Ex-OpenSea manager convicted in NFT insider trading: https://www.reuters.com/legal/ex-opensea-manager-convicted-nft-insider-trading-case-2023-05-03/. Former Coinbase Insider Sentenced In First Ever Cryptocurrency Insider Trading Case https://www.justice.gov/usao-sdny/pr/former-coinbase-insider-sentenced-first-ever-cryptocurrency-insider-trading-case
+Web 2.0 Publicly Listed Corporations. Ex-OpenSea manager convicted in NFT insider trading: [link](https://www.reuters.com/legal/ex-opensea-manager-convicted-nft-insider-trading-case-2023-05-03/). Former Coinbase Insider Sentenced In First Ever Cryptocurrency Insider Trading Case [link](https://www.justice.gov/usao-sdny/pr/former-coinbase-insider-sentenced-first-ever-cryptocurrency-insider-trading-case)
