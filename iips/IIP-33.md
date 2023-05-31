@@ -28,11 +28,11 @@ The primary objective of this proposal is to implement a trading blackout period
 
 ## Rationale:
 
-Enhanced Transparency: Implementing a trading blackout period demonstrates the DAO's commitment to transparency and equal access to information. It promotes trust among community members by ensuring that trading decisions are not influenced by insider knowledge or unfair advantages.
+**Enhanced Transparency:** Implementing a trading blackout period demonstrates the DAO's commitment to transparency and equal access to information. It promotes trust among community members by ensuring that trading decisions are not influenced by insider knowledge or unfair advantages.
 
-Prevention of Market Manipulation: The trading blackout mitigates the risk of market manipulation by preventing council members and team members from capitalizing on confidential information that could impact token and NFT prices. This protects the integrity of the market and fosters a level playing field for all participants.
+**Prevention of Market Manipulation:** The trading blackout mitigates the risk of market manipulation by preventing council members and team members from capitalizing on confidential information that could impact token and NFT prices. This protects the integrity of the market and fosters a level playing field for all participants.
 
-Compliance with Current or Future Regulatory Requirements: By implementing a trading blackout, the DAO aligns with existing regulatory frameworks and insider trading regulations, reducing the risk of legal consequences. This adherence to regulatory requirements enhances the DAO's reputation and minimizes reputational and financial risks.
+**Compliance with Current or Future Regulatory Requirements:** By implementing a trading blackout, the DAO aligns with existing regulatory frameworks and insider trading regulations, reducing the risk of legal consequences. This adherence to regulatory requirements enhances the DAO's reputation and minimizes reputational and financial risks.
 
 ## Conclusion:
 
