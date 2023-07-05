@@ -38,13 +38,13 @@ If the IMC majority votes “Rejected”, the proposal will be considered Reject
 Tiebreakers will always flow back to be revised if there are edits remaining.
 
 5.) Timelines: In an effort to make the proposal process more clear to the DAO, timelines will be established for each stage. Snapshot votes should start promptly when the prior stage is concluded: 
-Governance Forum Stage: 14 days to gather 25 Upvotes
+Governance Forum Stage: 21 days to gather 25 Upvotes
 Community Sub Council Vote: 3 days(Edits can/should be planned during the Governance Forum Stage)
 Specialized Sub Council Vote: 3 days
 Sponsor Review Stage: 3 days 
 Illuvinati Main Council Vote: 3 days
 A stage can be expedited based on the following conditions:
-Stage 1: Reaching the 25 upvotes before the 14 days will activate the 3 day vote window on snapshot for Stage 2.
+Stage 1: Reaching the 25 upvotes before the 21 days will activate the 3 day vote window on snapshot for Stage 2.
 Voting: Once all sub-council members have cast a vote, the proposal will move to the next stage.
 Stage 4: As soon as the Sponsor states their official response the next stage will start.
 
