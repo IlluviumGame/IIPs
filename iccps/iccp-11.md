@@ -42,7 +42,7 @@ The final change to pricing is the relative multiplier for Alpha D1SK prices. Al
 
 
 
-![Table2](../assets/iccp-11/table1.png)
+![Table2](../assets/iccp-11/table2.png)
 
 
 ## Marketing D1SKS 
