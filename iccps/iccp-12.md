@@ -1,5 +1,5 @@
 ---
-iccp: 11
+iccp: 12
 title: Illuvitars Wave 2 Sale Parameters
 status: Pending
 sponsor: Blickter#8107
