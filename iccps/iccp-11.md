@@ -22,7 +22,7 @@ This proposal aims to enhance the sale mechanics, pricing, and drop rates of Ill
 #### Tier Weight Adjustments
 To provide a more diverse D1SK opening experience, tier weights for tier 1 will be decreased, while tiers 2-5 will be increased. This adjustment increases the variety of Illuvitar portraits that an average player will reveal, with the intent of mitigating the negative experience of pulling the same low Tier portraits too frequently. Tier weights do need to vary slightly from Wave to Wave to account for the quantity of Illuvials of a given Tier and Stage in the Wave. These weighting adjustments will be communicated prior to each Wave.
 
-![Table 1](../assets/iccp-11/Table 1.jpg)
+![Table1](../assets/iccp-11/Table 1.jpg)
 
 #### Alpha Sale
 The Alpha Sale will be a 24 hour event at the start of Waves, with an unlimited supply of Alpha D1SKS. Alpha D1SKS remain a luxury item with no additional power in the Beyond Album, but are priced more moderately than in Wave 1, with a shorter sales window to ensure that anyone who wants to participate in launch events can do so. A shorter Alpha window also means that Marketing efforts can be primarily focused on the start of the Wave.
@@ -42,7 +42,7 @@ The final change to pricing is the relative multiplier for Alpha D1SK prices. Al
 
 
 
-![Table 1](../assets/iccp-11/Table 2.jpg)
+![Table2](../assets/iccp-11/Table 2.jpg)
 
 
 ## Marketing D1SKS 
