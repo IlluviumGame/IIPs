@@ -36,7 +36,7 @@ To provide a more diverse D1SK opening experience, tier weights for tier 1 will 
 #### Alpha Sale
 The Alpha Sale will be a 24 hour event at the start of Waves, with an unlimited supply of Alpha D1SKS. Alpha D1SKS remain a luxury item with no additional power in the Beyond Album, but are priced more moderately than in Wave 1, with a shorter sales window to ensure that anyone who wants to participate in launch events can do so. A shorter Alpha window also means that Marketing efforts can be primarily focused on the start of the Wave.
 
-## Mega-D1SK Power Threshold
+#### Mega-D1SK Power Threshold
 The modification to tier weights alters the outcomes of a 1250 Mega D1SK power threshold, and increases the relative value of Standard D1SKS. To account for these changes, this proposal increases the Mega D1SK power threshold to 1350, which will ensure that the guaranteed power Illuvitar remains a competitive and compelling option for collectors.
 
 ## In-game Unlocks
