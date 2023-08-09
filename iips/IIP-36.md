@@ -1,6 +1,6 @@
 ---
 iip: 36
-title: Affiliate Marketing for Illuvium Beyond:
+title: Affiliate Marketing for Illuvium Beyond
 status: Pending
 author: Tarren Illuvium
 discussions-to: https://discord.gg/illuvium
