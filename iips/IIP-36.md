@@ -2,7 +2,7 @@
 iip: 36
 title: Affiliate Marketing for Illuvium Beyond
 status: Pending
-author: TSG#9794
+author: scoriox
 discussions-to: https://discord.gg/illuvium
 created: 2023-08-09
 updated: 2023-08-09
@@ -41,3 +41,7 @@ The team is diligently developing a game poised to excel within the realm of Web
 ## Test Cases:
 
 N/A
+
+## Sponsor
+
+Tarren | Illuvium
