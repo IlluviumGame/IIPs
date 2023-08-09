@@ -5,7 +5,6 @@ status: Pending
 author: scoriox
 discussions-to: https://discord.gg/illuvium
 created: 2023-08-09
-updated: 2023-08-09
 ---
 
 ## Simple Summary:
