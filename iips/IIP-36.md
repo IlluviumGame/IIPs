@@ -23,7 +23,7 @@ Once the ETH surpasses a specific threshold, we will transfer the funds to layer
 
 If an affiliate partner violates the Terms and Conditions accessible on Illuvium.io we will terminate their link..
 
-When considering revenue distribution, we will classify the portion assigned to the affiliate partner as marketing costs and exclude its distribution to stakeholders. ICC-P3 covers this system, incorporating the following statement: 'Commission and affiliate marketing products will also follow the relevant distribution strategy, with revenue reduced by associated costs'. - https://snapshot.org/#/ilvgov.eth/proposal/0x245e440c3b517a0b7a7ff11c2c038cfd96c503ab9cbf3e593bd8d7c73cd07fae
+When considering revenue distribution, we will classify the portion assigned to the affiliate partner as marketing costs and exclude its distribution to stakeholders. ICCP-3 covers this system, incorporating the following statement: 'Commission and affiliate marketing products will also follow the relevant distribution strategy, with revenue reduced by associated costs'. - https://snapshot.org/#/ilvgov.eth/proposal/0x245e440c3b517a0b7a7ff11c2c038cfd96c503ab9cbf3e593bd8d7c73cd07fae
 
 ## Rationale:
 
