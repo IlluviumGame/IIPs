@@ -63,7 +63,14 @@ Illuvium Zero will be launched in open beta as early as technically feasible pri
 
 
 ## Rationale:
-Custom pricing offers players and landowners greater flexibility in buying and selling Fuel while also ensuring the stability of the Fuel market by incentivising landholders to set sell orders at a price that players take up quickly. It keeps with our promise of building an interconnected universe where landholders and players have a tangible impact on each other while removing some of the inefficiencies of the previous multi-token AMM system.
+An automated system for future land sales and fuel supply balancing is preferable to manual adjustments as it provides more predictability to players. However, an automated system has a higher risk of working effectively compared to adjustments by the development team until the economic system is in equilibrium and the automated fuel balancing model has time to mature.
+
+A top guardrail will be used to position the actual price of fuel produced by the DAO. This ensures that the overall market positioning of Overworld and in turn, the entire Illuvium ecosystem is appropriate.
+
+By structuring player-generated fuel as a discount compared to the top guardrail price, it moves Illuvium Zero players into a symbiotic position with Overworld players instead of an opposing position. 
+
+The timing needed to develop Zero land virtually ensures that for the first weeks or months after Overworld launch, the price of fuel will stay at or just under the top guardrail. Launching Illuvium Zero weeks in advance reduces the time to reach a stable, free-market equilibrium. The top guardrail should be rarely used the longer the system runs.
+
 
 ## Sponsor:
 Animositas
