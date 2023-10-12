@@ -79,6 +79,7 @@ In the name of fairness to tournament competitors, the DAO will not be liable to
 
 * A minimum of 3 competitors must win ILV as a part of the tournament's outcome.
   * This cannot be less than 10% of the IPTF Grant per person.
+* 100% of the IPTF Grant must be used for prize money that participants have won by competing in the tournament.
 * The tournament must have had a minimum of 32 participants to be eligible.
 * The tournament's rule structure cannot give a discernible advantage to any group of competitors, at minimum the rule structure should be disclosed to competitors with enough notice for them to prepare.
 * Tournament organizers must use a provably fair RNG method to decide on the bracket order and round 1 byes (if applicable). Recording this process is preferable to ensure high standards of fairness.
