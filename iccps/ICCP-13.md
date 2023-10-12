@@ -4,7 +4,7 @@ title: Trading Blackout Enhancements
 status: Pending
 author: Jimberino (Jimberino#2018)
 discussions-to: https://discord.gg/illuvium
-created: 2023-05-03
+created: 2023-10-10
 ---
 
 ## Simple Summary
