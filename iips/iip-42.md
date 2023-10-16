@@ -21,6 +21,8 @@ The move to replace sub-councils with committees addresses the inefficiencies id
 ### Objective:
 Governance V3 is designed to enhance the governance structure of Illuvium, addressing shortcomings identified in Governance V2. This iteration modifies council structures, primarily by replacing sub-councils with committees. This change improves efficiency and aligns Illuvium's governance structures with VARA requirements while ensuring decentralisation and transparency.
 
+
+
 ### Illuvium Main Council (IMC)
 #### Structure:
 The IMC remains the main governing body within the ecosystem. It comprises four members elected by ILV token holders and one Illuvium Labs representative. The IMC is entrusted with deliberating and voting on proposals presented by token holders.
@@ -28,8 +30,9 @@ The IMC remains the main governing body within the ecosystem. It comprises four 
 #### Functionality:
 IMC members scrutinise and decide on token holder proposals. They will seek expert insights from specialised committees to ensure informed decisions that align with the overall objectives and legal frameworks of the Illuvium ecosystem.
 
-### Committees 
 
+
+### Committees 
 #### Formation:
 Four specialised committees will be established: Marketing, Strategy, Game Design, and Operations. Each committee will comprise three industry experts and a team member from Illuvium Labs.
 
@@ -39,8 +42,9 @@ Committee members will be nominated by ILV token holders and appointed by the IM
 #### Roles:
 Each committee offers expert advice to the IMC, ensuring that decisions are based on comprehensive insights and thorough assessments.
 
-### Community Council 
 
+
+### Community Council 
 #### Composition:
 The community council will comprise five community members. ILV token holders will elect these members to represent the community's interests and perspectives. One member will be appointed to the head community position among the elected members. This individual will act as the primary liaison between the community council and the IMC, ensuring a direct line of communication and representation at IMC meetings.
 
@@ -49,8 +53,9 @@ The Community Council's key role is to vet proposals and forward them to the IMC
 
 The member appointed to the head community position is responsible for attending IMC meetings to articulate and advocate for the community council’s perspectives on proposals. This ensures that the voices and concerns of the community are heard and given due consideration in the final decision-making process.
 
-### Deprecation of Sub-Councils and Integration of Committees in Governance V3
 
+
+### Deprecation of Sub-Councils and Integration of Committees in Governance V3
 #### Background:
 In the transition from Governance V2 to V3 within the Illuvium framework, a significant shift is observed in the structural design of governance. The multi-tiered, sub-council-centric approach of V2 has been streamlined and optimised to a more agile and responsive committee-based structure in V3.
 
@@ -72,8 +77,9 @@ The structure wasn’t as scalable and adaptable, especially with the impending 
 #### Transition to Committees:
 Governance V3 introduces Committees aiming to alleviate the issues identified with sub-councils. Committees are streamlined, focused groups expected to offer more agility, expertise, and efficiency.
 
-### Critical Attributes of Committees:
 
+
+### Critical Attributes of Committees:
 #### Simplified Structure: 
 Committees have a more straightforward structure, reducing administrative layers and accelerating decision-making.
 
@@ -88,8 +94,9 @@ Committees are designed to align closely with the Illuvinati Main Council (IMC),
 
 The shift from sub-councils to committees is a strategic move to optimise Illuvium’s governance structure. By focusing on agility, expertise, and efficiency, committees are expected to enhance the decision-making process, ensuring that it is responsive, informed, and aligned with the dynamic needs of the Illuvium ecosystem, especially as it gears towards the Open Beta launch and beyond.
 
-### Role of Committees 
 
+
+### Role of Committees 
 #### Game Design Committee
 Role: The Game Design Committee provides expert advice on game development and design aspects. Their insights aim to ensure an optimal blend of creativity, technology, and user engagement within Illuvium's gaming landscape.
 
@@ -101,6 +108,7 @@ Innovation Insights: Providing advice on integrating innovative technologies and
 User Experience Suggestions: Recommending enhancements to the game’s interface and overall user experience to ensure intuitiveness and immersion.
 
 Quality Assurance Guidance: Advising on practical testing and quality assurance processes to ensure a bug-free and smooth gaming experience.
+
 
 #### Marketing Committee
 Role: The Marketing Committee provides strategic advice on promoting Illuvium to enhance visibility, brand awareness, and user engagement. They utilise their expertise to offer insights on effective marketing strategies and initiatives.
@@ -114,6 +122,7 @@ Analytics and Data-Driven Advice: Providing recommendations based on data analyt
 
 Content Strategy Suggestions: Advising on developing compelling content to attract and educate audiences.
 
+
 #### Operations Committee (Legal and Finance)
 Role: The Operations Committee advises on legal and financial matters, ensuring Illuvium operates within legal norms and maintains financial health. Their advice supports informed decision-making and risk mitigation.
 
@@ -125,6 +134,7 @@ Financial Management Advice: Offering insights on effective financial planning a
 Risk Mitigation Recommendations: Providing advice on identifying and mitigating potential legal and financial risks.
 
 Operational Efficiency Insights: Enhancing operational efficiency through optimised processes and cost management.
+
 
 #### Strategy Committee
 Role: The Strategy Committee's role is to provide expert advice on the long-term strategic direction of Illuvium. They focus on offering insights to ensure Illuvium's adaptability and competitiveness in the dynamic gaming industry.
@@ -140,7 +150,10 @@ Sustainability Suggestions: Advising on integrating sustainability and adaptabil
 
 Each committee specialises in offering nuanced, expert advice in their respective domains, contributing to informed, well-rounded decision-making within Illuvium's governance structure.
 
+
+
 ### Proposal Process for Illuvium Governance
+
 
 #### Proposal Forum
 Drafting: ILV Holders are invited to initiate proposals, ensuring they are comprehensive and detail-oriented. A "sponsor" is assigned to each proposal, preserving its foundational intent.
@@ -151,12 +164,14 @@ Community Voting: A proposal requires a minimum of 25 upvotes to transition to t
 
 Outcome: This initial phase underscores the democratic ethos, wherein community sentiments are pivotal in shaping the proposal’s journey.
 
+
 #### Community Council
 Review: Proposals undergo a rigorous evaluation by the Community Council, examining their alignment with Illuvium's vision and feasibility. Within 3 days, approved proposals are formatted and listed on GitHub for IMC consideration.
 
 Voting: Transparency is pivotal; IIPs and ICCPs will need at least 3 affirmative votes to proceed to IMC. For GIPs/GCCPs, both the Community Council and IMC are involved in the voting, requiring a supermajority of 7 out of 10 votes across both councils for approval.
 
 Outcome: A comprehensive vetting mechanism, enriched by the sponsor’s oversight and the integration of GIPs/GCCPs, ensures that only aligned, substantial, and broadly supported proposals navigate through the evaluation channels.
+
 
 #### Committees
 Evaluation: Experts within committees provide a detailed analysis, examining the multifaceted aspects of the proposals.
@@ -165,6 +180,7 @@ Advisory Role: Committees enrich the IMC’s decision-making with nuanced insigh
 
 Outcome: The involvement of committees underscores the commitment to informed, expert-backed decision-making.
 
+
 #### Illuvium Main Council (IMC)
 Deliberation: Armed with insights from committees and the Community Council, the IMC delves into thorough discussions.
 
@@ -172,10 +188,12 @@ Final Voting: IIPs and ICCPs can be voted on as Approved, Rejected, or Revisions
 
 Outcome: The decision-making matrix is balanced and multifaceted, ensuring adopted proposals resonate with the collective wisdom and are in Illuvium’s best interest.
 
+
 #### Illuvium Team
 Implementation Planning: The team crafts a strategic plan, ensuring the seamless integration of approved proposals into the Illuvium ecosystem focusing on monitoring their impact.
 
 Outcome: This final stage ensures that the enacted proposals are implemented efficiently and conducive to the progressive evolution of the Illuvium ecosystem. 
+
 
 #### Proposal Timelines:
 Stage 1 - Governance Forum Stage: Proposals have 14 days to secure 25 upvotes.
@@ -183,8 +201,11 @@ Stage 2 - Community Council Vote: A 3-day window is allocated for voting.
 Stage 3 - Sponsor Review Stage: The sponsor has three days to review. 
 Stage 4 - Illuvinati Main Council Vote: IMC votes over three days.
 
+
 #### Acceleration Protocols:
 In Stage 1, accumulating 25 upvotes before the 14-day mark immediately triggers the 3-day voting window for Stage 2. In Stage 2, if the council approves unanimously, the proposal directly advances to Stage 3. For Stage 3, a sponsor response propels the proposal into Stage 4 without further delay.
+
+
 
 ### Remuneration Structure
 
@@ -195,15 +216,18 @@ Nature of Engagement: Members of the IMC, while not bound by fixed working hours
 
 Compliance and Identity Verification: IMC members are mandated to comply with VARA regulations. This involves stringent adherence to rules and standards outlined under VARA, ensuring the integrity and legitimacy of governance. Proof of identity and residency is required, aligning with Illuvium's governance's transparency, authenticity, and security protocols.
 
+
 #### Community Council Members
 Compensation: Council members are paid a $1,500 monthly stipend for their part-time contribution. The head community council member receives $2,250 monthly due to additional responsibilities.
 
 Hours of Engagement: Members dedicate 10-15 hours weekly to their roles. The head community member may invest extra time to liaise with the IMC effectively.
 
+
 #### Committee Members
 Compensation: Committee members are not financially remunerated. Their voluntary participation stems from their expertise, experience, and interest in Illuvium’s success.
 
 Motivation: The reward for committee members lies in their influential role in shaping the protocol’s direction, leveraging their expertise to make informed, impactful contributions. Their compensation is implicitly tied to the protocol’s success, where their advice and insights lead to decisions that elevate Illuvium’s standing and value.
+
 
 ### Council Requirements: 
 
@@ -213,6 +237,7 @@ Each council shall meet at least twice (2) a month and be responsible for taking
 
 Once elected, council members must sign an NDA prepared by the Illuvium Legal team. Signing an NDA is a requirement to serve on any Illuvium council to ensure security and confidentiality while enabling access to relevant information to serve the DAO in the elected position effectively. Failure to sign the NDA would disqualify the individual from service, and the candidate receiving the next highest number of votes would then be selected. 
 
+
 ### Official Meetings & Communication Plans
 
 Each council has the power to require a high-level team member to attend any meeting that may need input from a department relevant to the matter to be discussed in said meeting. The GCM (Governance Community Manager) shall facilitate scheduling to ensure the attendance of the requested team member.
@@ -221,14 +246,19 @@ One council member would be appointed to take notes on the meetings to assist th
 
 For community questions to councils, a pinned form will exist to submit queries. The GCM will monitor these questions and will be responsible for bringing topics to the relevant councils. 
 
+
 ### Length of an epoch
 
 Councils will now operate in 9-month epochs, an increase from the previous 6-month duration. The extended term addresses the limitations of the shorter cycle, offering council members additional time for effective onboarding, strategic implementation, and community engagement. The 6-month epoch was often constrained, with initial phases focused on transitions and the latter on elections. A 9-month term ensures ample opportunity for deeper project engagement, long-term planning, and strengthened community bonds whilst maintaining the flexibility for future adjustments per the ecosystem’s evolving needs.
 
+
+
 ### Nomination Process
+
 
 #### Candidate Assessment:
 Nominees complete a council-specific questionnaire accessible to the community for transparent candidate evaluation.
+
 
 #### Election Timeline (Approximate):
 44 Days to Epoch End: IMC/committee nominations open for 10 days.
@@ -238,18 +268,23 @@ Nominees complete a council-specific questionnaire accessible to the community f
 14 Days to Epoch End: 3-5 day community council voting.
 9 Days to Epoch End: Preparations and onboarding for the new epoch begin.
 
+
 #### Example: 
 An epoch ending January 1 would have IMC nominations from November 18-28 and conclude community council voting by December 17.
+
 
 #### IMC Replacement Protocol:
 Post community council selection, the IMC outlines a succession plan for prompt replacement if a member steps down or is replaced.
 
+
 ### Additional Considerations:
+
 
 #### Performance Review and Adjustments:
 Regular reviews of the remuneration structure to ensure it remains competitive, fair, and aligned with the responsibilities and contributions of each role. Consideration for adjustments in remuneration in line with the protocol’s growth, inflationary trends, and evolving market conditions to attract and retain top talent.
 
 Council members will participate in self and peer evaluations twice during the epoch: once at the 4-month interval and again at the 8-month interval by IIP-35.
+
 
 #### Transparency:
 A detailed, transparent disclosure of remuneration structures to the community to ensure clarity, fairness, and accountability.
