@@ -22,10 +22,10 @@ The move to replace sub-councils with committees addresses the inefficiencies id
 Governance V3 is designed to enhance the governance structure of Illuvium, addressing shortcomings identified in Governance V2. This iteration modifies council structures, primarily by replacing sub-councils with committees. This change improves efficiency and aligns Illuvium's governance structures with VARA requirements while ensuring decentralisation and transparency.
 
 ### Illuvium Main Council (IMC)
-__Structure:__
+#### Structure:
 The IMC remains the main governing body within the ecosystem. It comprises four members elected by ILV token holders and one Illuvium Labs representative. The IMC is entrusted with deliberating and voting on proposals presented by token holders.
 
-__Functionality:__
+#### Functionality:
 IMC members scrutinise and decide on token holder proposals. They will seek expert insights from specialised committees to ensure informed decisions that align with the overall objectives and legal frameworks of the Illuvium ecosystem.
 
 ### Committees 
