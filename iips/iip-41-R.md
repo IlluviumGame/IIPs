@@ -5,7 +5,7 @@ status: Pending
 sponsor: Scoriox#2720
 discussions-to: https://discord.gg/illuvium
 created: 2023-10-10
-updated: 2023-10-12
+updated: 2023-10-20
 ---
 
 ## Abstract:
