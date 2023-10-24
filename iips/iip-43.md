@@ -1,5 +1,5 @@
 ---
-iip: 42
+iip: 43
 title: BOGO D1SK Promotion for Illuvium Beyond
 status: Pending
 sponsor: Kieran
