@@ -37,8 +37,8 @@ No further Wave sales are planned until open beta launch. This allows players to
 
 Additionally, the worst experience for new players coming into Illuvium:Beyond is for them not to be able to participate directly in the Wave they are joining and have to resort only to secondary markets. Extending the sale by an additional few weeks after the end of the Promo sale allows players to buy from both Illuvium directly and the secondary market as other players during the wave.
 
-###### Sponsor:
+#### Sponsor:
 JP
 
-###### Key Contributors:
+#### Key Contributors:
 Animositas, Blickter
