@@ -2,7 +2,7 @@
 iip: 43
 title: BOGO D1SK Promotion for Illuvium Beyond
 status: Pending
-sponsor: Kieran
+sponsor: Kieran Warwick
 discussions-to: https://discord.gg/illuvium
 created: 2023-10-19
 ---
