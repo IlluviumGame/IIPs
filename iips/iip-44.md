@@ -17,7 +17,7 @@ This IIP has 3 key Components. In the overview section there is a suggested lay 
 - **Game Pitch Process Flow:** This IIP lays out how the new game pitch selection process would be established. Explaining key steps such as submission, required documentation, evaluation, and ultimately how they will be selected and placed in the pipeline of work.  
 
 ## Overview:
-## Pre Planning Genre Research Documentation: 
+## 1.) Pre Planning Genre Research Documentation: 
 ### a.) Market Analysis Document
 
 **Purpose:**
@@ -133,7 +133,7 @@ To outline the potential avenues, benefits, and challenges of integrating blockc
 - Cost Analysis: Break down the initial and ongoing costs associated with blockchain integration.
 - Revenue Streams: Highlight potential new revenue avenues opened up by the blockchain, such as the sale of tokenized assets.
 
-## Genre Analysis Document
+## 2.)Genre Analysis Document
 ### 1. Genre Categories
 List all potential game genres considered vertically in the first column. This might include: RPG, FPS, MMORPG, Adventure, Racing, Horror, Simulation, Sports, etc.
 ### 2. Evaluation Criteria
