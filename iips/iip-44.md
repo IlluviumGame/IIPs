@@ -1,3 +1,13 @@
+---
+iccp: 15
+title: VoNC changes
+status: Pending
+author: Scrubadubdad#0001
+discussions-to: https://discord.gg/illuvium
+created: 2023-11-04
+updated: N/A
+---
+
 ## Simple Summary:
 This IIP presents a structured pathway for the inception, evaluation, and development of game proposals. It is aimed at harnessing the collective intelligence and creative power of the Illuvium community, ensuring democratic participation and optimizing the success potential of new ventures. 
 ## Abstract:
