@@ -41,7 +41,7 @@ A VoNC is determined by the weight of the allegations coupled with its evidence 
 
 ## Opportunity to be Heard
 
-Once a VoNC complaint form is submitted, the Governance Community Manager (GCM)1 shall, within forty-eight (48) hours, share the complaint to the subject/s of the VoNC (Accused) and be given three (3) calendar days to submit a defense addressing said complaint. 
+Once a VoNC complaint form is submitted, the Governance Community Manager (GCM) shall, within forty-eight (48) hours, share the complaint to the subject/s of the VoNC (Accused) and be given three (3) calendar days to submit a defense addressing said complaint. 
 
 ## Peer Evaluation
 
