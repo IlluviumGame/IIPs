@@ -2,7 +2,7 @@
 iccp: 15
 title: VoNC changes
 status: Pending
-author: Scrubadubdad
+author: Scrubadubdad#0001
 discussions-to: https://discord.gg/illuvium
 created: 2023-11-11
 updated: N/A
