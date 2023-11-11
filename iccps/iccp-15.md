@@ -4,7 +4,7 @@ title: VoNC changes
 status: Pending
 author: Scrubadubdad#0001
 discussions-to: https://discord.gg/illuvium
-created: 2023-11-11
+created: 2023-11-04
 updated: N/A
 ---
 
