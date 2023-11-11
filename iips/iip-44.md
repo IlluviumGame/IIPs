@@ -16,7 +16,7 @@ This IIP has 3 key Components. In the overview section there is a suggested lay 
 - **Genre Analysis Document:** Sets Guidelines for Illuvium Labs to create a public facing document that will compile the information in the market research report and provide the DAO publicly a high level understanding of which genres will benefit the DAO and have the highest chance of success. 
 - **Game Pitch Process Flow:** This IIP lays out how the new game pitch selection process would be established. Explaining key steps such as submission, required documentation, evaluation, and ultimately how they will be selected and placed in the pipeline of work.  
 
-# Overview:
+## Overview:
 ## Pre Planning Genre Research Documentation: 
 ### a.) Market Analysis Document
 
