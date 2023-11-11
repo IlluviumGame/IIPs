@@ -1,6 +1,6 @@
 ---
 iccp: 15
-title: VoNC changes
+title: Game development selection
 status: Pending
 author: Scrubadubdad#0001
 discussions-to: https://discord.gg/illuvium
