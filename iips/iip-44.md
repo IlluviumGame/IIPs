@@ -1,11 +1,11 @@
 ---
 iccp: 15
-title: Game development selection
+title: Game Development Selection
 status: Pending
 author: Cavemanx
 discussions-to: https://discord.gg/illuvium
-created: 2023-11-04
-updated: N/A
+created: 2023-11-07
+updated: 2023-11-11
 ---
 
 ## Simple Summary:
