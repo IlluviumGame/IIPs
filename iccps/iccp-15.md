@@ -67,6 +67,8 @@ This shall follow the process outlined in Gov v2.
 
 Submit VoNC complaint > 48 hours > GCM shares the complaint with the Accused to draft a defense & requires appropriate council to complete Peer Evaluation on the Accused > 3 days > GCM receives Peer Eval and defense > 48 hours > GCM post in Governance Ideas > 5 days > Close post > 50 upvotes received > 48 hours > Snapshot vote > 3 days > Outcome = Total Days 17 
 
+![VoNCprocess](https://drive.google.com/file/d/17D9KseK1EV4JBtSt-sSVLDdJvdgqgOE9/view?usp=sharing)
+
 ## Impact of VoNC to Council Pay
 
 If a VoNC is ongoing at the end of any council pay period, the Accused council member's pay will be withheld until the VoNC process concludes. If the outcome of the VonC is against the Accused, the Accused will not be eligible to be paid his/her council pay for the said council pay period nor the succeeding council pay period regardless of time served.
