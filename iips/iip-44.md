@@ -2,7 +2,7 @@
 iip: 44
 title: Game Development Selection
 status: Pending
-author: Cavemanx
+author: Caveman
 discussions-to: https://discord.gg/illuvium
 created: 2023-11-07
 updated: 2023-11-11
