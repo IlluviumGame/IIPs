@@ -67,7 +67,7 @@ This shall follow the process outlined in Gov v2.
 
 Submit VoNC complaint > 48 hours > GCM shares the complaint with the Accused to draft a defense & requires appropriate council to complete Peer Evaluation on the Accused > 3 days > GCM receives Peer Eval and defense > 48 hours > GCM post in Governance Ideas > 5 days > Close post > 50 upvotes received > 48 hours > Snapshot vote > 3 days > Outcome = Total Days 17 
 
-![image](https://drive.google.com/uc?export=view&id=<17D9KseK1EV4JBtSt-sSVLDdJvdgqgOE9>)
+![image](https://drive.google.com/uc?export=view&id=17D9KseK1EV4JBtSt-sSVLDdJvdgqgOE9)
 
 ## Impact of VoNC to Council Pay
 
