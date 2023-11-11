@@ -2,7 +2,7 @@
 iccp: 15
 title: Game development selection
 status: Pending
-author: Scrubadubdad#0001
+author: Cavemanx
 discussions-to: https://discord.gg/illuvium
 created: 2023-11-04
 updated: N/A
@@ -12,167 +12,179 @@ updated: N/A
 This IIP presents a structured pathway for the inception, evaluation, and development of game proposals. It is aimed at harnessing the collective intelligence and creative power of the Illuvium community, ensuring democratic participation and optimizing the success potential of new ventures. 
 ## Abstract:
 This IIP has 3 key Components. In the overview section there is a suggested lay out of the key deliverables for 1 and 2:
-Pre Planning Genre Research Documentation: sets the guidelines for Illuvium Labs to prepare an extensive genre market research report to provide the IMC with the most up to date information on industry trends, current studio capabilities, and many more factors for each genre upon request. 
-Genre Analysis Document: Sets Guidelines for Illuvium Labs to create a public facing document that will compile the information in the market research report and provide the DAO publicly a high level understanding of which genres will benefit the DAO and have the highest chance of success. 
-Game Pitch Process Flow: This IIP lays out how the new game pitch selection process would be established. Explaining key steps such as submission, required documentation, evaluation, and ultimately how they will be selected and placed in the pipeline of work.  
+- **Pre Planning Genre Research Documentation:** sets the guidelines for Illuvium Labs to prepare an extensive genre market research report to provide the IMC with the most up to date information on industry trends, current studio capabilities, and many more factors for each genre upon request. 
+- **Genre Analysis Document:** Sets Guidelines for Illuvium Labs to create a public facing document that will compile the information in the market research report and provide the DAO publicly a high level understanding of which genres will benefit the DAO and have the highest chance of success. 
+- **Game Pitch Process Flow:** This IIP lays out how the new game pitch selection process would be established. Explaining key steps such as submission, required documentation, evaluation, and ultimately how they will be selected and placed in the pipeline of work.  
 
 ## Overview:
-Pre Planning Genre Research Documentation: 
-a.) Market Analysis Document
-Purpose:
+### Pre Planning Genre Research Documentation: 
+#### a.) Market Analysis Document
+
+**Purpose:**
 To gain a comprehensive understanding of the current gaming market, potential growth areas, and where Illuvium can gain a competitive advantage.
-Contents:
-Genre Popularity Analysis
-List of top game genres in terms of revenue and player base.
-Trend analysis for each genre over the past 5 years.
-Projected Popularity
-Player Base Segmentation
-Detailed segmentation of players: age, monetization interests, platform, gender, region,  
-Overlay current player base to see potential for cross-selling or upselling.
-Web3 and Gaming
-Analysis of the saturation of genres in the WEB3 space.
-Opportunities and challenges in the intersection of WEB3 and gaming.
-Competition Analysis
-Detailed breakdown of top games in each genre, their player base size, and revenue.DLC launch dates, major updates, and expansion packs for top competitors.
-Providing region reports could provide further insights into governance decision making.
-Impact of current ip on the market
-Creating games of similar genre that have already been developed. 
+
+#### Contents:
+- Genre Popularity Analysis
+- List of top game genres in terms of revenue and player base.
+- Trend analysis for each genre over the past 5 years.
+- Projected Popularity
+- Player Base Segmentation
+- Detailed segmentation of players: age, monetization interests, platform, gender, region,  
+- Overlay current player base to see potential for cross-selling or upselling.
+- Web3 and Gaming
+- Analysis of the saturation of genres in the WEB3 space.
+- Opportunities and challenges in the intersection of WEB3 and gaming.
+- Competition Analysis
+- Detailed breakdown of top games in each genre, their player base size, and revenue.DLC launch dates, major updates, and expansion packs for top competitors.
+   - Providing region reports could provide further insights into governance decision making.
+- Impact of current ip on the market
+- Creating games of similar genre that have already been developed. 
 
 
-b.) Internal Capability Assessment Document
-Purpose:
+#### b.) Internal Capability Assessment Document
+
+**Purpose:**
 To understand illuvium’s current strengths, weaknesses, and what gaps exist in venturing into a new genre.
-Contents:
-Team's Experience Profile
-Breakdown of the team's overall experience by game genre.
-List of past projects and achievements.
-Resource Allocation
-Available resources vs. what's needed for each genre.
-Recruitment Analysis
-Cost and timeline for recruiting essential/key personnel for different genres.
-Outsourcing costs 
-Developer Motivation
-Devs are driven to work on X genre 
 
-c) IP Value Proposition Document
-Purpose:
+#### Contents:
+- Team's Experience Profile
+- Breakdown of the team's overall experience by game genre.
+- List of past projects and achievements.
+- Resource Allocation
+- Available resources vs. what's needed for each genre.
+- Recruitment Analysis
+- Cost and timeline for recruiting essential/key personnel for different genres.
+- Outsourcing costs 
+- Developer Motivation
+- Devs are driven to work on X genre
+
+#### c) IP Value Proposition Document
+**Purpose:**
 To analyze the potential benefits of illuvium’s Intellectual Property by diversifying into a new genre.
-Contents:
-Genre & IP Synergy Analysis
-How each genre can add value to or leverage your existing IP.
-Social Gaming Elements Evaluation
-Analysis of multiplayer, co-op, and MMO elements. Potential for integrating these into your games.
 
-d)  Development Timeline Document
-Purpose:
+#### Contents:
+- Genre & IP Synergy Analysis
+- How each genre can add value to or leverage your existing IP.
+- Social Gaming Elements Evaluation
+- Analysis of multiplayer, co-op, and MMO elements. Potential for integrating these into your games.
+
+#### d)  Development Timeline Document
+**Purpose:**
 To lay out the estimated timeline and milestones for developing a game in the new genre.
-Contents:
-Genre-wise Development Estimates
-Detailed timelines for pre-production, production, and post-production phases for each genre.
-Major Milestones
-Alpha, beta testing, and launch dates.
-Marketing and promotion milestones.
 
-e)  Financial Projections Document
-Purpose:
+#### Contents:
+- Genre-wise Development Estimates
+- Detailed timelines for pre-production, production, and post-production phases for each genre.
+- Major Milestones
+- Alpha, beta testing, and launch dates.
+- Marketing and promotion milestones.
+
+#### e)  Financial Projections Document
+**Purpose:**
 To estimate the potential revenue, costs, and profitability of venturing into a new genre.
-Contents:
-Genre-wise Revenue Projections
-Based on market size, player base, and historic trends.
-Cost Projections
-Development, marketing, post-launch support, and other associated costs.
-ROI Estimates
-General timelines for a game in that genre
-Break-even analysis for each genre
-Expected profitability and revenue growth.
 
-f.)  Asset Reuse & Integration Document
-Purpose:
+#### Contents:
+- Genre-wise Revenue Projections
+- Based on market size, player base, and historic trends.
+- Cost Projections
+- Development, marketing, post-launch support, and other associated costs.
+- ROI Estimates
+- General timelines for a game in that genre
+- Break-even analysis for each genre
+- Expected profitability and revenue growth.
+
+#### f.)  Asset Reuse & Integration Document
+**Purpose:**
 To assess the potential of current assets for reuse or adaptation within a new genre, ensuring both resource efficiency and brand consistency.
-Contents:
-Asset Inventory
-Asset Catalog: A comprehensive list of all assets available, including character models, game mechanics, environments, soundtracks, narratives, etc.
-Asset Evaluation
-Genre Compatibility: Identify which genres each asset can naturally fit into.
-Modification Potential: Determine if an asset can be modified to suit the new genre or if it’s better to create new ones.
-Integration Strategies
-Genre Matching: Assess how existing assets can be blended into prospective genres, ensuring seamless integration.
-Narrative Extensions: Opportunities to expand current narratives or lore into the new game, offering a unified gaming universe for players.
-Mechanical Transference: Investigate game mechanics that can be repurposed or modified for the new genre.
-Financial Implications
-Cost Savings Analysis: Calculate potential savings from reusing assets as opposed to creating new ones from scratch.
-Investment Analysis: Determine any costs associated with modifying existing assets for the new genre.
-Looking back to other games, content updates
 
-g.)  Blockchain Integration Strategy Document
-Purpose:
+#### Contents:
+- Asset Inventory
+- Asset Catalog: A comprehensive list of all assets available, including character models, game mechanics, environments, soundtracks, narratives, etc.
+- Asset Evaluation
+- Genre Compatibility: Identify which genres each asset can naturally fit into.
+- Modification Potential: Determine if an asset can be modified to suit the new genre or if it’s better to create new ones.
+- Integration Strategies
+- Genre Matching: Assess how existing assets can be blended into prospective genres, ensuring seamless integration.
+- Narrative Extensions: Opportunities to expand current narratives or lore into the new game, offering a unified gaming universe for players.
+- Mechanical Transference: Investigate game mechanics that can be repurposed or modified for the new genre.
+- Financial Implications
+- Cost Savings Analysis: Calculate potential savings from reusing assets as opposed to creating new ones from scratch.
+- Investment Analysis: Determine any costs associated with modifying existing assets for the new genre.
+- Looking back to other games, content updates
+
+#### g.)  Blockchain Integration Strategy Document
+**Purpose:**
 To outline the potential avenues, benefits, and challenges of integrating blockchain technology into the gaming ecosystem.
-Contents:
-Integration Opportunities
-Tokenization of Assets: Convert in-game items into tokens, giving them tangible value outside the game.
-Smart Contracts: Utilize for in-game mechanics like trades, missions, or events, ensuring fairness.
-Decentralized Gaming: Highlight the benefits of a decentralized gaming ecosystem and potential integration points.
-Blockchain gaming Feasibility:is possible to integrate Web3 gaming in said genre and specifically is there a way to ensure Our Core NFTs will be incorporated in said genr(i.e Illuvials, fuel, and other universe NFTs ).
-Cross-game Synergies
-Asset Portability: Leverage blockchain to allow assets to be used across different games, enhancing player loyalty and engagement.
-Shared Gaming Universe: Explore the idea of different games sharing a blockchain-based universe where actions in one game might impact another.
-Challenges & Solutions
-Scalability Issues: Address concerns about potential bottlenecks or performance issues.
-Transaction Costs: Offer solutions to the potential high gas fees associated with blockchain transactions.
-Security: Discuss ways to ensure the blockchain integration remains secure from hacks or unauthorized access.
-Financial Implications
-Cost Analysis: Break down the initial and ongoing costs associated with blockchain integration.
-Revenue Streams: Highlight potential new revenue avenues opened up by the blockchain, such as the sale of tokenized assets.
 
-Genre Analysis Document
-1. Genre Categories
+#### Contents:
+- Integration Opportunities
+- Tokenization of Assets: Convert in-game items into tokens, giving them tangible value outside the game.
+- Smart Contracts: Utilize for in-game mechanics like trades, missions, or events, ensuring fairness.
+- Decentralized Gaming: Highlight the benefits of a decentralized gaming ecosystem and potential integration points.
+- Blockchain gaming Feasibility:is possible to integrate Web3 gaming in said genre and specifically is there a way to ensure Our Core NFTs will be incorporated in said genr(i.e Illuvials, fuel, and other universe NFTs ).
+- Cross-game Synergies
+- Asset Portability: Leverage blockchain to allow assets to be used across different games, enhancing player loyalty and engagement.
+- Shared Gaming Universe: Explore the idea of different games sharing a blockchain-based universe where actions in one game might impact another.
+- Challenges & Solutions
+- Scalability Issues: Address concerns about potential bottlenecks or performance issues.
+- Transaction Costs: Offer solutions to the potential high gas fees associated with blockchain transactions.
+- Security: Discuss ways to ensure the blockchain integration remains secure from hacks or unauthorized access.
+- Financial Implications
+- Cost Analysis: Break down the initial and ongoing costs associated with blockchain integration.
+- Revenue Streams: Highlight potential new revenue avenues opened up by the blockchain, such as the sale of tokenized assets.
+
+### Genre Analysis Document
+#### 1. Genre Categories
 List all potential game genres considered vertically in the first column. This might include: RPG, FPS, MMORPG, Adventure, Racing, Horror, Simulation, Sports, etc.
-2. Evaluation Criteria
+#### 2. Evaluation Criteria
 Here are potential criteria the team could use to evaluate each genre along with any information included in the Market research Documentation:
-Market Size: Estimated number of players or revenue generated by games in this genre.
-Asset Reusability: The feasibility and impact of reusing current assets in this genre.
-Blockchain and code reuasability: Will we have to start coding from scratch or will it seamlessly cross over. 
-Blockchain Integration Potential: How well the genre can integrate with blockchain features like tokenization, smart contracts, etc.
-Development Timeline: Estimated time to develop a game in this genre.
-IP Enhancement: The potential of the genre to add value to your studio's Intellectual Property.
-Competition: Degree of saturation and competition in the market for this genre.
-Team's Experience: The current expertise your team has in this genre.
-ROI Potential: Estimated return on investment for developing a game in this genre.
-Player Base Overlap: Potential overlap with your current player base, indicating chances of cross-selling or up-selling.
-3. Genre Status  
-Once the preplanning documentation and genre information has been collected. Genres could be placed in one of 5 categories 
-Green light: We currently have the capabilities to develop, have the support and motivation of the studio to build it, and is within our current budget
-Yellow Light: Is green light except:
-We would need a few key hires to complete
+
+- Market Size: Estimated number of players or revenue generated by games in this genre.
+- Asset Reusability: The feasibility and impact of reusing current assets in this genre.
+- Blockchain and code reuasability: Will we have to start coding from scratch or will it seamlessly cross over. 
+- Blockchain Integration Potential: How well the genre can integrate with blockchain features like tokenization, smart contracts, etc.
+- Development Timeline: Estimated time to develop a game in this genre.
+- IP Enhancement: The potential of the genre to add value to your studio's Intellectual Property.
+- Competition: Degree of saturation and competition in the market for this genre.
+- Team's Experience: The current expertise your team has in this genre.
+- ROI Potential: Estimated return on investment for developing a game in this genre.
+- Player Base Overlap: Potential overlap with your current player base, indicating chances of cross-selling or up-selling.
+
+#### 3. Genre Status  
+Once the preplanning documentation and genre information has been collected. Genres could be placed in one of 5 categories where each category has a number of potential 
+- Green light: We currently have the capabilities to develop, have the support and motivation of the studio to build it, and is within our current budget
+- Yellow Light: Is green light except:
+  - We would need a few key hires to complete
+
+   OR
+  - Would need to raise a small amount (x-x) to ensure full development
+- Orange Light
+  - If there are 2 statements from the yellow category
+  - We would need to hire a substantial amount of new talent to complete
 OR
-Would need to raise a small amount (x-x) to ensure full development
-Orange Light
-If there are 2 statements from the yellow category
-We would need to hire a substantial amount of new talent to complete
+  - We would need to raise a moderate amount of money to develop(X -X)
 OR
-We would need to raise a moderate amount of money to develop(X -X)
+  - The Studio is not significantly motivated by this genre 
+- Red
+  - If there are 2 statements from the orange category
 OR
-The Studio is not significantly motivated by this genre 
-Red
-If there are 2 statements from the orange category
+  - We would need to contract out a new studio for this game
 OR
-We would need to contract out a new studio for this game
+  - We would need a significant amount of money(X-X)
 OR
-We would need a significant amount of money(X-X)
+  - The Studio is not motivated by this genre 
+- Black
+  - If there are 2 statements form the Red Category
 OR
-The Studio is not motivated by this genre 
-Black
-If there are 2 statements form the Red Category
+  - We are not sure how to even get the talent to make this game
 OR
-We are not sure how to even get the talent to make this game
+  - We would have raise an amount of money that is not currently possible
 OR
-We would have raise an amount of money that is not currently possible
-OR
-The studio is against building a game in this genre
-3.) Game Pitch Process Flow
+  - The studio is against building a game in this genre
+### 3.) Game Pitch Process Flow
 The way the DAO collects and evaluates proposals must be thorough and all encompassing. We aim to leverage our massive community for both ideation and selection process to best decide the future. It is important in a DAO that we are ensuring every stakeholder within has the opportunity to contribute. Before jumping into the process flow here are some definitions:
 
-Definitions:
+#### Definitions:
 Illuvium Game Pitch(IGP) - a formal proposal submission for a specific game that includes the following(Templates and specific requirements will be provided by Epoch 9):
 Illuvium Game Pitch Proposal(IGPP) White paper on concept
 This is akin to an IIP and will be submitted to snapshot and voted on similarly if support is gained.
