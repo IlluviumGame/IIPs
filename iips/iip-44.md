@@ -133,7 +133,7 @@ To outline the potential avenues, benefits, and challenges of integrating blockc
 - Cost Analysis: Break down the initial and ongoing costs associated with blockchain integration.
 - Revenue Streams: Highlight potential new revenue avenues opened up by the blockchain, such as the sale of tokenized assets.
 
-## 2.)Genre Analysis Document
+## 2.) Genre Analysis Document
 ### 1. Genre Categories
 List all potential game genres considered vertically in the first column. This might include: RPG, FPS, MMORPG, Adventure, Racing, Horror, Simulation, Sports, etc.
 ### 2. Evaluation Criteria
