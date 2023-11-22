@@ -208,20 +208,20 @@ The proposed process will be split into two submission categories to ensure we a
 1. New Forum is made “Illuvium Game Pitches” within the discord and/or the eventual governance website. Where community, team members, and/or external organizations can submit a proposal.
 2. The Illuvium Community Council will vet proposals, ensuring that documentation is complete and requirements are met.
 3. Once approved The Sponsor(s) can then request a town hall to pitch the IGP to the community. The Governance Admin(if established) will work with Community management and the sponsor to find a date and time within 7 days for the town hall. 
-   a. They would have 15 mins Present, 15 mins Q and A
+* They would have 15 mins Present, 15 mins Q and A
 4. The proposal would then need to receive over 25 upvotes over 14 days
 5. The pitch Proposal will then be voted on by the Illuvium Community Council 
-  a. If it passes Illuvium Community Council it will be placed in a holding pool until a Pitch Review Board is called.
-  b. If it is rejected the sponsor can not submit a proposal of the same genre for the next three months. 
+* If it passes Illuvium Community Council it will be placed in a holding pool until a Pitch Review Board is called.
+* If it is rejected the sponsor can not submit a proposal of the same genre for the next three months. 
 
 
 ## Illuvium Pitch Jam Process:
 1. An Illuvium Pitch Jam is announced and the Genre Analysis Document is provided to the public.
 2. Sponsors would have a minimum of 1 month to submit proposals to the IPJ pool that would not be publicly visible at first. 
-  a. The Illuvium Community Council will vet proposals, ensuring that documentation is complete and requirements are met.
+* The Illuvium Community Council will vet proposals, ensuring that documentation is complete and requirements are met.
 3. Once the deadline is reached there will be a 24 hour period where any last minute submissions would be reviewed by ICC to verify and determine Game Genre.
 4. Each submission will be given a thread in the Illuvium Game Pitches forum for discussion, debate, and voting. These submissions will be made public simultaneously. There will be a 2 week period where only a select number of games with greatest community support per genre and/or a specified category would advance.
-  a. During IPJ announcement the IMC will defined these parameters
+* During IPJ announcement the IMC will defined these parameters
 5. Winners of select categories would then have a live pitch contest for both the community and IMC/Committee judging panel. These would be a series of fast pitches back to back. 
 6. The judging panel would then select 1 or several winner(s) that would win in the Illuvium Pitch Jam. These games would then be placed in the holding pool for the Pitch Review Board at a later time. Placements for the other games would also be determined and any rewards would be distributed accordingly.
 
@@ -229,14 +229,14 @@ The proposed process will be split into two submission categories to ensure we a
 ### Pitch Review Board: 
 1. All games currently in the Holding pool would provide an extended pitch to the Pitch Review Board. One will need to be scheduled within 30 days of the conclusion of an IPJ and/or at the discretion of the IMC. 
 2. The IMC would then have a period of 30 days to determine viability with the committees and the studio. The IMC, Illuvium Labs, or external studios may request an extension to do prototyping and testing to get a better understanding of the scope of such a project. Any extension will be communicated by the relevant party posting in the thread for the pitch, explaining the ongoing research and testing required. 
-3. After this period Illuvium Labs will present findings and suggestions for such a game to the IMC. A vote will be held on Snapshot, with a super majority of 4 votes out of 5 required to approve the game for development. The game will then be added to the end of the production queue. 
-  a. In the event that any party believes the order in which games are being developed must change, this can be accomplished through an ICCP detailing the reasons why a different development order is desirable. The order of game development may only be changed prior to development starting on a game.
+3. After this period Illuvium Labs will present findings and suggestions for such a game to the IMC. A vote will be held on Snapshot, with a super majority of 4 votes out of 5 required to approve the game for development. The game will then be added to the end of the production queue.
+* In the event that any party believes the order in which games are being developed must change, this can be accomplished through an ICCP detailing the reasons why a different development order is desirable. The order of game development may only be changed prior to development starting on a game.
 
 
 ### Special Considerations:
 1. In the following two situations sponsors can provide additional information if they are wanting to develop the game using the Illuvim Brand, requesting a position on the team to build sponsored game and/or other special considerations such as NDAs and partnership terms and conditions. 
-  a. External Organizations: These partnerships can be potentially hard to navigate. It should be expected that all terms and conditions will not be publicly available, but we should not limit the potential growth of Illuvium by forcing all the details in the open. For this reason, it is suggested these pitches are not submitted in the Illuvium Pitch Jam path as they may have to compete with more visible community driven ideas.
-  b. Sponsors who request the opportunity to be the creative director(or hold a different role within Illuvium Labs) or have other requirements of the game they pitched will be able to state that in the questionnaire  and Illuvium Labs will reach out separately. 
+* External Organizations: These partnerships can be potentially hard to navigate. It should be expected that all terms and conditions will not be publicly available, but we should not limit the potential growth of Illuvium by forcing all the details in the open. For this reason, it is suggested these pitches are not submitted in the Illuvium Pitch Jam path as they may have to compete with more visible community driven ideas.
+* Sponsors who request the opportunity to be the creative director(or hold a different role within Illuvium Labs) or have other requirements of the game they pitched will be able to state that in the questionnaire  and Illuvium Labs will reach out separately. 
 2. Any public information from the pitch that is presented is required to be their own work. The sponsor will not have any rights to the IP they present. Official terms and Conditions will have to be accepted in the questionnaire that is vetted by Illuvium Legal team. 
 
 
