@@ -208,8 +208,8 @@ The proposed process will be split into two submission categories to ensure we a
 1. New Forum is made “Illuvium Game Pitches” within the discord and/or the eventual governance website. Where community, team members, and/or external organizations can submit a proposal.
 2. The Illuvium Community Council will vet proposals, ensuring that documentation is complete and requirements are met.
 3. Once approved The Sponsor(s) can then request a town hall to pitch the IGP to the community. The Governance Admin(if established) will work with Community management and the sponsor to find a date and time within 7 days for the town hall. 
-* They would have 15 mins Present, 15 mins Q and A
-4. The proposal would then need to receive over 25 upvotes over 14 days
+* Sponsor will have 15 mins to present and 15 mins for Q and A
+4. The proposal will then need to receive over 25 upvotes over 14 days
 5. The pitch Proposal will then be voted on by the Illuvium Community Council 
 * If it passes Illuvium Community Council it will be placed in a holding pool until a Pitch Review Board is called.
 * If it is rejected the sponsor can not submit a proposal of the same genre for the next three months. 
