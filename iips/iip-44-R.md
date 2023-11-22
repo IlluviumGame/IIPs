@@ -226,7 +226,7 @@ The proposed process will be split into two submission categories to ensure we a
 6. The judging panel would then select 1 or several winner(s) that would win in the Illuvium Pitch Jam. These games would then be placed in the holding pool for the Pitch Review Board at a later time. Placements for the other games would also be determined and any rewards would be distributed accordingly.
 
 
-### Pitch Review Board: 
+## Pitch Review Board: 
 1. All games currently in the Holding pool would provide an extended pitch to the Pitch Review Board. One will need to be scheduled within 30 days of the conclusion of an IPJ and/or at the discretion of the IMC. 
 2. The IMC would then have a period of 30 days to determine viability with the committees and the studio. The IMC, Illuvium Labs, or external studios may request an extension to do prototyping and testing to get a better understanding of the scope of such a project. Any extension will be communicated by the relevant party posting in the thread for the pitch, explaining the ongoing research and testing required. 
 3. After this period Illuvium Labs will present findings and suggestions for such a game to the IMC. A vote will be held on Snapshot, with a super majority of 4 votes out of 5 required to approve the game for development. The game will then be added to the end of the production queue.
