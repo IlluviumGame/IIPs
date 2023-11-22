@@ -188,8 +188,8 @@ The way the DAO collects and evaluates proposals must be thorough and all encomp
 
 ### Definitions:
 - **Illuvium Game Pitch (IGP)** - A formal proposal submission for a specific game that includes the following(Templates and specific requirements will be provided by Epoch 9):
-      - Illuvium Game Pitch Proposal(IGPP) White paper on concept
-            - This is akin to an IIP and will be submitted to snapshot and voted on similarly if support is gained.
+   - Illuvium Game Pitch Proposal(IGPP) White paper on concept
+      - This is akin to an IIP and will be submitted to snapshot and voted on similarly if support is gained.
    - Pitch deck
    - Game Evaluation SpreadSheet
      - A subjective ranking report of key market research categories of the game pitch. These will be presented to the public and can be used as talking points for members of the DAO to support or debate metrics provided
