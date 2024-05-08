@@ -74,20 +74,8 @@ If a player catches six Illuvials (three T3S2, one T4S2, one T5S2, and one T5S3)
 
 These examples also illustrate how it is in the player’s best interest to perform as well as possible to become eligible to roll for the rarer illuvials captured, thus helping to discourage undesirable player behavior.
 
-**Bad player behavior in free-for-all quests**
-
-To mitigate potential misconduct in free-for-all quests, specific measures can be implemented. Requirements such as minimum player levels and quest completion percentages act as natural deterrents. Additionally, quests offering higher percentage rewards are usually accessible only to players with higher completion rates. In cases of three consecutive failed quests, a strike policy would be enacted, resulting in a temporary ban from the questing system. Repeated temporary bans could lead to a permanent ban from questing. Moreover, quest creators can create blacklists of players from whom they do not want their quests accepted.
-
-**Similar experience to buying off the Illuvidex**
-
-One could argue that with this player-driven quest system, it might feel somewhat similar to using the Illuvidex. However, the quest creators would never know precisely what they would receive, as there would still be an element of RNG involved in the player runs. Additionally, the potential to acquire something extremely rare would still exist. Not only that, simply buying from the Illuvidex wouldn’t provide the benefit to players that cannot afford to pay to travel to higher stage regions as this questing system does.
-
-**Overworld already has missions**
-
-The presence of missions in the Overworld doesn't negate the potential for a player-driven quest system. Unlike missions, players wouldn’t have to pay, as their travels would be sponsored by another player.
-
 # Conclusion:
 In conclusion, the player-driven quest system presents a compelling opportunity to enrich the cooperative player experience in Illuvium, offering new avenues for collaboration and reward. By empowering players to create and participate in quests tailored to their preferences, the system enhances the depth and longevity of the Overworld gameplay while reinforcing the game's value proposition and providing an additional source of revenue for the DAO. Through the implementation of this innovative quest system, Illuvium aims to establish itself as a leading player-driven gaming ecosystem in the blockchain space.
 
-**Google doc including Quest Examples**
+**Google doc including Additional Community Concerns and Quest Examples**
 https://docs.google.com/document/d/e/2PACX-1vQDVPzV-gr-VWX9nLDQZGNAVuILC03Baikr1ONb9eZywulJ1sT_H0W_HwYhXC0LSlBbqFdWwuhJ7ZZu/pub
