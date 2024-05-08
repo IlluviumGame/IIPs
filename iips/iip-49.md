@@ -86,53 +86,8 @@ One could argue that with this player-driven quest system, it might feel somewha
 
 The presence of missions in the Overworld doesn't negate the potential for a player-driven quest system. Unlike missions, players wouldn’t have to pay, as their travels would be sponsored by another player.
 
-# Quest Example:
-
-Quest creators should have the freedom to craft their quests as they see fit within certain parameters, including selecting the objective, minimum completion requirements, region, stage, player requirements, provided items, and rewards. Here are some examples:
-
-**New Player Quest**
-
-Objective: Capture 1 illuvial, mine 1 rock and harvest 1 plant.
-Region: Brightland Steppes, stage 1.
-Requirements: 100% success rate on the most recently completed quests. Players with no completed quests are also eligible.
-
-**Quest Items**: 7x T1 Shard, 2x T2 Shard, 1x T3 Shard.
-
-Rewards: 10% of all acquired loot will be awarded.
-
-**Illuvial Capture Quest** 
-
-Objective: Capture at least 5 illuvials.
-Region: Abyssal Basin, stage 1.
-Requirements: 100% success rate on the most recently completed quests. Minimum ranger level 10. Minimum of 25% bonus capture rate gear.
-
-**Quest Items**: 7x T1 Shard, 2x T2 Shard, 1x T3 Shard.
-
-Rewards: 25% of captured illuvials.
-
-**Lynx Capture Quest** 
-
-Objective: Capture as many lynxes as possible. Not capturing any lynx will result in quest failure.
-Region: Crimson waste, stage 2.
-Requirements: 100% success rate on the most recently completed quests. Minimum ranger level 20. Minimum of 50% bonus capture rate gear. Minimum of 50 quests successfully completed.
-
-**Quest Items**: 5x T2 Shard, 4x T3 Shard, 1x T4 Shard.
-
-Rewards: 50% of captured lynxes.
-
-**Shard Mining Quest**
-
-Objective: Gather at least 3 shards.
-Region: Taiga Boreal, stage 2.
-Requirements: Minimum of 25% double gathering chance and 50% bonus gathering rate gear. Minimum ranger level 15.  Minimum of 30 quests successfully completed.
-Rewards: 30% of all the ores and shards collected.
-
-**High Tier Materials Gathering Quest** 
-
-Objective: Gather as many materials as possible, either from rocks or plants. Not gathering any material will result in quest failure.
-Region: Abyssal Basin, stage 3.
-Requirements: Minimum of 50% double gathering chance and 100% bonus gathering rate gear. Minimum of 100 quests successfully completed.
-Rewards: 40% of all the materials collected.
-
 # Conclusion:
 In conclusion, the player-driven quest system presents a compelling opportunity to enrich the cooperative player experience in Illuvium, offering new avenues for collaboration and reward. By empowering players to create and participate in quests tailored to their preferences, the system enhances the depth and longevity of the Overworld gameplay while reinforcing the game's value proposition and providing an additional source of revenue for the DAO. Through the implementation of this innovative quest system, Illuvium aims to establish itself as a leading player-driven gaming ecosystem in the blockchain space.
+
+**Google doc including Quest Examples**
+https://docs.google.com/document/d/e/2PACX-1vQDVPzV-gr-VWX9nLDQZGNAVuILC03Baikr1ONb9eZywulJ1sT_H0W_HwYhXC0LSlBbqFdWwuhJ7ZZu/pub
