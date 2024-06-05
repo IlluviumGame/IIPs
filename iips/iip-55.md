@@ -89,15 +89,15 @@ For example, a Training Grounds structure with six available staking spots, wher
 
 These Illuvials would compose a total bonus of:
 
-![image](https://github.com/Jaganite/IIPs/assets/171840128/a1f6c75d-413b-4118-87cf-c0f6929fd531)
+![image](https://github.com/Jaganite/IIPs/assets/171840128/d8b3b9e1-e99d-46f7-a62e-2dfe6660c34d)
 
 If all six Illuvials have the standard 100% bonus efficiency, bonuses would be as follows:
 
-![image](https://github.com/Jaganite/IIPs/assets/171840128/82789cbb-626f-4e31-89c8-6819cfd30d58)
+![image](https://github.com/Jaganite/IIPs/assets/171840128/a4411844-488f-4baf-8d44-12cc0b044533)
 
 If all six illuvials have the maximum 150% bonus efficiency, bonuses would be as follows:
 
-![image](https://github.com/Jaganite/IIPs/assets/171840128/724a9be3-681e-463c-89f9-d82cbaeeb033)
+![image](https://github.com/Jaganite/IIPs/assets/171840128/5e4e3b9d-a91c-44c5-895b-9a5e67823e58)
 
 In this last example, a Ryplance training in this Training Grounds structure would receive a bonus experience percentage of 67.5% (22.5% + 15% + 7.5% + 22.5%). A Geyser training here would only receive a 15% bonus experience from the water synergy and a Rhamphyre would gain no bonus experience at all.
 
