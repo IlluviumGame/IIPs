@@ -93,7 +93,7 @@ These Illuvials would compose a total bonus of:
 
 If all six Illuvials have the standard 100% bonus efficiency, bonuses would be as follows:
 
-![image](https://github.com/Jaganite/IIPs/assets/171840128/a4411844-488f-4baf-8d44-12cc0b044533)
+![image](https://github.com/Jaganite/IIPs/assets/171840128/a9018ea9-c3e0-4815-9433-833dcc70bbb8)
 
 If all six illuvials have the maximum 150% bonus efficiency, bonuses would be as follows:
 
