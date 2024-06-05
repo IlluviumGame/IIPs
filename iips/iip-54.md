@@ -1,5 +1,5 @@
 ---
-iip: 53
+iip: 54
 title: Changing Illuvium Zero Launch Timing to Synchronized Release with Overworld and Arena
 status: Proposed
 sponsor: Kieran | Illuvium
