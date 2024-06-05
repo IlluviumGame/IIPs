@@ -19,9 +19,10 @@ The proposal aims to create a dynamic player-driven ecosystem for Illuvial train
 
 ## Overview:
 The creation of the Training Grounds structure, the introduction of illuvial staking mechanism and the implementation of the TrainingDex must all be executed together, as they are all crucial for creating a vibrant and dynamic ecosystem for Illuvial training.
+
 Here's a breakdown of each one:
 
-###Training Grounds###
+### Training Grounds
 The Training Grounds offer landowners a way to either train their Illuvials, passively accumulating experience, or to rent out free spaces to other rangers. All the names, guidelines, structure details, terminology, and training costs are only suggestions, and it will be up to the team to decide on them.
 
 **Guidelines**
@@ -60,17 +61,20 @@ The Training Grounds offer landowners a way to either train their Illuvials, pas
 **Land Tier Bonus**
 
 Here’s an example of the innate experience bonus for each land plot tier:
+
 ![image](https://github.com/Jaganite/IIPs/assets/171840128/a2505430-6562-4087-9a24-411b75b3923c)
 
 **Training Costs**
 
 Here’s an example of the Training Grounds costs, X represents the fuel cost:
+
 ![image](https://github.com/Jaganite/IIPs/assets/171840128/3ac05b0f-3c3f-437c-adf4-ae92b3e01ef8)
 
 **Renting Costs**
+
 If the training cost for a specific Training Grounds spot is X, then the landowner would set the rental price at X + Y, where Y represents their share for renting out the Training Grounds. The ranger utilizing the Training Grounds would pay X + Y + Z, with Z being the DAO fee.
 
-###Illuvial Staking###
+### Illuvial Staking
 Illuvial staking enables landowners to stake Illuvials within the Training Grounds, where they act as teachers, raising the level cap to which Illuvials can be trained and providing an experience bonus to matching Illuvials undergoing training. The training level cap is determined by the average level of the staked Illuvials teaching at the Training Grounds, and the bonus efficiency is determined by the sum of the staked Illuvial’s individual stats.
 
 ![image](https://github.com/Jaganite/IIPs/assets/171840128/229eafc5-5f82-4f57-b8d2-f95fa1b2d15b)
@@ -92,7 +96,7 @@ If all six illuvials have the maximum 150% bonus efficiency, bonuses would be as
 
 In this last example, a Ryplance training in this Training Grounds structure would receive a bonus experience percentage of 67.5% (22.5% + 15% + 7.5% + 22.5%). A Geyser training here would only receive a 15% bonus experience from the water synergy and a Rhamphyre would gain no bonus experience at all.
 
-###Training Marketplace (TrainingDex)###
+### Training Marketplace (TrainingDex)
 TrainingDex serves as a marketplace for advertising a landowner’s Training Grounds. Landowners can choose to publicize their Training Grounds on the TrainingDex, allowing rangers to browse and select suitable training facilities. This marketplace promotes player-driven interactions, enriching the player experience and providing another revenue stream for the DAO. The fee is paid by the ranger utilizing the Training Grounds and varies according to the interface they use. The website or mobile app will have the highest fee, while accessing the TrainingDex through Sanctum Mesa incurs the normal fee, and accessing it through the Illuvium Zero results in a discounted fee. The fee would be automatically sold at the current market price, with all proceeds going entirely to the DAO, similar to the fees on the Illuvidex, for revenue distribution.
 
 Introducing the TrainingDex within the current marketplace building seems to be the most logical choice. However, the decision ultimately rests with the team, whether they prefer to integrate this feature into the existing marketplace building, incorporate it into the Training Grounds building, or opt for the creation of an entirely new building dedicated to the TrainingDex.
