@@ -89,7 +89,7 @@ For example, a Training Grounds structure with six available staking spots, wher
 
 These Illuvials would compose a total bonus of:
 
-![image](https://github.com/Jaganite/IIPs/assets/171840128/d8b3b9e1-e99d-46f7-a62e-2dfe6660c34d)
+![image](https://github.com/Jaganite/IIPs/assets/171840128/271e13d9-3aff-4c58-ab72-fade7aaeba84)
 
 If all six Illuvials have the standard 100% bonus efficiency, bonuses would be as follows:
 
