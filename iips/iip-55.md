@@ -74,6 +74,7 @@ Here’s an example of the Training Grounds costs, X represents the fuel cost:
 
 If the training cost for a specific Training Grounds spot is X, then the landowner would set the rental price at X + Y, where Y represents their share for renting out the Training Grounds. The ranger utilizing the Training Grounds would pay X + Y + Z, with Z being the DAO fee.
 
+
 ### Illuvial Staking
 Illuvial staking enables landowners to stake Illuvials within the Training Grounds, where they act as teachers, raising the level cap to which Illuvials can be trained and providing an experience bonus to matching Illuvials undergoing training. The training level cap is determined by the average level of the staked Illuvials teaching at the Training Grounds, and the bonus efficiency is determined by the sum of the staked Illuvial’s individual stats.
 
@@ -86,12 +87,15 @@ To illustrate how the staking bonuses would function, let's assume that the base
 For example, a Training Grounds structure with six available staking spots, where the following Illuvials are staked: Rypter, Rypterus, Ryplance, Carablu, Caradulo, and Cardulox.
 
 These Illuvials would compose a total bonus of:
+
 ![image](https://github.com/Jaganite/IIPs/assets/171840128/a1f6c75d-413b-4118-87cf-c0f6929fd531)
 
 If all six Illuvials have the standard 100% bonus efficiency, bonuses would be as follows:
+
 ![image](https://github.com/Jaganite/IIPs/assets/171840128/82789cbb-626f-4e31-89c8-6819cfd30d58)
 
 If all six illuvials have the maximum 150% bonus efficiency, bonuses would be as follows:
+
 ![image](https://github.com/Jaganite/IIPs/assets/171840128/724a9be3-681e-463c-89f9-d82cbaeeb033)
 
 In this last example, a Ryplance training in this Training Grounds structure would receive a bonus experience percentage of 67.5% (22.5% + 15% + 7.5% + 22.5%). A Geyser training here would only receive a 15% bonus experience from the water synergy and a Rhamphyre would gain no bonus experience at all.
