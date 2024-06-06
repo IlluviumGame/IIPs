@@ -12,7 +12,7 @@ Illuvium ecosystem's magic experience depends on its game's interoperability. Ea
 ## Objective
 This proposal aims to ensure we get Arena rewards back for the Open Beta launch so that the game is in a competitive state and the whole ecosystem comes alive.
 
-## Rationale:
+## Rationale
 The competitive side of the Arena is a key component of our ecosystem. Here's a more visual representation of our ecosystem chain:
 
 (Illuvium-Zero → Illuvium Overworld → Illuvium Arena → Arena Reward) = 
