@@ -1,5 +1,5 @@
 ---
-iip: 57
+iip: 58
 title: Coherent and Consistent Airdrop Structure
 status: Proposed
 sponsor: Ligyron
@@ -9,13 +9,13 @@ discussions-to: https://discord.com/channels/760344898200666112/1251221577119432
 ## Simple Summary:
 Restructure the holo-airdrop points to be more aligned with the previous point system in regards of amount and variance.
 
+## Objective/Abstract:
+This proposal aims to ensure that the current and future airdrop structures are monitored more accurately in regards to coherence, consistency and the general points of the concept written in the introduction.
+
 ## Introduction:
 We all appreciate the chance to be part of the Illuvium universe and are grateful for the opportunity to earn while testing the game.
 
 A marketing campaign like the airdrop event can be an important tool to attract new users and to encourage users to invest more time into a game that will reset the entire progress in due time. With these incentives a company implies that the time a user puts into the project will be rewarded consistently by receiving a **fair** share of the reward pool for their invested time. As a result of this unspoken promise the company has the responsibility to ensure that the points are distributed in a fair, transparent and consistent manner. This behavior leads to a mutual agreement between users and company and ensures that new players are rewarded equally for their invested time. In other words, it doesn’t matter if a person starts playing at the beginning of the airdrop or at the end because the amount gained per hour does decrease for everybody equally based on the number of competitors and their invested time.
-
-## Objective/Abstract:
-This proposal aims to ensure that the current and future airdrop structures are monitored more accurately in regards to coherence, consistency and the general points of the concept written in the introduction.
 
 ## Overview:
 A game which is in the testing phase is bound to experience a series of changes in a short period of time. Therefore, it can be necessary to restructure the point distribution to give new users a fair start and to respect the time long-term users already invested into the airdrop.
