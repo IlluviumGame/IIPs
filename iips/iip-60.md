@@ -23,7 +23,7 @@ Going from ideation to implementation will be a double approval process. The ste
 5) Council voting takes place. An approval at this step gives Labs a green light to move ahead with development.
 
 ## Voting:
-Gameplay Feature Proposals will be posted with the GFP tag (ex. GFP-XX) in the Governance Ideas channel.Upon reaching 40 upvotes from the community, with more upvotes than downvotes, GFPs will move through normal proposal voting by the Illuvium Community Council and Illuvium Main Council. The upvote requirement to initiate council voting can be changed in the future by ICCP, as Illuvium’s player numbers fluctuate.
+Gameplay Feature Proposals will be posted with the GFP tag (ex. GFP-XX) in the Governance Ideas channel. Upon reaching 40 upvotes from the community, with more upvotes than downvotes, GFPs will move through normal proposal voting by the Illuvium Community Council and Illuvium Main Council. The upvote requirement to initiate council voting can be changed in the future by ICCP, as Illuvium’s player numbers fluctuate.
 
 ## Approval:
 On being approved, GFPs will be added to a planned feature list, for Illuvium Labs to integrate into their development pipeline.
@@ -37,12 +37,12 @@ Game design demands more fluidity than can be offered through the DAO’s normal
 The two approval process is chosen to ensure overall community preferences and thoughts about a gameplay feature are being represented. The first vote serves as a temperature check for the community’s thoughts on the idea for the gameplay feature. This temperature check ensures the DAO is not tasking Labs with extraneous work that may be discarded. The second vote ensures that an actionable feature is being put forward and voted upon, and helps to ensure that overall community expectations are being met with the feature.
 
 ## Gameplay Feature Proposal Template:
-Simple Summary: One or two sentences outlining the core feature to be added or adjusted.
+**Simple Summary:** One or two sentences outlining the core feature to be added or adjusted.
 
-Overview: A description of all the author’s ideas around the gameplay feature or changes to be made. This section should focus on what the feature is and what it does.
+**Overview:** A description of all the author’s ideas around the gameplay feature or changes to be made. This section should focus on what the feature is and what it does.
 
-Economic Integration (Optional): The author’s ideas around how the gameplay feature can fit into the DAO’s economic model.
+**Economic Integration (Optional):** The author’s ideas around how the gameplay feature can fit into the DAO’s economic model.
 
-Interoperability (Optional): The author’s ideas around how the gameplay feature can integrate assets or utilize or enhance features from other Illuvium games.
+**Interoperability (Optional):** The author’s ideas around how the gameplay feature can integrate assets or utilize or enhance features from other Illuvium games.
 
-Rationale: The author’s ideas on why the gameplay feature or changes will improve the player experience. This section should focus on why the feature or changes are needed.
+**Rationale:** The author’s ideas on why the gameplay feature or changes will improve the player experience. This section should focus on why the feature or changes are needed.
