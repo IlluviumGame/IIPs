@@ -29,7 +29,7 @@ X	X	X
 R(min): ~~500~~ 150 ETH
 
 ## Rationale
-By modifying the current revenue distribution mechanism by lowering the minimum ETH threshold to 150 ETH. This adjustment is designed to achieve several key benefits: (1) it will increase the frequency of buybacks, which can help support the token's price and provide a more consistent return to investors; (2) minimize the risk of frontrunning, where traders exploit advanced knowledge of upcoming transactions to gain an unfair advantage; (3) improve overall market stability by creating more predictable and regular buyback events; and (4) enhance investor confidence, reassuring stakeholders of our dedication to maintaining a healthy and robust market environment;
+By modifying the current revenue distribution mechanism by lowering the minimum ETH threshold to 150 ETH. This adjustment is designed to achieve several key benefits: (1) it will increase the frequency of buybacks, which can help support the token's price and provide a more consistent return to investors; (2) minimize the risk of frontrunning, where traders exploit advanced knowledge of upcoming transactions to gain an unfair advantage; (3) improve overall market stability by creating more predictable and regular buyback events; and (4) enhance investor confidence, reassuring stakeholders of our dedication to maintaining a healthy and robust market environment.
 
 ## Test Cases
 None
