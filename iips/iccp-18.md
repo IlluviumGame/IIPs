@@ -15,7 +15,7 @@ This ICCP intends to recalibrate the minimum ETH threshold required to trigger r
 
 R(min): The minimum daily revenue distribution.
 
-	X	X	X
+X	X	X
 
 R(min): 500 ETH
 
@@ -23,7 +23,7 @@ R(min): 500 ETH
 
 R(min): The minimum ~~daily~~ revenue distribution.
 
-	X	X	X
+X	X	X
 
 
 R(min): ~~500~~ 150 ETH
