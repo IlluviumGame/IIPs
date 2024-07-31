@@ -2,7 +2,8 @@
 iip: 63
 title: Dynamic Survival Mode
 status: Proposed
-sponsor: Kieran | Illuvium
+sponsor: Caveman
+key contributor: Kieran | Illuvium
 discussions-to: https://discord.com/channels/760344898200666112/1267866392057872466
 ---
 
