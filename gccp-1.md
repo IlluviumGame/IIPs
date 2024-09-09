@@ -1,5 +1,5 @@
 ---
-iip: 21
+gccp: 1
 title: Illuvinati Council/ Governance Modifications.
 status: Proposed
 author: Kieran Warwick
