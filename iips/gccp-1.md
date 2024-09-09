@@ -1,5 +1,5 @@
 ---
-iccp: 21
+gccp: 1
 title: Esports Committee
 status: Proposed
 sponsor: Patate
