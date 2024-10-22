@@ -73,7 +73,7 @@ At the end of the sale, the total pool will be distributed among the top 250 par
 **Additionally, to boost competition, we are introducing special prizes.**
 -	Top 25 of the leaderboard will receive 1 Unique version of 1 of the Wave 3 Illuvitars.
 -	The top 5 will receive a special HOLO version of one of the Wave 3 Illuvitars.
--	The Winner will receive a special 1 of a kind Wave 3 Illuvitar.
+-	The Winner will receive a special 1 of a kind Wave 3 Illuvitar.\
 The Wave 3 Leaderboard structure will be reviewed after the conclusion of the sale.
 
 ### Wave 3 Alpha Sale
