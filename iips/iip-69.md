@@ -5,7 +5,7 @@ status: Pending
 sponsor: Rogier | Illuvium
 key contributors: Perry | Illuvium, Garf
 discussions-to: https://discord.gg/illuvium
-Created: 22 Oktober 2024
+Created: 22 October 2024
 ---
 
 ### Abstract
