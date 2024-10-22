@@ -44,8 +44,8 @@ Changes to the reward structure can be requested earlier by the council, design 
 
 ### Illuvium Beyond Wave 3 Leaderboard
 
-The Wave 3 Leaderboard will be active exclusively during the Illuvium Beyond Wave 3 Sale. Once the sale period ends, the leaderboard will close, and the winners will be announced.
-The top 250 participants will be rewarded from a shared pool. At the start of the Wave 3 Sale, this pool will contain 2,000 ILV. For every ETH (not sILV2) spent during the sale, the shared pool will increase by 10 ILV.
+The Wave 3 Leaderboard will be active exclusively during the Illuvium Beyond Wave 3 Sale. Once the sale period ends, the leaderboard will close, and the winners will be announced.\
+The top 250 participants will be rewarded from a shared pool. At the start of the Wave 3 Sale, this pool will contain 2,000 ILV. For every ETH (not sILV2) spent during the sale, the shared pool will increase by 10 ILV.\
 At the end of the sale, the total pool will be distributed among the top 250 participants on the Wave 3 Leaderboard.
 
 #### For example on closing day the shared pool = 5000 ILV
@@ -80,7 +80,7 @@ The Wave 3 Leaderboard structure will be reviewed after the conclusion of the sa
 As with the previous two Waves, Wave 3 will also feature an Alpha Sale. 
 However, this sale will have a slightly different structure to emphasise that Alpha Illuvitars have no functional differences compared to regular Illuvitars — they are simply the first of their wave. To highlight their uniqueness, we are introducing a rarity factor for Alpha D1sks. <br>
 There will be a limited release of 2500 Alpha Standard D1sks and 1000 Alpha Mega D1sks, both launching at the start of the Wave 3 sale. <br>
-The only additional perk of the Alpha D1sks is that they will contribute more points toward both personal and community stretch goals.
+The only additional perk of the Alpha D1sks is that they will contribute more points toward both personal and community stretch goals. \
 The Price of the Alpha D1sks is the same as the Wave 2 Alpha D1sks. <br>
 The Alpha sale will take place for 24 hours or until sold out. After this period or when sold out - the sale continues automatically with the normal D1sk sale.
 
