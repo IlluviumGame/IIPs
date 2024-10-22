@@ -3,7 +3,7 @@ iip: 69
 title: Illuvium Beyond - Leaderboards and Rewards structure redesign
 status: Pending
 sponsor: Rogier | Illuvium
-key contributors:
+key contributors: Perry | Illuvium, Garf
 discussions-to: https://discord.gg/illuvium
 Created: 22 Oktober 2024
 ---
