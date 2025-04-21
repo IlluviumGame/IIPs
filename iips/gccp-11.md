@@ -1,5 +1,5 @@
 ---
-Gccp: 11
+Gccp: 4
 title: Reduce Council Salary & Restore IMC structure
 status: Pending
 Sponsor: Jaganite
