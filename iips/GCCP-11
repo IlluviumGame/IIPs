@@ -1,8 +1,9 @@
 ---
-iip: 6
+Gccp: 11
 title: GCCP-XX Reduce Council Salary & Restore IMC structure
 status: Pending
-author: Jaganite
+Sponsor: Jaganite
+Key Contributors: Rickytan77, Garf, Scoriox, Paz
 discussions-to: https://discord.gg/illuvium
 created: 21 April 2025
 ---
@@ -67,6 +68,4 @@ This proposal will take effect starting from Epoch 11.
 Rationale
 Reducing council salaries reflects the DAO’s commitment to fiscal responsibility, ensuring the Treasury maintains a healthy reserve of ILV tokens. At the same time, restoring full decentralization to the IMC strengthens governance legitimacy by reaffirming that all voting power comes from the community via staked tokens. By aligning compensation with current market conditions and reinforcing democratic governance, this proposal upholds the values of sustainability, transparency, and decentralization.
 
-Sponsor: Jaganite
-Key contributors: Rickytan77, Garf, Scoriox, Paz
 
