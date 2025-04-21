@@ -1,6 +1,6 @@
 ---
 Gccp: 11
-title: GCCP-XX Reduce Council Salary & Restore IMC structure
+title: Reduce Council Salary & Restore IMC structure
 status: Pending
 Sponsor: Jaganite
 Key Contributors: Rickytan77, Garf, Scoriox, Paz
