@@ -55,8 +55,9 @@ The elected Illuvium Labs representative, if any, shall not receive a council sa
 
 ### Definition of Illuvium Labs:
 Includes but is not limited to Illuvium Labs Inc, Illuvium Labs FZCO, Illuvium Labs Pty Ltd, and their affiliates.
-Risks and Mitigations:
-Reduced Nominee Quality:
+
+## Risks and Mitigations:
+### Reduced Nominee Quality:
 Lower salaries may discourage high-quality candidates. To address this, a performance-aligned compensation model is introduced and the salaries should be reviewed periodically to ensure they remain competitive.
 
 
