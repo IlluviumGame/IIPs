@@ -14,7 +14,7 @@ This proposal aims to strengthen the DAO by reducing council salaries and restor
 ## Overview
 The Illuvium DAO is entering a pivotal phase as the broader crypto industry undergoes a period of transition, marked by evolving investor sentiment and increased focus on sustainable growth. In response, the Illuvium Labs team has initiated several cost-optimization measures to enhance long-term viability and operational efficiency.
 
-#### This proposal consists of two complementary components:
+### This proposal consists of two complementary components:
 Reduction of Council Salaries And Restoration of Full Decentralization to the IMC.
 
 
