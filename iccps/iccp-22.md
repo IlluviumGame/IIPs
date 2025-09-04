@@ -16,6 +16,7 @@ The objective of this proposal is to ensure that the DAO maintains a sufficient 
 
 ## Background
 IIP-29 (February 2023): Established the Safety Pool with a $15M maximum threshold.
+
 ICCP-9 (July 2023): Lowered the threshold from $15M to $5M following a $10M capital raise, while mandating that all current and future revenues be diverted to the Safety Pool until it was filled or Illuvium entered Open Beta.
 
 ## Rationale
