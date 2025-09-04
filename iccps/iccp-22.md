@@ -23,13 +23,18 @@ ICCP-9 (July 2023): Lowered the threshold from $15M to $5M following a $10M capi
 Increasing the Safety Pool to $10M achieves several goals:
 
 Financial Resilience: Provides the DAO with an expanded buffer against unforeseen risks, market downturns, or extended development needs.
+
 Operational Flexibility: Strengthens the DAO’s ability to fund runway expenses, strategic initiatives, or emergency measures without requiring immediate new capital raises.
+
 Alignment with Current Conditions: The initial reduction to $5M (ICCP-9) reflected the capital raise and short-term runway sufficiency. However, with more visibility on long-term needs, a $10M buffer better reflects the DAO’s risk appetite and ensures sustainable operations.
+
 Balance Between Growth and Distribution: While increasing the threshold temporarily diverts funds from revenue distribution, the trade-off provides greater stability for the DAO, ultimately protecting stakers and contributors.
 
 ## Specification
 Threshold Adjustment: The Safety Pool maximum capacity will be raised from $5M to $10M.
+
 Funding Mechanism: Current and future revenues will continue to be diverted into the Safety Pool until the new $10M threshold.
+
 Excess Revenue: Any revenue beyond the $10M threshold will flow directly to the Vault for Revenue Distribution.
 
 ## Financial Impact
