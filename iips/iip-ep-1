@@ -1,0 +1,53 @@
+---
+iip-ep: 1
+title: Illuvium - Fuel Exchange and Economic Model Rework
+status: Proposed
+author: Perry
+Reviewers: Rogier/Jeremy
+created: 2025-10-24
+Blackout Period Start: 28/11/24
+Blackout Period End: 30 minutes after communication of emergency proposal
+---
+
+## Abstract
+This proposal outlines fundamental updates to the working of the Fuel Exchange and therefore the core economic loop of Illuvium. These changes are designed to provide long term stability and ease of onboarding new players.
+## Simple Summary
+This proposal covers four key areas:
+All three Fuel Types: Crypton, Solon and Hyperion that are currently available in the overworld and Arena will be converted into a new Fuel, equally called "Fuel". Once Crypton, Solon and Hyperion leave IZ, these fuels will be converted to the new standard Fuel and be used across the entire Illuvium ecosystem as a singular default currency.
+The DAO will sell Fuel at a fixed price.
+Everything Illuvium will be purchased with Fuel and 5% of all Fuel Sales will go to Land Holders in proportion to their Illuvium Zero Fuel Sold to the DAO per Period.
+Sending Fuel to your own account from your plots will be disabled.
+## Overview
+### Fuel Type Merging
+To improve the onboarding process for new players on the side of the Fuel Exchange (Online Store), all Fuel Types will be converted to one Fuel. On the side of Illuvium Zero, the three types of Fuel are an integral part of gameplay and each Fuel Type burnt to the new Fuel will count as the same, leading to mostly the same gameplay. The loss of arbitrage via conversion is acknowledged as a regrettable but inherent consequence of the proposal. 
+
+A migration process will be in place, which turns the three Fuel Types in your wallet into Fuel and gives out a special cosmetic to all wallets with at least 1,000 of the new Fuel at the time of migration
+### Fuel at a Fixed Price
+The current Fuel economy has proven to be a net negative for the DAO in terms of revenue generation. When looking at the problem fundamentally, two paths forward started to show itself:
+
+Firstly, the conclusion can be made that varying price as a function of demand for Illuvium NFT collections is a great feature, but the execution is flawed. This can either be attributed to the lack of bottom rail or to the lack of automation around manipulating either the supply from Illuvium Zero or the multiplier at which the DAO mints fuel (while keeping 19:1 revenue distribution). This multiplier currently sits at 19x to automatically adhere to the 19:1 split for stakers and land holders respectively. 
+
+Secondly, the conclusion can be made that varying price is a failed experiment in itself through its hurdles for onboarding. The price of going on a run or crafting an item or any future sink being X one day and Y the other day, will lead to question marks and possibly frustration.
+
+This proposal lands on the second conclusion as the recommended path forward for the DAO. Creating a stable pricing for all fuel moving forward will stabilize the price of assets. While the arguments for the first conclusion are valid and this proposal asserts that an intervention is required, making onboarding as simple as possible for players who might not be interested or used to complex market dynamics is seen as the greater good.
+Furthermore, this proposal asserts that the DAO should currently prioritise making fun games with ownership of amazing characters, rather than experimenting with new economic systems which:
+The proposed system of a set price allows the DAO to focus on these more pressing matters while adhering to the following key pillars:
+
+- Can’t be gamed 
+- Is simple for newcomers 
+- Has a small amount of development effort
+- Detach Illuvium Zero design from economic consequences
+
+Therefore, Labs shall sell Fuel at a fixed price at an approximate target of 25% of the current top rail. For any large sweeping changes, the DAO is to be consulted before any adjustments to allow them to veto through internal discussion if necessary.
+Players will receive the new fuel at an amount equal to the purchasing power of the Fuel Type with the highest weekly average price before the date of migration. Furthermore, the price of one Fuel shall be pegged to a set price and further rebalanced. All current orders on the FEX are cancelled at the time of release.
+An example with a pricing of $0.01 would look like the following: Crypton has had a weekly average price of 5% of max rail and had the highest weekly average price of the 3 Fuel Types. The player has 20000 fuel across the three fuel types, which at current ETH price is purchasing akin to 1000 fuel + 19000 bonus fuel. With the fuel price at $0.008, the purchasing power is $8.00, this means the player gets 800 bonus fuel.
+### Land Holder Distribution of Earnings
+Due to land holders being promised 5% of Online Sales during the Land Sale, this proposal suggests that the distribution of said 5% will be done in ETH proportionally to the amount of fuel that land plots burn to the DAO. Where selling in this context means giving it up to not use yourself.
+
+This distribution will take place every Period. Initially the Period will be set to a month, in the future the DAO can adjust this Period. The Ledger will live within IZ and act as a proof of fairness alongside blockchain transactions
+### Disabling Sending Fuel to Overworld Wallet from Plot
+Given this proposal is trying to detach the economic balancing of Fuel from gameplay to open up tuning to make the games more fun, the send to self functionality will be disabled and land owner players can instead buy fuel off the DAO with the distributed ETH every Period. This ensures no design debt in the future between the supply of Illuvium Zero and demand for other games or services.
+
+## Rationale
+With this fundamental redesign of the fuel exchange and the economic Illuvium loop, Illuvium can vastly improve onboarding for new players through simplicity while also ensuring economic stability for our NFT collections while keeping the promises made during the Land Sale intact. By making these fundamental detachments between economy and design now, we can ensure that we can make our games fun without worrying about making players economically unhappy.
+
