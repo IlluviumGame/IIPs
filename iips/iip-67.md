@@ -1,7 +1,7 @@
 ---
 iip: 67
 title: Ensuring Fair leaderboard rewards for Illuvium Beyond
-status: Pending
+status: Declined
 sponsor: Spacelover
 key contributor: Garf
 discussions-to: https://discord.gg/illuvium
