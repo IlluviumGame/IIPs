@@ -1,7 +1,7 @@
 ---
 iip: 6
 title: Launch Staking Flash Pool for AXS Token (Axie Infinity)
-status: Proposed
+status: Implemented
 author: SynthaMan (@SNXified)
 discussions-to: https://discord.gg/illuvium
 created: 2021-07-15
