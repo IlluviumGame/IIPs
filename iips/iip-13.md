@@ -42,17 +42,17 @@ available for purchase again, unless from another user on the IlluviDEX.
 TBD
 
 ### Base Illuvitar Pricing
-![Pricing](../assets/iip-13/Illuvitar-price.png)
+TBD
 
 ### Accessory Types
-* Head
-* Eyes
-* Body
-* Mouth
+* Headwear
+* Eyewear
+* Bodywear
+* Prop
+* Skin
 
 ### Accessory Pricing
-![Pricing](../assets/iip-13/accessory-price.png)
-
+TBD
 Both sILV and ETH can be used and the final price is subject to approval from the council
 before the sale date.
 Illuvitars and accessories will be sold in the IlluviDEX and act as the first method by which
