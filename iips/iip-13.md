@@ -1,7 +1,7 @@
 ---
 iip: 13
 title: Illuvitars
-status: Proposed
+status: Implemented
 author: Kieran Warwick
 discussions-to: https://discord.gg/illuvium
 created: 2021-10-15
