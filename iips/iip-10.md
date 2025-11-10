@@ -1,6 +1,6 @@
 ---
 iip: 10
-title: Mini Game
+title: Illuvium Zero
 status: Implemented
 author: Aaron Warwick (aaron@illuvium.io)
 discussions-to: https://discord.gg/illuvium
