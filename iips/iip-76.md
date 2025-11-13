@@ -3,7 +3,7 @@ title: Illuvial Collection Tree
 status: Pending
 Sponsor: Nasty 
 Key Contributors: Nasty, Community Council
-discussions-to: 
+discussions-to: https://discord.com/channels/760344898200666112/1436815138639446126
 ---
 ## Summary:
 This proposal introduces a progression system that ties player rewards to a collection of illuvials and playing all current and future games. It incentivizes passive collecting (endless progression) and playing all of our games (season based, to keep things fresh and engaging). The Tree starts grey and hollow, and it obtains its color, fruits and glow as players acquire new illuvials, improve their collection and progress the 3 different tiers. This system will act as the foundation to build use cases for collecting assets and can easily connect to other parts of the ecosystem through additional branches/mini trees. 
