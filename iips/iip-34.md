@@ -1,6 +1,6 @@
 ---
 iip: 34
-title: Ascendant Arena Rule Structure Revision for Equitable Participation
+title: Ascendant Arena Rule Structure Revision
 status: Pending
 author: 𝗣𝗮𝘁𝗮𝘁𝗲 | 𝗛𝗬𝗣𝗘#8888
 discussions-to: https://discord.gg/illuvium
