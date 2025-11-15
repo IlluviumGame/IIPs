@@ -30,7 +30,7 @@ Alpha disks are available for three days from the start of the sale or until sol
 
 ## Misprints: 
 
-Any Illuvitars not revealed in the first 3 months from the sale date will be considered "Misprints" and exceptionally rare. These misprints will be auctioned off after Wave 1 of the sale.
+Any Illuvitars not revealed in the first 3 months from the sale date will be considered "Misprints" and exceptionally rare. These misprints will be auctioned off after Set 1 of the sale.
 
 ## Launch Party Goals: 
 The Illuvium Launch Party Goals have been created to keep customers engaged. The specific goals will be kept a mystery, but two examples are:
