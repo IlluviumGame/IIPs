@@ -1,7 +1,7 @@
 ---
 iip: 33
 title: Trading Blackout
-status: Pending
+status: Implemented
 author: Scrubadubdad#0001
 discussions-to: https://discord.gg/illuvium
 created: 2023-05-24
