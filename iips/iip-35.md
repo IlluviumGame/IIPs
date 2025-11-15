@@ -2,7 +2,7 @@
 iip: 35
 title: Peer & Self Evaluation for Council Members
 status: Implemented
-author: scrubadubdad
+author: Scrubadubdad
 discussions-to: https://discord.gg/illuvium
 created: 2023-07-25
 ---
