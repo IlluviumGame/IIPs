@@ -1,8 +1,8 @@
 ---
 iip: 34
 title: Ascendant Arena Rule Structure Revision
-status: Pending
-author: 𝗣𝗮𝘁𝗮𝘁𝗲 | 𝗛𝗬𝗣𝗘#8888
+status: Implemented
+author: Patate | Hype
 discussions-to: https://discord.gg/illuvium
 created: 2023-07-16
 ---
