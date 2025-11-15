@@ -19,4 +19,4 @@ Twitter poll by Fraggy - 134 votes / 72,4% Yes / 27,6% No
 Votes on proposal idea in Discord - 58 Yes 8 No
 
 ## Test Cases:
-Common in Web(s)
+N/A.
