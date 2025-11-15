@@ -1,6 +1,6 @@
 ---
 iip: 27
-title: Spider IIP
+title: Spider Illuvial
 status: WIP
 author: Fraggy (Fraggy#8503)
 discussions-to: https://discord.gg/illuvium
