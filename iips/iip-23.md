@@ -1,7 +1,7 @@
 ---
 iip: 23
 title: Illuvium Forge
-status: Proposed
+status: Declined
 author: Aaron Warwick & Pedro Bergamini (0xpedro.eth)
 discussions-to: https://discord.gg/illuvium
 created: 2022-06-22
