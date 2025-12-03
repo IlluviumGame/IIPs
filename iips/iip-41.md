@@ -1,7 +1,7 @@
 ---
 iip: 41
 title: Illuvium PvP Tournament Fund
-status: Pending
+status: Revisions Needed
 sponsor: Scoriox#2720
 discussions-to: https://discord.gg/illuvium
 created: 2023-10-10
