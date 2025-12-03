@@ -1,7 +1,7 @@
 ---
 iip: 19
 title: Launch Staking Flash Pool for ApeCoin Token (BAYC/MAYC NFT ecosystem token)
-status: Proposed
+status: Declined
 author: SynthaMan (@SNXified)
 discussions-to: https://discord.gg/illuvium
 created: 2022-03-28
