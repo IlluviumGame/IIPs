@@ -1,7 +1,7 @@
 ---
 iip: 22
 title: Revenue Distribution
-status: Proposed
+status: Implemented
 author: Aaron Warwick
 discussions-to: https://discord.gg/illuvium
 created: 2022-05-31
