@@ -1,7 +1,7 @@
 ---
 iip: 20
 title: Parameters for Illuvium Zero Land Sale
-status: Proposed
+status: Implemented
 author: Aaron Warwick (kieran@illuvium.io)
 discussions-to: https://discord.gg/illuvium
 created: 2021-11-19
