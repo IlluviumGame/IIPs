@@ -1,7 +1,7 @@
 ---
 iip: 29
 title: Safety Pool
-status: Pending
+status: Implemented
 author: Blickter (Blickter#8107)
 discussions-to: https://discord.gg/illuvium
 created: 2023-01-04
