@@ -1,7 +1,7 @@
 ---
 iip: 17
 title: Delaying Seed/Team-Token Unlocks
-status: Proposed
+status: Implemented
 author: Kieran Warwick (kieran@illuvium.io)
 discussions-to: https://discord.gg/illuvium
 created: 2022-03-09
