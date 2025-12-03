@@ -1,7 +1,7 @@
 ---
 iip: 31
 title: Cancel Su Zhu Illuvitar Battle
-status: Pending
+status: Implemented
 author: Deraji
 discussions-to: https://discord.gg/illuvium
 created: 2023-02-26
