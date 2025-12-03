@@ -1,7 +1,7 @@
 ---
 iip: 32
 title: Governance Version 2
-status: Pending
+status: Implemented
 author: Kieran Warwick
 discussions-to: https://discord.gg/illuvium
 created: 2022-08-01
