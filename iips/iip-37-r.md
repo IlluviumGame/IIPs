@@ -1,7 +1,7 @@
 ---
 iip: 37-R
 title: Allow Purchasers and Land Holders To create Buy/Sell Orders For Fuel
-status: Pending
+status: Implemented
 author: Aaron | Illuvium
 discussions-to: https://discord.gg/illuvium
 created: 2023-08-08
