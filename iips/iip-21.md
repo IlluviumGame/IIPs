@@ -1,7 +1,7 @@
 ---
 iip: 21
 title: Illuvinati Council/ Governance Modifications.
-status: Proposed
+status: Implemented
 author: Kieran Warwick
 discussions-to: https://discord.gg/illuvium
 created: 2022-05-25
