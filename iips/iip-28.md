@@ -1,7 +1,7 @@
 ---
 iip: 28
 title: Withdrawal of Sushiswap Liquidity
-status: Pending
+status: Implemented
 author: Blickter (Blickter#8107)
 discussions-to: https://discord.gg/illuvium
 created: 2022-12-09
