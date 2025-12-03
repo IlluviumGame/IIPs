@@ -1,6 +1,6 @@
 ---
 iip: 5
-title: Staking Treasury Sushi LP 
+title: Staking Treasury Sushi Liquidity Pool 
 status: Implemented
 author: Kieran Warwick (kieran@illuvium.io)
 discussions-to: https://discord.gg/illuvium
