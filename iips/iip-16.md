@@ -1,7 +1,7 @@
 ---
 iip: 16
 title: $sILV reimbursement
-status: Declined
+status: Rejected
 author: Kieran Warwick (kieran@illuvium.io)
 discussions-to: https://discord.gg/illuvium
 created: 2022-01-14
