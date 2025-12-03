@@ -1,7 +1,7 @@
 ---
 iip: 26
 title: Staked ILV Voting
-status: WIP
+status: Implemented
 author: Blickter (Blickter#8107)
 discussions-to: https://discord.gg/illuvium
 created: 2022-11-14
