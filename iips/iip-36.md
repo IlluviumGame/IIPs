@@ -1,7 +1,7 @@
 ---
 iip: 36
 title: Affiliate Marketing for Illuvium Beyond
-status: Pending
+status: Implemented
 author: scoriox
 discussions-to: https://discord.gg/illuvium
 created: 2023-08-09
