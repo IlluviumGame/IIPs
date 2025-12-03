@@ -1,7 +1,7 @@
 ---
 iip: 18
 title: Illuvium Staking v2
-status: Proposed
+status: Implemented
 author: Kieran Warwick (kieran@illuvium.io)
 discussions-to: https://discord.gg/illuvium
 created: 2022-03-18
