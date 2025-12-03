@@ -1,7 +1,7 @@
 ---
 iip: 24
 title: Illuvitars Sale Revamp
-status: Proposed
+status: Implemented
 author: Aaron Warwick
 discussions-to: https://discord.gg/illuvium
 created: 2022-08-08
