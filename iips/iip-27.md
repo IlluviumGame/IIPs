@@ -1,7 +1,7 @@
 ---
 iip: 27
 title: Spider Illuvial
-status: WIP
+status: Approved
 author: Fraggy (Fraggy#8503)
 discussions-to: https://discord.gg/illuvium
 created: 2022-12-13
