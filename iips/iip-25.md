@@ -1,7 +1,7 @@
 ---
 iip: 25
 title: Council Pay & Voting Mechanism
-status: Proposed
+status: Implemented
 author: Rich | Illuvium
 discussions-to: https://discord.gg/illuvium
 created: 2022-11-1
