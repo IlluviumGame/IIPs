@@ -1,7 +1,7 @@
 ---
 iip: 15
 title: $sILV claims on hold
-status: Proposed
+status: Implemented
 author: Kieran Warwick (kieran@illuvium.io)
 discussions-to: https://discord.gg/illuvium
 created: 2022-01-03
