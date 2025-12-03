@@ -4,7 +4,7 @@ title: Exclusive Illuvium Zero Battle Board Rewards
 status: Rejected
 author: Splendor - Phantom (splendor6471)
 discussions-to: https://discord.gg/illuvium
-created: 09-12-2023
+created: 2023-09-12
 ---
 
 ## Simple Summary:
