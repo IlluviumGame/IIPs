@@ -1,7 +1,7 @@
 ---
 iip: 14
 title: Illuvinati Council Modifications
-status: Proposed
+status: Implemented
 author: Santiago RS#5914
 discussions-to: https://discord.gg/illuvium
 created: 2021-11-23
