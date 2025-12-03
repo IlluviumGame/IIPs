@@ -1,7 +1,7 @@
 ---
 iip: 42
 title: Governance V3
-status: Pending
+status: Implemented
 author: Kieran (Kieran | Illuvium#0745)
 discussions-to: https://discord.gg/illuvium
 created: 2023-10-16
