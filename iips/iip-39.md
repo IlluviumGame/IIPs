@@ -2,7 +2,7 @@
 iip: 39
 title: Fuel and Land Plot Balancing
 status: Implemented
-sponsor: ani_knows#5501
+sponsor: Animositas
 discussions-to: https://discord.gg/illuvium
 created: 2023-08-03
 updated: 2023-09-03
@@ -70,10 +70,3 @@ A top guardrail will be used to position the actual price of fuel produced by th
 By structuring player-generated fuel as a discount compared to the top guardrail price, it moves Illuvium Zero players into a symbiotic position with Overworld players instead of an opposing position. 
 
 The timing needed to develop Zero land virtually ensures that for the first weeks or months after Overworld launch, the price of fuel will stay at or just under the top guardrail. Launching Illuvium Zero weeks in advance reduces the time to reach a stable, free-market equilibrium. The top guardrail should be rarely used the longer the system runs.
-
-
-## Sponsor:
-Animositas
-
-## Contributors:
-Nijafe, Vetemor, Scrubadubdad, Nick | Illuvium, Seatin
