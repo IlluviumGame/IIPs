@@ -1,7 +1,7 @@
 ---
 iip: 30
 title: Proposal for the Sale of Illuvitars
-status: Pending
+status: Implemented
 author: Kieran Warwick
 discussions-to: https://discord.gg/illuvium
 created: 2023-02-06
