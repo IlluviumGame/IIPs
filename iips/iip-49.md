@@ -1,8 +1,8 @@
 ---
 iip: 49
 title: QuestDex and Player-Driven Quest System
-status: Pending
-Sponsor: Filow 
+status: Rejected
+Sponsor: Filo
 Key Contributors: Aaron, Nijafe, Scoriox, Dr.Spoon, Splendor, Jimberino, nASTY, yeehah
 discussions-to: https://discord.com/channels/760344898200666112/1233056314142363779
 created: 2024-05-27
