@@ -2,7 +2,7 @@
 iip: 53
 title: Automated Drone Trips for Resource Gathering
 status: Revisions Needed
-sponsor: Filow
+sponsor: Filo
 discussions-to: https://discord.com/channels/760344898200666112/1233368192798298182/1233368192798298182
 key-contributors: ScrubaDubDad, Scoriox, Dr.Spoon, Torrex, zz cap, JoshETH, ape41, Artemis, Doooom, Amino
 created: 2024-06-04
