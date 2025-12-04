@@ -1,7 +1,7 @@
 ---
 iip: 50
 title: Illuvial Training Gyms for Illuvium Zero
-status: Pending
+status: Rejected
 sponsor: HappyBallz
 key contributors: Dr.Spoon, Paz, Jaganite
 discussions-to: https://discord.com/channels/760344898200666112/1229734551006216193
@@ -34,7 +34,7 @@ Post open beta development expected.
 
 ## Appendix: 
 ### The following graphic and info is to provide ideas, suggestions and examples for the Training Gyms possible size, functions and additional options for interoperability. 
-![appendix1](https://github.com/IlluviumGame/IIPs/assets/126357963/ad9ca746-bf28-4425-bdce-d0ae8e981f55)
+![Appendix](../assets/iip-50/training-gyms-table.png)
 
 ## Gym outline Example:
 
