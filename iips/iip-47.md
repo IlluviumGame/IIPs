@@ -1,11 +1,11 @@
 ---
 iip: 47
-title: lluvium Beyond Wave Duration Adjustment
+title: Illuvium Beyond Wave Duration Adjustment
 status: Pending
-Sponsor: Filow 
+Sponsor: Filow
 Key Contributors: Aaron, Nick, Scoriox, Artemis, JollyDodger, MegaRatty
-discussions-to: [
-](https://discord.com/channels/760344898200666112/1207640261451317288/1207640261451317288)https://discord.com/channels/760344898200666112/1207640261451317288/1207640261451317288created: 2024-02-07
+discussions-to: https://discord.com/channels/760344898200666112/1207640261451317288/1207640261451317288
+created: 2024-02-07
 ---
 ## Simple Summary:
 Change the remaining Illuvium Beyond set 1 wave’s duration from three months to four months and have the gap period between waves be adjustable by the team. This will be best to sync Illuvium Beyond with Illuvium Overworld set 1 and increase the flexibility of the promotional partnerships.
