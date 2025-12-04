@@ -1,5 +1,5 @@
 ---
-iip: 50-Revised
+iip: 50-R
 title: Illuvial Training Gyms for Illuvium Zero
 status: Rejected
 sponsor: HappyBallz
