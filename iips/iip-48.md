@@ -1,8 +1,8 @@
 ---
 iip: 48
 title: Illuvium Beyond Individual Stretch Goals
-status: Pending
-Sponsor: Filow 
+status: Revisions Needed
+Sponsor: Filo
 Key Contributors: Nick, Scoriox, Blickter, Positivity, Alexa, BinetCauchy, Rickytan77, Wucko
 discussions-to: https://discord.com/channels/760344898200666112/1202501917402599484
 ---
@@ -21,7 +21,7 @@ The lack of higher threshold rewards for the top buyers. This would be fixed wit
 ## Overview:
 1.	In wave 2, there was a reward of 1 Mega D1sk for every 25 D1sks bought. This created a very disproportionate incentive between buying Mega D1sks and Standard D1sks and made buyers feel like they were losing value by not buying Standard D1sks. This can be solved with the introduction of a Mega D1sk multiplier. By adding a 5x point multiplier for buying a Mega D1sk we remove the disproportional incentive to buy Standard D1sks and balance the incentive for both types of D1sks. 
 
-The feedback from the community was that they loved the introduction of cumulative rewards and that it was an excellent addition to the individual stretch goals that made them buy more D1sks than what they were originally intending to. The implementation of a simple change such as alternating the type of free D1sks given will help to avoid diluting only the future supply of Mega D1sks but of Standard D1sks as well. This will also help tone down the overall rewards being distributed. For example, if in wave 3 someone buys 10 Mega D1sks, that would equate to 50 points which would get them one free Standard D1sk and one free Mega D1sk, whereas before it would give no bonus D1sk.
+2. The feedback from the community was that they loved the introduction of cumulative rewards and that it was an excellent addition to the individual stretch goals that made them buy more D1sks than what they were originally intending to. The implementation of a simple change such as alternating the type of free D1sks given will help to avoid diluting only the future supply of Mega D1sks but of Standard D1sks as well. This will also help tone down the overall rewards being distributed. For example, if in wave 3 someone buys 10 Mega D1sks, that would equate to 50 points which would get them one free Standard D1sk and one free Mega D1sk, whereas before it would give no bonus D1sk.
 
 3.	Higher threshold rewards were present in wave 1 with the reward, “User can design and name a plant in the Overworld '' at 10,000 D1sks and the “User can design and name an illuvitar accessory variation for wave 2“ at 20,000 D1sks. The re-introduction of these levels of threshold rewards would not only disincentivize players from having multiple wallets but would also reward those who really push Beyond to the limit as well. It is up to the team to decide on the rewards given. The Ranger Suit skin and Holo Battle Board can be pushed to a higher threshold or they can create additional rewards for the 5,000 and 10,000 point threshold like there were in wave 1.
 
