@@ -47,7 +47,7 @@ Illuvium Zero release is 4 weeks after Open Beta release, followed by a 4 week P
 Given the lack of public information regarding the fuel consumption and value associated with a stage 1 run in the Overworld, I propose a weekly airdrop of x-amount of fuel, equivalent to n-amount of stage 1 runs. These airdrops will be distributed in a manner similar to Airdrop1 fuel crates, directly into the wallets holding the land at the time of distribution. Furthermore, to emphasize the priority of Zero development, these airdrops will escalate monthly with a multiplier of 2. For instance, if there is a delay of one month, the airdrop will double in value to accommodate 2 stage 1 runs, and so forth.
 
 ## Example Airdrop:
-![Screenshot 2024-05-16 124242](https://github.com/buudz/IIPs/assets/126357963/16857067-2559-44a9-8d5b-89c60c179ebd)
+![Airdrop](../assets/iip-52/airdrop-tiers.png)
 
 ### Rationale:
 Illuvium: Zero was intended to be live prior to Arena + Overworld to ramp up fuel production.
