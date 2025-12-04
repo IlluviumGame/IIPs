@@ -1,5 +1,5 @@
 ---
-iip: 41
+iip: 41-R
 title: Illuvium PvP Tournament Fund
 status: Implemented
 sponsor: Scoriox#2720
