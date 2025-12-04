@@ -1,13 +1,13 @@
 ---
 iip: 51
 title: Adjusting Vesting and Season Lengths for Loyalty Airdrop and Gameplay Drops
-status: Proposed
+status: Approved
 author: Kieran Warwick
-discussions-to: [https://discord.gg/illuvium](https://discord.com/channels/760344898200666112/1237572602210549810)
+discussions-to: https://discord.com/channels/760344898200666112/1237572602210549810
 created: 2024-05-08
 updated: N/A
 ---
-## IIP-XX: Adjusting Vesting and Season Lengths for Loyalty Airdrop and Gameplay Drops
+## IIP-51: Adjusting Vesting and Season Lengths for Loyalty Airdrop and Gameplay Drops
 
 **Sponsor:** Kieran | Illuvium
 
