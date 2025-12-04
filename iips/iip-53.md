@@ -41,14 +41,13 @@ The drone’s progression system and upgrades could increase resources gathered 
 
 ### Illuvials' average level
 
-![image](https://github.com/lucifer997/IIP/assets/53845094/86bbb820-bd10-416d-a9a8-6992bb129097)
+![Illuvials](../assets/iip-53/illuvials-average-level-bonuses.png)
 
 ### Travel duration
 
 The drone’s progression system and upgrades could also reduce the base Drone Trip travel duration from 0-100%.
 
-![image](https://github.com/lucifer997/IIP/assets/53845094/8bdac28c-f073-4c55-98f5-6d6456c6da0f)
-
+![Drones](../assets/iip-53/drones-bonuses.png)
 ### Resource rarity
 
 The resources drop rate should mirror that of a player-led Overworld travel. The influence of the drone’s progression system and upgrades on this rate will be determined by the team.
