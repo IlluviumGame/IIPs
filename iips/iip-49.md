@@ -5,6 +5,7 @@ status: Pending
 Sponsor: Filow 
 Key Contributors: Aaron, Nijafe, Scoriox, Dr.Spoon, Splendor, Jimberino, nASTY, yeehah
 discussions-to: https://discord.com/channels/760344898200666112/1233056314142363779
+created: 2024-05-27
 ---
 # Simple Summary:
 Introduce a player-driven quest system in the Illuvium Overworld that enables players to create and offer quests to others. This system aims to enhance player interaction and engagement with the Overworld, providing opportunities for investors/collectors to participate without direct gameplay and allowing players access to every Overworld stage and region without paying travel fees. The implementation of this system will require the creation of a marketplace for quests (QuestDex).
