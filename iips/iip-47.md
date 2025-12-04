@@ -1,8 +1,8 @@
 ---
 iip: 47
 title: Illuvium Beyond Wave Duration Adjustment
-status: Pending
-Sponsor: Filow
+status: Rejected
+Sponsor: Filo
 Key Contributors: Aaron, Nick, Scoriox, Artemis, JollyDodger, MegaRatty
 discussions-to: https://discord.com/channels/760344898200666112/1207640261451317288/1207640261451317288
 created: 2024-02-07
