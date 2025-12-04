@@ -1,7 +1,7 @@
 ---
 iip: 46
 title: Illuvium Beyond Reward Structure
-status: Pending
+status: Rejected
 Sponsor: Patate 
 Key Contributors: Alexa, observableuniverse, Artemis, Scoriox, Sifu
 discussions-to: https://discord.com/channels/760344898200666112/1196987941717815296
