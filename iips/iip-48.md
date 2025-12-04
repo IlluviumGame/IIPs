@@ -1,3 +1,4 @@
+---
 iip: 48
 title: Illuvium Beyond Individual Stretch Goals
 status: Pending
