@@ -1,7 +1,7 @@
 ---
 iip: 51
 title: Adjusting Vesting and Season Lengths for Loyalty Airdrop and Gameplay Drops
-status: Approved
+status: Implemented
 author: Kieran Warwick
 discussions-to: https://discord.com/channels/760344898200666112/1237572602210549810
 created: 2024-05-08
