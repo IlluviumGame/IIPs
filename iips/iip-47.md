@@ -1,3 +1,4 @@
+---
 iip: 47
 title: lluvium Beyond Wave Duration Adjustment
 status: Pending
