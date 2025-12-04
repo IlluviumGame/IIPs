@@ -63,6 +63,7 @@ There were a few points of concern raised during discussions regarding this prop
 **Loot distribution**
 
 To address loot distribution challenges, a 'Quest Counter' system could be implemented. This system, assigns each tier/stage a numerical value as shown in the following tables:
+
 ![Screenshot 2024-05-01 at 9 25 46 AM](https://github.com/Nijafe/IIPs/assets/152656998/b1a23752-194f-41f4-b12c-00ae0c86d867)
 
 The loot distribution would commence with the highest tiers, randomly assigning illuvials/materials between the quest creator and the player while their QuestCounter stays below the division threshold or until all loot is distributed. This approach ensures fair distribution, even when dealing with odd numbers, with any surplus illuvials/materials always being allocated to the quest creator. This distribution method would apply whether the quest objective is capturing illuvials, mining rocks, or harvesting plants. Additionally, any loot collected that doesn't match the active quest would be allocated entirely to the quest creator.
