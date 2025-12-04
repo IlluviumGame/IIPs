@@ -1,3 +1,4 @@
+---
 iip: 46
 title: Illuvium Beyond Reward Structure
 status: Pending
