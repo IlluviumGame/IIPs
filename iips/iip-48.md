@@ -5,6 +5,7 @@ status: Revisions Needed
 Sponsor: Filo
 Key Contributors: Nick, Scoriox, Blickter, Positivity, Alexa, BinetCauchy, Rickytan77, Wucko
 discussions-to: https://discord.com/channels/760344898200666112/1202501917402599484
+created: 2024-03-31
 ---
 ## Simple Summary:
 Change the individual stretch goals rewards from ‘number of D1sks bought’ to ‘points earned per D1sk bought’ where Mega D1sks give five times more points than the Standard D1sks. Alternate the cumulative rewards between Mega D1sks and Standard D1sk and re-introduce rewards for the 5,000 and 10,000 points threshold.
