@@ -1,9 +1,11 @@
 ---
 IIP: 52
 Title: Revenue distribution pre-fuel prod. and compensation for delay
+status: Rejected
 Sponsor: Dr.Spoon
 Key Contributors: Tailless (Distribution model)
 Discussions: https://discord.com/channels/760344898200666112/1230284872262877274
+created: 2024-06-04
 ---
 
 ## Simple Summary:
