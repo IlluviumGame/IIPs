@@ -1,7 +1,7 @@
 ---
 iip: 45
 title: Landowner Revenue Share
-status: Pending
+status: Revisions Needed
 author: Nijafe
 discussions-to: https://discord.gg/illuvium
 created: 2024-01-12
