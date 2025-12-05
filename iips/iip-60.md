@@ -1,9 +1,10 @@
 ---
 iip: 60
 title: Gameplay Feature Proposal
-status: Proposed
+status: Implemented
 sponsor: Blickter
 discussions-to: https://discord.com/channels/760344898200666112/1257849182635425792
+created: 2024-07-11
 ---
 
 ## Simple Summary:
