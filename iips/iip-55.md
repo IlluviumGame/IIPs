@@ -1,10 +1,11 @@
 ---
 iip: 55
 title: Training Grounds, Illuvial Staking and TrainingDex
-status: Proposed
+status: Rejected
 sponsor: Dr.Spoon
-key-contributors: Filow, Scoriox, MegaRatty, HappyBallz
+key-contributors: Filo, Scoriox, MegaRatty, HappyBallz
 discussions-to: https://discord.com/channels/760344898200666112/1233071586555330560
+created: 2024-06-11
 ---
 
 ## Simple Summary:
