@@ -1,9 +1,10 @@
 ---
 iip: 56
 title: Competitive Open Beta Launch
-status: Proposed
+status: Rejected
 sponsor: Patate
 discussions-to: https://discord.com/channels/760344898200666112/1244961081722540143
+created: 2024-06-11
 ---
 
 ## Introduction
