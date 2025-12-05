@@ -64,13 +64,13 @@ The Training Grounds offer landowners a way to either train their Illuvials, pas
 
 Here’s an example of the innate experience bonus for each land plot tier:
 
-![image](https://github.com/Jaganite/IIPs/assets/171840128/45b79038-1919-4508-8676-d83e43b65cbe)
+![image](../assets/iip-55/land-tier-bonus.png)
 
 **Training Costs**
 
 Here’s an example of the Training Grounds costs, X represents the fuel cost:
 
-![image](https://github.com/Jaganite/IIPs/assets/171840128/9807bde9-d9ef-4c13-85ba-2101e50ca190)
+![image](../assets/iip-55/training-costs.png)
 
 **Renting Costs**
 
@@ -80,7 +80,7 @@ If the training cost for a specific Training Grounds spot is X, then the landown
 ### Illuvial Staking
 Illuvial staking enables landowners to stake Illuvials within the Training Grounds, where they act as teachers, raising the level cap to which Illuvials can be trained and providing an experience bonus to matching Illuvials undergoing training. The training level cap is determined by the average level of the staked Illuvials teaching at the Training Grounds, and the bonus efficiency is determined by the sum of the staked Illuvial’s individual stats.
 
-![image](https://github.com/Jaganite/IIPs/assets/171840128/ebbcb79d-6eeb-4168-ab00-a243def055ea)
+![image](../assets/iip-55/illuvial-staking-bonus.png)
 
 As shown in the table above, an Illuvial with perfect individual values, totaling a score of 30, would provide an efficiency bonus of 150%. While an Illuvial with a total individual values score of 10 would only grant 50% of the bonus. The standard 100% bonus will be given by an illuvial with a total individual values score of 20.
 
@@ -90,15 +90,15 @@ For example, a Training Grounds structure with six available staking spots, wher
 
 These Illuvials would compose a total bonus of:
 
-![image](https://github.com/Jaganite/IIPs/assets/171840128/ec121007-100f-49ae-b994-e578ebca763b)
+![image](../assets/iip-55/illuvial-total-bonus.png)
 
 If all six Illuvials have the standard 100% bonus efficiency, bonuses would be as follows:
 
-![image](https://github.com/Jaganite/IIPs/assets/171840128/a9018ea9-c3e0-4815-9433-833dcc70bbb8)
+![image](../assets/iip-55/illuvial-standard-bonus.png)
 
 If all six illuvials have the maximum 150% bonus efficiency, bonuses would be as follows:
 
-![image](https://github.com/Jaganite/IIPs/assets/171840128/6e2624f8-2965-4363-9a72-a4d9d2fdc5e0)
+![image](../assets/iip-55/illuvial-max-bonus.png)
 
 In this last example, a Ryplance training in this Training Grounds structure would receive a bonus experience percentage of 67.5% (22.5% + 15% + 7.5% + 22.5%). A Geyser training here would only receive a 15% bonus experience from the water synergy and a Rhamphyre would gain no bonus experience at all.
 
