@@ -13,7 +13,7 @@ This proposal allocates up to $25,000 worth of Fuel per month for marketing effo
 ## Motivation
 To grow the Illuvium ecosystem by providing Fuel to key marketing channels, enhancing the initial experience for new players, and increasing player retention.
 
-## Spesification
+## Specification
 **Monthly Allocation:**
 - Up to $25,000 worth of Fuel for marketing each month.
 
