@@ -1,9 +1,10 @@
 ---
 iip: 61
 title: Fuel Allocation for Marketing Purposes
-status: Proposed
+status: Implemented
 sponsor: Kieran | Illuvium
 discussions-to: https://discord.com/channels/760344898200666112/1265173455955824682
+created: 2024-07-31
 ---
 
 ## Summary
