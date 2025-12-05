@@ -1,9 +1,10 @@
 ---
 iip: 54
 title: Changing Illuvium Zero Launch Timing to Synchronized Release with Overworld and Arena
-status: Proposed
+status: Implemented
 sponsor: Kieran | Illuvium
 discussions-to: https://discord.com/channels/760344898200666112/1237926169756696628
+created: 2024-06-11
 ---
 
 ## Simple Summary:
