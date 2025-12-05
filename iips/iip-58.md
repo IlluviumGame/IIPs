@@ -1,9 +1,10 @@
 ---
 iip: 58
 title: Coherent and Consistent Airdrop Structure
-status: Proposed
+status: Revisions Needed
 sponsor: Ligyron
 discussions-to: https://discord.com/channels/760344898200666112/1251221577119432805
+created: 2024-06-21
 ---
 
 ## Simple Summary:
