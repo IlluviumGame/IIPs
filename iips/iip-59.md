@@ -1,9 +1,10 @@
 ---
 iip: 59
 title: Illuvium Alliance Program
-status: Pending
+status: Implemented
 sponsor: Kieran Warwick
 discussions-to: https://discord.com/channels/760344898200666112/1229734551006216193
+created: 2024-06-11
 ---
 
 ## Summary
