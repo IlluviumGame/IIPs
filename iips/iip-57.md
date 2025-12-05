@@ -1,9 +1,10 @@
 ---
 iip: 57
 title: Removal of Tier 5 Stage 3 Illuvials bought on the Illuvidex from Airdrop Point Eligibility
-status: Proposed
+status: Rejected
 sponsor: Fizzo
 discussions-to: https://discord.com/channels/760344898200666112/1248403352740560896
+created: 2024-06-14
 ---
 
 ## Simple Summary:
