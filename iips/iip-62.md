@@ -1,9 +1,10 @@
 ---
 iip: 62
 title: Streamlining the Onboarding Experience for New Illuvium Players
-status: Proposed
+status: Implemented
 sponsor: Patate
 discussions-to: https://discord.com/channels/760344898200666112/1267636909253988446
+created: 2024-08-04
 ---
 
 ## Summary:
