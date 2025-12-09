@@ -1,10 +1,11 @@
 ---
 iip: 65
 title: Emote D1sks, Cosmetics and Fuel Crate Marketing Budget
-status: Proposed
+status: Implemented
 sponsor: Scoriox
 key contributors: Rich | Illuvium
 discussions-to: https://discord.com/channels/760344898200666112/1270843063698456617
+created: 2024-08-15
 ---
 
 ## Abstract:
