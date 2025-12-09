@@ -3,7 +3,7 @@ iip: 70
 title: Blueprint and Skin Production Streamlining Proposal 
 status: Implemented
 sponsor: Perry | Illuvium
-key contributors: Perry, Christoph, Jay
+key contributors: Christoph, Jay
 discussions-to: https://discord.com/channels/760344898200666112/1301095755787927572
 created: 2024-11-04
 ---
