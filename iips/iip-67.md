@@ -5,7 +5,7 @@ status: Rejected
 sponsor: Spacelover
 key contributor: Garf
 discussions-to: https://discord.gg/illuvium
-Created: 9 September 2024
+Created: 2024-09-09
 ---
 
 ### Simple summary
