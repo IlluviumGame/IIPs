@@ -3,7 +3,7 @@ IIP: 71
 Title: Illuvium Beyond D1SK Allocation for Marketing Purposes
 Status: Implemented
 Sponsor: ScrubaDubDad
-Discussion: discord.com/channels/760344898200666112/1306109039205158965
+Discussion: https://discord.com/channels/760344898200666112/1306109039205158965
 created: 2024-11-18
 ---
 
