@@ -4,7 +4,7 @@ title: Improving Free-to-Play Gameplay and Ownership Value of potentially all Il
 status: Rejected
 author: Viper
 discussions-to: https://discord.com/channels/760344898200666112/1317866800633090188
-created: 2025-01-03
+created: 2025-01-02
 ---
 
 ## Thesis:
