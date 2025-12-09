@@ -1,8 +1,10 @@
 ---
 iip: 68
 title: Move ILV Rewards into Treasury
+status: Implemented
 sponsor: Kieran Warwick
 discussions-to: https://discord.com/channels/760344898200666112/1270843063698456617
+created: 2024-10-22
 ---
 
 ## Abstract:
