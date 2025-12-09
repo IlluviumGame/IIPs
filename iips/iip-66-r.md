@@ -1,9 +1,10 @@
 ---
 iip: 66-R
 title: Remove the Bonus Fuel System
-status: Approved
+status: Implemented
 sponsor: Filow
 discussions-to: https://discord.gg/illuvium
+created: 2024-10-12
 ---
 
 ### Simple Summary
