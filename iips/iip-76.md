@@ -1,9 +1,11 @@
+---
 iip: 76
 title: Illuvial Collection Tree
-status: Pending
+status: Revisions Needed
 Sponsor: Nasty 
 Key Contributors: Nasty, Community Council
 discussions-to: https://discord.com/channels/760344898200666112/1436815138639446126
+created: 2025-11-20
 ---
 ## Summary:
 
