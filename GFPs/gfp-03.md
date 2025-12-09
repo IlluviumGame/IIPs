@@ -1,5 +1,5 @@
 ---
-GFP-3: 76
+GFP-3: 3
 title: Illuvial Collection Tree
 status: Pending
 Sponsor: Nasty 
