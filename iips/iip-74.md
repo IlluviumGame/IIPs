@@ -1,8 +1,10 @@
 ---
 IIP: 74
 Title: Refund for Unused Fuel Purchased Below Minimum Rail
+Status: Implemented
 Sponsor: Kieran Warwick
-discussions-to: https://discord.com/channels/760344898200666112/1353554628830302210
+Discussions-to: https://discord.com/channels/760344898200666112/1353554628830302210
+Created: 2025-03-25
 ---
 
 ## Abstract:
