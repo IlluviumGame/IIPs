@@ -5,9 +5,10 @@ status: Implemented
 author: Perry
 Reviewers: Rogier/Jeremy
 created: 2025-10-24
+---
+
 Blackout Period Start: 28/11/24
 Blackout Period End: 30 minutes after communication of emergency proposal
----
 
 ## Abstract
 This proposal outlines fundamental updates to the working of the Fuel Exchange and therefore the core economic loop of Illuvium. These changes are designed to provide long term stability and ease of onboarding new players.
