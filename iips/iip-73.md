@@ -1,8 +1,10 @@
 ---
 iip: 73
 title: Improving Free-to-Play Gameplay and Ownership Value of potentially all Illuvium-NFTs
+status: Rejected
 sponsor: Viper
 Discussion to: https://discord.com/channels/760344898200666112/1326225004358144083
+created: 2025-01-21
 ---
 
 ## Overview:
