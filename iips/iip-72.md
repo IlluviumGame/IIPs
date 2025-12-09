@@ -38,9 +38,6 @@ Games perceived as P2W often face significant backlash from players and the pres
 A system that avoids P2W pitfalls and instead emphasizes rewarding skill and participation enhances Gauntlet's reputation. 
 This can lead to better community sentiment and long-term growth, particularly in the competitive gaming space.
 
-### re Points 5. and 6.
-A Ownership rewarding system could via Seasons or similar be used to incorporate other Assets outside of Illuvials in a for the DAO meaningful way.
-
 ### 5. Utility and Liquidity for Owned Assets:
 Allowing owned assets such as Cosmetics, Promotional NFTs, Land, Illuvitars, and Weapons/Suits to influence reward eligibility (without impacting gameplay) provides utility for these assets. 
 This increases their perceived value and liquidity, benefiting both players and the ecosystem. 
