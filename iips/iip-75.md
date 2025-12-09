@@ -1,9 +1,11 @@
+---
 iip: 75
-title: Illuvial Collection System
-status: Pending
+Title: Illuvial Collection System
+Status: Rejected
 Sponsor: Patate 
 Key Contributors: Community Council
-discussions-to: [https://discord.com/channels/760344898200666112/1428076942627835996](https://discord.com/channels/760344898200666112/1430992244290355314)
+Discussions-to: [https://discord.com/channels/760344898200666112/1428076942627835996](https://discord.com/channels/760344898200666112/1430992244290355314)
+Created: 2025-11-20
 ---
 ## Simple Summary:
 
