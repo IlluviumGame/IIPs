@@ -1,10 +1,11 @@
 ---
 iip: 64
 title: Fair Disclosures for Land
-status: Proposed
+status: Rejected
 sponsor: relaxitshandled
 key contributors: Scoriox, Dr.Spoon, Mozeen, VP, Torrex, Missionpoole (JP)
 discussions-to: https://discord.com/channels/760344898200666112/1269017271079272569
+created: 2024-08-10
 ---
 
 ## Objectives:
