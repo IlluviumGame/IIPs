@@ -1,10 +1,11 @@
 ---
 iip: 63
 title: Dynamic Survival Mode
-status: Proposed
+status: Rejected
 sponsor: Caveman
 key contributor: Kieran | Illuvium
 discussions-to: https://discord.com/channels/760344898200666112/1267866392057872466
+created: 2024-08-01
 ---
 
 ## Abstract:
