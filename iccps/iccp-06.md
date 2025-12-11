@@ -2,7 +2,8 @@
 iccp: 6
 title: Illuvitar and Land Royalties
 status: Implemented
-author: Josh.ETH/b0tch
+author: Josh.ETH
+key contributor: b0tch
 discussions-to: https://discord.gg/illuvium
 created: 2023-04-25
 updated: N/A
