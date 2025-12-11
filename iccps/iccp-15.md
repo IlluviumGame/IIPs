@@ -1,6 +1,6 @@
 ---
 iccp: 15
-title: VoNC changes
+title: Vote of No Confidence (VoNC) Changes 
 status: Implemented
 author: Scrubadubdad#0001
 discussions-to: https://discord.gg/illuvium
