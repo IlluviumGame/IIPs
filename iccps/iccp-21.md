@@ -5,7 +5,7 @@ status: Implemented
 author: Filo
 core contributor: Rich | Illuvium
 discussions-to: https://discord.gg/illuvium
-created: 18 November 2024
+created: 2024-11-18
 ---
 
 ## Simple Summary
