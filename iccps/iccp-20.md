@@ -2,7 +2,7 @@
 iccp: 20
 title: Update to IIP-59 Illuvium Alliance Program
 status: Revisions Needed
-author: Nicholas | Illuvium
+sponsor: Nicholas | Illuvium
 key contributors: None
 discussions-to: https://discord.com/channels/760344898200666112/1273699233232457788
 created: 2024-08-24
