@@ -2,7 +2,7 @@
 iip: 38
 title: Free Market Fuel with Autonomous Supply Balancing
 status: Withdrawn
-author: Nijafe
+sponsor: Nijafe
 discussions-to: https://discord.gg/illuvium
 created: 2023-08-20
 ---
