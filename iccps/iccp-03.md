@@ -1,6 +1,6 @@
 ---
 iccp: 3
-title: Defining Vault Revenue and Distribution for Future DAO Prouct Directions
+title: Defining Vault Revenue and Distribution for Future DAO Product Directions
 status: Implemented
 author: Deraji (Deraji#0798)
 discussions-to: https://discord.gg/illuvium
