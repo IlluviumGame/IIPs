@@ -18,23 +18,23 @@ Fuel plays a pivotal role in the thriving Illuvium ecosystem, and this proposal 
 
 ## Overview
 
-# Fuel Economy
+### Fuel Economy
 - In the Illuvium Zero ecosystem, three types of ERC20 Fuels (Crypton, Solon, and Hyperion) will operate independently, each serving different in-game actions, with some actions allowing any Fuel type to be used.
 - NFT land owners will receive a 5% share of all in-game purchases (excluding transactions involving sILV2).
 - When possible, in-game purchases will be priced in Fuel.
 - For purchases not priced in Fuel, 5% of the total amount will still be distributed to land ownersthrough alternative means.
-# Fuel Supply
+### Fuel Supply
 - Fuel production solely occurs when players engage with Illuvium Zero using NFT land.
 - The supply of Fuel is unlimited, allowing players to continually participate in the in-game economy.
 - However, each time Fuel is used for in-game purchases, it is effectively burned, maintaining a balance between supply and demand.
 
-#Buying and Selling Fuel
+### Buying and Selling Fuel
 - An order book system facilitates the buying and selling of Fuel.
 - Players can either sell Fuel at the prevailing "Market" value or set a specific price using a "Limit" order.
 - Whenever any type of Fuel is sold, the DAO will mint 19x the Fuel amount, combining the Fuel from the land owner and DAO to be transferred to the purchaser.
 With this enhanced framework, Illuvium Zero can thrive as a vibrant and sustainable gaming ecosystem. The independent functionality of each Fuel type, coupled with the fair distribution of revenue to NFT land owners, ensures a balanced and dynamic in-game economy. Additionally, the flexible approach to pricing in Fuel or alternative means allows for smooth and transparent transactions, contributing to an enjoyable gaming experience for all participants.
 
-# Price Stabilization Mechanism for Fuel Production
+### Price Stabilization Mechanism for Fuel Production
 To perpetuate price stability and prevent fluctuations of magnitude, we propose a predictable and decentralized approach for adjusting Fuel production based on demand, significantly reducing the need for rails:
 - In-game purchases will be priced in units of Fuel
 - Supply Adjustments: Production of each Fuel type is adjusted in direct correlation with the change in demand from the previous month. If the demand changed X% for that month, fuel production adjusts to (X/2)% for the following month.
