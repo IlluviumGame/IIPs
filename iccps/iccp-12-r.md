@@ -2,7 +2,7 @@
 iccp: 12-R
 title: Illuvitars Wave 2 Sale Parameters
 status: Implemented
-author: Blickter
+sponsor: Blickter
 discussions-to: https://discord.gg/illuvium
 created: 2023-07-25
 ---
