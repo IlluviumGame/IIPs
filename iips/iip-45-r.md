@@ -2,7 +2,7 @@
 iip: 45-R
 title: Land Revenue Share
 status: Implemented
-author: Nijafe
+sponsor: Nijafe
 discussions-to: https://discord.gg/illuvium
 created: 2024-02-20
 ---
