@@ -1,9 +1,10 @@
 ---
 iccp: 17
 title: Amendment to IIP-45-R - Land Revenue Share Distribution Method
-status: Proposed
+status: Implemented
 sponsor: Kieran | Illuvium
 discussions-to: https://discord.com/channels/760344898200666112/1265601592476831787
+created: 2024-07-31
 ---
 
 ## Simple Summary:
