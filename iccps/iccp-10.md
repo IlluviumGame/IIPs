@@ -2,7 +2,7 @@
 iccp: 10
 title: Proposal Process Optimization
 status: Implemented
-author: Caveman | Polemos#0001
+sponsor: Caveman | Polemos#0001
 discussions-to: https://discord.gg/illuvium
 created: 2023-06-24
 updated: 2023-07-03
