@@ -2,7 +2,7 @@
 iccp: 22
 title: Safety Pool Threshold Increase from $5M to $10M
 status: Implemented
-author/sponsor: Josh.eth
+author: Josh.eth
 key contributors: Filo
 discussions-to: https://discord.com/channels/760344898200666112/1409449243353026696
 created: 2025-11-04
