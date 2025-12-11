@@ -2,7 +2,7 @@
 iccp: 19
 title: Airdrop Points Revision
 status: Implemented
-author: Paz
+sponsor: Paz
 contributors: Animositas, Blickter, Viper
 discussions-to: https://discord.com/channels/760344898200666112/1268323065167872183
 created: 2024-08-07
