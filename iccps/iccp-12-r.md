@@ -7,19 +7,24 @@ discussions-to: https://discord.gg/illuvium
 created: 2023-07-25
 ---
 
-Simple Summary
+## Simple Summary
 
 This proposal adjusts the pricing, tier weights and Alpha sale duration for Illuvium: Beyond. It will also introduce in-game unlocks and monthly raffles as added benefits to Beyond collectors.
-Abstract
+
+##Abstract
 
 Multiple changes are outlined, all with the intent to position Illuvium: Beyond as a product that is accessible to everyone, while retaining the ability for players with more spending power to differentiate themselves. Changes include a 24-hour Alpha sale with unlimited minting, increased drop rates for specific tiers, in-game unlocks and exclusive bonuses, monthly raffles, and revised pricing. Many modifications and additions are discussed in this proposal, rationale will be provided alongside each item to improve clarity.
-Overview
+
+## Overview
 
 This proposal aims to enhance the sale mechanics, pricing, and drop rates of Illuvitars D1SKS in Illuvium: Beyond. The recommended launch date for Illuvium Wave 2 is August 15, 2023.
-Sale Mechanics
-Tier Weight Adjustments
+
+### Sale Mechanics
+
+#### Tier Weight Adjustments
 
 To provide a more diverse D1SK opening experience, tier weights for tier 1 will be decreased, while tiers 2-5 will be increased. This adjustment increases the variety of Illuvitar portraits that an average player will reveal, with the intent of mitigating the negative experience of pulling the same low Tier portraits too frequently. Tier weights do need to vary slightly from Wave to Wave to account for the quantity of Illuvials of a given Tier and Stage in the Wave. These weighting adjustments will be communicated prior to each Wave. The proposed baseline weighting will be applied to background weightings and accessory weightings. This change reduces the complexity of the product by having a standardized set of odds across parameters, and provides more diverse outcomes for all elements of D1SK opening.
+
 Wave 1 Weighting		Proposed Baseline Weighting	
 Tier	Weight	Tier	Weight
 1	66.90%	1	55.70%
@@ -28,19 +33,24 @@ Tier	Weight	Tier	Weight
 4	1.60%	4	2.80%
 5	0.40%	5	0.50%
 	100%		100%
-Alpha Sale
+
+### Alpha Sale
 
 The Alpha Sale will be a 24 hour event at the start of Waves, with an unlimited supply of Alpha D1SKS. Alpha D1SKS remain a luxury item with no additional power in the Beyond Album, but are priced more moderately than in Wave 1, with a shorter sales window to ensure that anyone who wants to participate in launch events can do so. A shorter Alpha window also means that Marketing efforts can be primarily focused on the start of the Wave.
-Mega-D1SK Power Threshold
+
+### Mega-D1SK Power Threshold
 
 The modification to tier weights alters the outcomes of a 1250 Mega D1SK power threshold, and increases the relative value of Standard D1SKS. To account for these changes, this proposal increases the Mega D1SK power threshold to 1450, which will ensure that the guaranteed power Illuvitar remains a competitive and compelling option for collectors.
-In-game Unlocks
+
+### In-game Unlocks
 
 To incentivise collection completion, we introduce in-game unlocks during Wave 2. These soul-bound bonuses exclusively enhance players' accounts, encouraging them to complete collections and display their achievements within the Illuvium universe. These soulbound bonuses provide incentive to complete more granular collections, and provide a collection experience that will resonate with gamers.
-Monthly Raffles
+
+### Monthly Raffles
 
 As community events, we will hold monthly raffles accessible to players, fostering excitement and camaraderie within the Illuvium community. These raffles will be conducted three times during the wave, creating additional engagement opportunities.
-Pricing
+
+### Pricing
 
 A price reduction will be applied to Standard and Mega D1SKS, plus an additional reduction to Alpha D1SKS. The reduction of Extended Run D1SK prices is intended to create price points that are more familiar to gamers, and combined with changes to D1SK odds provide a meaningful opportunity to put together smaller collections.
 
@@ -52,10 +62,12 @@ Standard	0.003	6
 Mega	0.018	36
 Alpha Standard	0.006	12
 Alpha Mega	0.054	108
-Marketing D1SKS
+
+### Marketing D1SKS
 
 5000 Standard D1SKS and 1000 Mega D1SKS will be minted to be used for marketing of Wave 2, and for future events and promotions.
-Rationale
+
+## Rationale
 
 This proposal aims to position Illuvium: Beyond as a product that will hold relevance for everyone engaging in the Illuvium ecosystem. Soulbound collection elements provide gamers with a tangible reason to engage with Beyond.
 
