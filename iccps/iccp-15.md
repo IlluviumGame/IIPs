@@ -1,7 +1,7 @@
 ---
 iccp: 15
 title: VoNC changes
-status: Pending
+status: Implemented
 author: Scrubadubdad#0001
 discussions-to: https://discord.gg/illuvium
 created: 2023-11-04
