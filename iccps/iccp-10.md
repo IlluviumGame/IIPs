@@ -16,7 +16,9 @@ To expedite and clarify the progression of IIPs and ICCPs through the various co
 
 This ICCP proposes a "sponsor" system within the governance structure. Sponsors, often the proposal authors, maintain the proposal's original intent throughout council discussions and amendments. They retain veto rights over the submitted versions following Specialized council review if the proposal deviates significantly from its original intention. This proposal also establishes clear timelines for each step and introduces a mechanism for the Community Sub-Council to select the Specialized Sub-Council for each proposal. 
 
-## Overview - Governance Structure Changes
+## Overview
+
+### Governance Structure Changes
 
 1.) Each IIP and ICCP will have a designated “sponsor” who is responsible for maintaining the proposal's original intent.Noted at the bottom of the proposal as shown on this document. A council can draft a proposal together, but there must be one sponsor that has final say. 
 
