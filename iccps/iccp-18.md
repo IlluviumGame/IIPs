@@ -2,8 +2,8 @@
 iccp: 18
 title: Threshold Changes to IIP-22 Revenue Distribution
 status: Implemented
-sponsor: ScrubaDubDad
-Key Contributor: Kieran | Illuvium
+author: ScrubaDubDad
+key contributor: Kieran | Illuvium
 discussions-to: https://discord.com/channels/760344898200666112/1267722315488301086
 created: 2024-08-01
 ---
