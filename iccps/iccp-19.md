@@ -2,8 +2,10 @@
 iccp: 19
 title: Airdrop Points Revision
 sponsor: Paz
-contributors: Ani, Blickter, Viper
+contributors: Animositas, Blickter, Viper
+status: Implemented
 discussions-to: https://discord.com/channels/760344898200666112/1268323065167872183
+created: 2024-08-07
 ---
 
 ## Simple Summary:
