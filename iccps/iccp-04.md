@@ -3,6 +3,7 @@ iccp: 4
 title: Divert Revenue from the Illuvitar Sale to the Safety Pool
 status: Implemented
 author: Scoriox (Scoriox#2720)
+key contributor: Josh.ETH
 discussions-to: https://discord.gg/illuvium
 created: Unknown
 updated: 2023-02-01
