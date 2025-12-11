@@ -1,8 +1,8 @@
 ---
 iccp: 21
-title: ICCP-XX Illuvium Beyond Wave 3 and Future Waves - USD Peg, Pricing Update, and Enhanced Rewards Points System
-status: Approved
-author: Filow
+title: Illuvium Beyond Wave 3 and Future Waves - USD Peg, Pricing Update, and Enhanced Rewards Points System
+status: Implemented
+author: Filo
 core contributor: Rich | Illuvium
 discussions-to: https://discord.gg/illuvium
 created: 18 November 2024
