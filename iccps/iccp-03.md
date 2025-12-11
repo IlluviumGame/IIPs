@@ -1,7 +1,7 @@
 ---
-iccp: 2
+iccp: 3
 title: Defining Vault Revenue and Distribution for Future DAO Prouct Directions
-status: Pending
+status: Implemented
 author: Deraji (Deraji#0798)
 discussions-to: https://discord.gg/illuvium
 created: 2023-01-20
