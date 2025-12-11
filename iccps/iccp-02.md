@@ -1,7 +1,7 @@
 ---
 iccp: 2
 title: Reduce Council pay by 25%
-status: Pending
+status: Implemented
 author: b0tch b0tch#5460
 discussions-to: https://discord.com/channels/760344898200666112/1055598550131679232
 created: 2022-01-03
