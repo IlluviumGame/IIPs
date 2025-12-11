@@ -2,7 +2,7 @@
 iccp: 16
 title: Adjustment to Committee Structure
 status: Implemented
-sponsor: Blickter
+author: Blickter
 discussions-to: https://discord.gg/illuvium
 created: 2023-11-13
 ---
