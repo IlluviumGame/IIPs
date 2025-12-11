@@ -2,7 +2,7 @@
 iccp: 11
 title: Proposal for Visually Distinct Alpha Stamp for Wave 1 Alpha Illuvitars
 status: Implemented
-author: observableuniverse (.observableuniverse)
+sponsor: observableuniverse (.observableuniverse)
 discussions-to: https://discord.gg/illuvium
 created: 2023-06-27
 ---
