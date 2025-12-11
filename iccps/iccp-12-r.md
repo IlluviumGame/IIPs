@@ -11,7 +11,7 @@ created: 2023-07-25
 
 This proposal adjusts the pricing, tier weights and Alpha sale duration for Illuvium: Beyond. It will also introduce in-game unlocks and monthly raffles as added benefits to Beyond collectors.
 
-##Abstract
+## Abstract
 
 Multiple changes are outlined, all with the intent to position Illuvium: Beyond as a product that is accessible to everyone, while retaining the ability for players with more spending power to differentiate themselves. Changes include a 24-hour Alpha sale with unlimited minting, increased drop rates for specific tiers, in-game unlocks and exclusive bonuses, monthly raffles, and revised pricing. Many modifications and additions are discussed in this proposal, rationale will be provided alongside each item to improve clarity.
 
