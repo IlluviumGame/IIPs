@@ -33,9 +33,7 @@ It's strongly recommended for all council levels to liaise with the sponsor thro
 Approved
 Rejected
 Revisions Needed
-If the IMC majority votes “Rejected”, the proposal will be considered Rejected. If members vote “pending amendments” they must also provide suggested changes in the reasoning field within the snapshot. The proposal will go back to the Specialized council for possible amending. The specialized council can decide to reject it at this phase or re-submit back to the sponsor with edits. The IMC can send it back for edits 3 times cumulatively then it is considered rejected.  
-
-Tiebreakers will always flow back to be revised if there are edits remaining.
+If the IMC majority votes “Rejected”, the proposal will be considered Rejected. If members vote “pending amendments” they must also provide suggested changes in the reasoning field within the snapshot. The proposal will go back to the Specialized council for possible amending. The specialized council can decide to reject it at this phase or re-submit back to the sponsor with edits. The IMC can send it back for edits 3 times cumulatively then it is considered rejected. Tiebreakers will always flow back to be revised if there are edits remaining.
 
 5.) Timelines: In an effort to make the proposal process more clear to the DAO, timelines will be established for each stage. Snapshot votes should start promptly when the prior stage is concluded: 
 Governance Forum Stage: 14 days to gather 25 Upvotes
