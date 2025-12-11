@@ -7,7 +7,7 @@ discussions-to: https://discord.gg/illuvium
 created: 2023-08-20
 ---
 
-## Simple Summary:
+## Simple Summary
 Fuel plays a pivotal role in the thriving Illuvium ecosystem, and this proposal aims to provide a detailed insight into its various aspects:
   
 - Fuel Tokenomics: Attributes of ERC20 Fuel tokens (Crypton, Solon, Hyperion).
