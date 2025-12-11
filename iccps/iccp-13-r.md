@@ -2,7 +2,7 @@
 iccp: 13-R
 title: Trading Blackout Enhancements
 status: Implemented
-author: Jimberino (Jimberino#2018)
+sponsor: Jimberino (Jimberino#2018)
 discussions-to: https://discord.gg/illuvium
 created: 2023-10-10
 ---
