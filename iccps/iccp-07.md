@@ -1,7 +1,7 @@
 ---
 iccp: 7
 title: Weighted Voting for Epoch Elections
-status: Pending
+status: Implemented
 author: Scoriox [WF] [YT] (Scoriox#2720)
 discussions-to: https://discord.gg/illuvium
 created: 2023-05-03
