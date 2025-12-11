@@ -2,7 +2,7 @@
 iip: 40
 title: Exclusive Illuvium Zero Battle Board Rewards
 status: Rejected
-author: Splendor - Phantom (splendor6471)
+sponsor: Splendor - Phantom (splendor6471)
 discussions-to: https://discord.gg/illuvium
 created: 2023-09-12
 ---
