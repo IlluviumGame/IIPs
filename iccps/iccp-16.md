@@ -1,18 +1,21 @@
 ---
 iccp: 16
 title: Adjustment to Committee Structure
-status: Implemneted
+status: Implemented
 sponsor: Blickter
 discussions-to: https://discord.gg/illuvium
 created: 2023-11-13
 ---
 
-## Current Committee Structure:
+##Overview
+
+### Current Committee Structure:
 * Committees with a maximum of 3 advisors.
-## Proposed Change:
+### Proposed Change:
 * Each committee will seat up to 5 advisors.
-## Additional Change:
+### Additional Change:
 * Allow for the replacement, addition or removal of committee members mid-epoch at the discretion of the IMC.
+  
 ## Rationale:
 * Broader expertise and diverse perspectives.
 * Avoid artificial exclusion of valuable advisors.
