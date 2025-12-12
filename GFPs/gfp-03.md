@@ -3,7 +3,7 @@ gfp: 3
 title: Illuvial Collection Tree
 status: Approved
 Sponsor: Nasty 
-Key Contributors: Nasty, Community Council
+Key Contributors: Patate, Nijafe, Tholky, Linkky, missionpoole
 discussions-to: https://discord.com/channels/760344898200666112/1436815138639446126
 created: 2025-12-09
 ---
