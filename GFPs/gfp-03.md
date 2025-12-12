@@ -1,10 +1,11 @@
 ---
-GFP-3: 3
+GFP: 3
 title: Illuvial Collection Tree
-status: Pending
+status: Approved
 Sponsor: Nasty 
 Key Contributors: Nasty, Community Council
 discussions-to: https://discord.com/channels/760344898200666112/1436815138639446126
+created: 2025-12-09
 ---
 ## Summary:
 
