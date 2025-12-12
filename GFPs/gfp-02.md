@@ -1,11 +1,11 @@
 ---
-GFP: 2
+gfp: 2
 title: Enable Beyond Disk Fragments in Overworld
-status: Pending
+status: Approved
 Sponsor: Alexa
-Key contributors: Filow, Garf
+Key contributors: Filo, Garf
 discussions-to: https://discord.gg/illuvium
-created: 15 September 2024
+created: 2024-09-15
 ---
 
 ### Simple Summary
