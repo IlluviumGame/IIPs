@@ -3,7 +3,7 @@ IIP: 75
 Title: Illuvial Collection System
 Status: Rejected
 Sponsor: Patate 
-Key Contributors: Community Council
+Key Contributors: Linkky, Nijafe, Tholky, missionpoole
 Discussions-to: https://discord.com/channels/760344898200666112/1430992244290355314
 Created: 2025-11-20
 ---
