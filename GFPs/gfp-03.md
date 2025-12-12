@@ -1,5 +1,5 @@
 ---
-GFP: 3
+gfp: 3
 title: Illuvial Collection Tree
 status: Approved
 Sponsor: Nasty 
