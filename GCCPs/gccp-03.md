@@ -1,8 +1,10 @@
 ---
 gccp: 3
 title: Temporary Re-Allocation of Council Payment Funds to Community Streamers
+status: Rejected
 author: Quants
 discussions-to: https://discord.com/channels/760344898200666112/1336095874832531587
+created: 2025-02-12
 ---
 
 ## Summary
