@@ -1,11 +1,11 @@
 ---
 Gccp: 4
 title: Reduce Council Salary & Restore IMC structure
-status: Pending
+status: Implemented
 Sponsor: Jaganite
 Key Contributors: Rickytan77, Garf, Scoriox, Paz
 discussions-to: https://discord.gg/illuvium
-created: 21 April 2025
+created: 2025-04-21
 ---
 
 ## Simple Summary
