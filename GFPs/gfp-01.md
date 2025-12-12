@@ -1,10 +1,11 @@
 ---
-gfp: 01
+gfp: 1
 title: Training Grounds, Illuvial Staking and TrainingDex
-status: Proposed
+status: Approved
 sponsor: Dr.Spoon
-key-contributors: Filow, Scoriox, MegaRatty, HappyBallz
+key-contributors: Filo, Scoriox, MegaRatty, HappyBallz
 discussions-to: https://discord.com/channels/760344898200666112/1265287128095395861
+created: 2024-07-30
 ---
 
 ## Simple Summary:
