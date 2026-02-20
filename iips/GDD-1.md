@@ -1,11 +1,11 @@
-GDD: 1
+GDD: 01
 title: Illuvium: DEATHMATCH
 status: Pending
 Sponsor: Nill
 Key Contributors: Illuvium Team
 discussions-to: https://discord.com/channels/760344898200666112/1470904125649584340
 ---
-## Game Overview:
+## 1. Game Overview:
 
 **1.1 Title**
 Illuvium: Deathmatch 
@@ -28,7 +28,7 @@ Risk to Earn mechanic combined with Illuvium’s IP (Illuvials, Regions and Web3
 **1.6 Expansion Potential**
 While this MVP delivers a gambling-first experience, it lays the foundation for future game modes that will enhance the traditional gaming side of the experience. The user experience has been designed to be simple, making the game accessible to a broad spectrum of players. If the MVP proves successful, we plan to introduce a game mode that expands in-fight possibilities, allowing players to command and boost their Illuvials during combat.
 
-## Gameplay & Mechanics:
+## 2. Gameplay & Mechanics:
 
 **2.1 Core Elements / Glossary**
 
@@ -232,7 +232,7 @@ In every Combat Dome, the system will monitor which were the 3 challengers that 
 When a challenger delivers the killing blow to an enemy, they will instantly heal 10% of their maximum HP as a reward. This encourages an aggressive playstyle, rather than focusing solely on survival or defensive strategies.
 
 
-## Monetization & Rewards:
+## 3. Monetization & Rewards:
 
 **3.1 Economic Allocation**
 
@@ -261,7 +261,7 @@ The following tables displays Top 10 Survivors Rewards:
 <img width="612" height="248" alt="Screenshot 2026-02-20 at 11 23 56 AM" src="https://github.com/user-attachments/assets/84dd9008-bd3c-45c1-9cef-7520ed71b013" />
 
 
-## Combat Technical Specification:
+## 4. Combat Technical Specification:
 
 **4.1 Combat Overview**
 
@@ -349,7 +349,7 @@ Upon death:
 	-It is flagged for permadeath/spare resolution after the Final.
 
 
-## Social & Marketing Approach:
+## 5. Social & Marketing Approach:
 
 X integration provides targeted incentives for high-impact social accounts to enter Deathmatch and play high-stakes modes early.
 
