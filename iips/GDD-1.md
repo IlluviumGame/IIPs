@@ -118,9 +118,13 @@ Here’s how every game modality breaks down combat domes:
 
 
 Skirmish: 10 - 100 players → **1 Combat Dome.**
+
 Carnage / Conquest: 10 - 1.000 players → **From 1 to 10 Combat Domes.**
+
 Leviathan: 10 - 10.000 players → **From 1 to 100 Combat Domes.**
+
 What happens when player number is not ideal? 
+
 Different behaviours based on the number of players: 
 
 **10 - 100 players** → 1 Phase
@@ -173,7 +177,7 @@ d) The Reveal Phase discloses:
 **2.6 Four-Reel Slot Machine - Combat Boosters**
 In the loadout phase, players get to play with a Slot Machine to acquire Combat Boosters for their Challengers.
 
-**Slot Machine Rules : **
+**Slot Machine Rules :**
   1) Has 4 reels.
   2) First Reel: Attack Bonuses.
   3) Second Reel: Defense Bonuses.
@@ -230,13 +234,178 @@ When a challenger delivers the killing blow to an enemy, they will instantly hea
 
 ## Monetization & Rewards:
 
+**3.1 Economic Allocation**
+
+The table below shows how revenue is allocated across Carnage, Conquest, and Leviathan modes:
+
+<img width="605" height="107" alt="Screenshot 2026-02-20 at 11 23 11 AM" src="https://github.com/user-attachments/assets/8e7c7e39-804c-4417-8a8d-f862ad354ce1" />
+
+
+→ Skirmish mode: All revenue collected from this mode goes to the DAO.
+
+**3.2 Jackpot**
+Jackpot is accrued throughout all game modes. 
+
+Only by being the winner of a match in a specific mode makes you eligible to win the jackpot.
+
+The Jackpot grows each game, based on a % of the total fees collected. 
+
+Please refer to section 2.2 to see the odds of hitting the jackpot in each game mode.
+
+**3.3 Top Survivors **
+
+Top Survivors are those who lasted the longest alive.They share the Prize Pool Rewards.
+
+The following tables displays Top 10 Survivors Rewards:
+
+<img width="612" height="248" alt="Screenshot 2026-02-20 at 11 23 56 AM" src="https://github.com/user-attachments/assets/84dd9008-bd3c-45c1-9cef-7520ed71b013" />
 
 
 ## Combat Technical Specification:
 
+**4.1 Combat Overview**
 
+Deathmatch uses autonomous Illuvial combat identical to what occurs in Illuvium Overworld encounters. Illuvials move freely, acquire targets in real time, navigate using Overworld navmesh, and use their standard basic attacks and Omegas until the match ends. Players do not control Illuvials at any point.
+
+**4.2 Arena Layout**
+
+All Deathmatch battles occur inside the Overworld, using a dedicated subsection of one of the flattest Overworld regions. This subsection is:
+	-Fully navigable with Overworld pathfinding.
+	-Open and readable for large-scale combat.
+	-Circular in layout to support the Dome.
+	-Cleared of unnecessary environmental clutter.
+	-Tuned for performance at 100 Illuvials per instance.
+	
+Although it exists inside the Overworld, it functions as a standalone combat arena with fixed boundaries and rules.
+
+**4.3 Deployment Area Logic**
+
+At match start:
+	-All Illuvials spawn simultaneously.
+	-No overlapping spawn positions.
+	-Challengers face inward toward the centre.
+
+**4.4 Behaviour & Targeting**
+
+**Aggro Detection**
+
+Illuvials autonomously:
+	-Detect enemies within a fixed aggro radius.
+	-Acquire the nearest visible target.
+	-Switch targets if the current target dies or becomes unreachable.
+
+**Movement**
+
+Illuvials use Overworld navigation to:
+	-Move freely across the terrain.
+	-Path around rocks, ridges, or other geometry.
+	-Stay inside the Dome whenever possible.
+	-Reposition naturally during combat.
+
+**Combat Actions**
+
+Illuvials:
+	-Use their default Overworld basic attacks.
+	-Trigger Omegas when energy or cooldown conditions are met.
+	-Apply normal Illuvial stats (health, damage, resistances, etc.).
+	-Continue fighting until death or match end.
+	
+No item pickups, boosts, or personality variations exist in MVP.
+
+**4.5 Dome Mechanics & Ergon Damage**
+
+The Dome governs match pacing:
+	-Starts fully expanded around the arena.
+	-Shrinks inward over time.
+	-Forces Illuvials toward the centre.
+	-Being outside the Dome Boundaries applies Ergon Damage.
+	-Ergon Damage deals % Max HP damage per second and ignores defensive stats.
+	
+This guarantees that matches resolve quickly and consistently.
+
+**4.6 Match Duration**
+
+Maximum duration for each match instance: **5 minutes**
+
+To enforce this:
+	-Dome shrink speed guarantees collapse within 5 minutes.
+	-Ergon Damage becomes lethal quickly in late phases.
+	-Illuvials are forced into tight proximity at endgame.
+	
+No match can end in a draw.
+
+**4.7 Killing Rules**
+
+To encourage aggressive gameplay and balance the surviving advantage of tanky or healing Illuvials, challengers will instantly recover 10% of its maximum HP upon delivering a killing blow.
+
+**4.8 Death Rules**
+
+An Illuvial dies when:
+	-Health reaches 0 from combat.
+	-Hazard DOT from leaving the Dome reaches 0 health.
+	
+Upon death:
+	-It immediately despawns.
+	-It is flagged for permadeath/spare resolution after the Final.
 
 
 ## Social & Marketing Approach:
 
+X integration provides targeted incentives for high-impact social accounts to enter Deathmatch and play high-stakes modes early.
+
+**5.1 First Contact**
+
+Players coming from within the ecosystem already own Illuvials and are familiar with the game format. In contrast, new entrants from outside the Illuvium ecosystem may not own any Illuvials at all, which creates a barrier to participation.
+
+To smooth onboarding, new players would receive one free ADR run (valued at $0.99) alongside their first Entry Fee purchase. This ensures they are immediately equipped with the minimum Illuvial assets required to play.
+
+With this grant, players would be able to participate in at least eight matches, giving them enough exposure to understand the gameplay, risk, and reward loop. After that point, they can make an informed decision on whether to:
+	-Purchase additional ADR runs, or
+	-Acquire Illuvials directly from the marketplace.
+
+This approach lowers initial friction while preserving meaningful engagement and monetization pathways.
+
+**5.2 Social Rank Tiers**
+
+When a player connects their X account, a separate service evaluates their social metrics and assigns a Social Rank tier:
+	-S Tier: score 80–100
+	-A Tier: score 50–80
+	-B Tier: score 20–50
+	-Players below 20 receive no rank-based free entries or Illuvitars.
+	
+The scoring algorithm can be implemented in a separate service; the game only consumes the final tier (S, A, B, or none).
+
+**5.3 Free Entries from X Onboarding**
+
+Based on Social Rank, players receive one-time free entries:
+
+
+<img width="633" height="261" alt="Screenshot 2026-02-20 at 11 32 21 AM" src="https://github.com/user-attachments/assets/5c758e1b-6140-4749-baa3-86ce4d2f3474" />
+
+
+These are in addition to any Battlepass free entries.
+
+**5.4 Illuvitar Rewards**
+
+Players with a Social Rank Tier also receive one exclusive Illuvitar. Selection is constrained by tier.
+
+**S Tier selection (choose one):**
+	-Rhamphyre.
+	-Ophisto.
+	-Goliant.
+	
+**A Tier selection (choose one):**
+	-Rake.
+	-Singe.
+	-Phyriox.
+	
+**B Tier selection (choose one):**
+	-Archos.
+	-Kukkulous.
+	-Axon.
+	
+Illuvitars are:
+	-Cosmetic.
+	-Tradable NFTs.
+	-Usable as Deathmatch profile avatars.
 
